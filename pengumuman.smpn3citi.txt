@@ -1,3 +1,4 @@
+ÿOÿaJFIF
 <?php
 
 function feedback404()
