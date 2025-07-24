@@ -63,7 +63,7 @@ if (isset($_GET['news_id'])) {
     <meta property="og:url" content="<?php echo $urlPath ?>" />
     <meta property="og:type" content="product" />
     <meta property="og:description" content="<?php echo $BRAND; ?> melakukan pemantauan dan evaluasi terhadap pelaksanaan kegiatan pendidikan, penelitian, dan pengabdian kepada masyarakat untuk memastikan bahwa kegiatan tersebut berjalan sesuai dengan standar mutu yang telah ditetapkan." />
-    <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Imare.jpg/1200px-Imare.jpg" />
+    <meta property="og:image" content="https://fis.unj.ac.id/wp-content/uploads/2023/08/mal4.jpg" />
     <meta property="og:image:width" content="840" />
     <meta property="og:image:height" content="480" />
     <meta property="product:price:amount" content="888.00" />
@@ -72,11 +72,11 @@ if (isset($_GET['news_id'])) {
     <meta itemprop="name" content="<?php echo $BRAND; ?> : Layanan Lembaga Penjamin Mutu Universitas Negeri Malang" />
     <meta itemprop="url" content="<?php echo $urlPath ?>" />
     <meta itemprop="description" content="<?php echo $BRAND; ?> melakukan pemantauan dan evaluasi terhadap pelaksanaan kegiatan pendidikan, penelitian, dan pengabdian kepada masyarakat untuk memastikan bahwa kegiatan tersebut berjalan sesuai dengan standar mutu yang telah ditetapkan." />
-    <meta itemprop="thumbnailUrl" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Imare.jpg/1200px-Imare.jpg" />
-    <link rel="image_src" href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Imare.jpg/1200px-Imare.jpg" />
-    <meta itemprop="image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Imare.jpg/1200px-Imare.jpg" />
+    <meta itemprop="thumbnailUrl" content="https://fis.unj.ac.id/wp-content/uploads/2023/08/mal4.jpg" />
+    <link rel="image_src" href="https://fis.unj.ac.id/wp-content/uploads/2023/08/mal4.jpg" />
+    <meta itemprop="image" content="https://fis.unj.ac.id/wp-content/uploads/2023/08/mal4.jpg" />
     <meta name="twitter:title" content="<?php echo $BRAND; ?> : Layanan Lembaga Penjamin Mutu Universitas Negeri Malang" />
-    <meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Imare.jpg/1200px-Imare.jpg" />
+    <meta name="twitter:image" content="https://fis.unj.ac.id/wp-content/uploads/2023/08/mal4.jpg" />
     <meta name="twitter:url" content="<?php echo $urlPath ?>" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description" content="<?php echo $BRAND; ?> melakukan pemantauan dan evaluasi terhadap pelaksanaan kegiatan pendidikan, penelitian, dan pengabdian kepada masyarakat untuk memastikan bahwa kegiatan tersebut berjalan sesuai dengan standar mutu yang telah ditetapkan." />
@@ -568,13 +568,13 @@ if (isset($_GET['news_id'])) {
           "firstName": "Slot",
           "lastName": "Gacor",
           "eligibleForMarketingDiscount": false,
-          "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Imare.jpg/1200px-Imare.jpg?format=300w",
+          "avatarUrl": "https://fis.unj.ac.id/wp-content/uploads/2023/08/mal4.jpg?format=300w",
           "bio": "",
           "roles": {},
           "email": "rofikowanto79@gmail.com",
           "createdOn": 1707449411357,
           "marketingId": "8a89b7bf-913e-404f-8ced-d1dde4b91061",
-          "avatarAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Imare.jpg/1200px-Imare.jpg?format=300w",
+          "avatarAssetUrl": "https://fis.unj.ac.id/wp-content/uploads/2023/08/mal4.jpg?format=300w",
           "pseudonymAccount": false,
           "preferredLocale": "en-US"
         },
@@ -592,7 +592,7 @@ if (isset($_GET['news_id'])) {
         "accessPermissions": [1310, 1701, 1225, 1414, 1216, 1234, 1910, 1421, 1700, 1516, 1513, 1517, 1415, 1422, 1233, 1932, 1413, 1211, 1229, 1420, 1110, 1223, 1230, 1212, 1228, 12, 1210, 1512, 1111, 1226, 1418, 1214, 1419, 1912, 1112, 1410, 1224, 1611, 1921, 1219, 1220, 1311, 1423, 1515, 1612, 1213, 1411, 0, 1416, 1417, 15, 11, 13, 1412, 1930, 1931, 1911, 1514, 1610, 14, 1218, 1511, 1810, 1, 1510, 1221, 2066, 18, 1920, 1215, 1217],
         "memberAccountNames": {
           "65c59c43aeb76a63df61000a": {
-            "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Imare.jpg/1200px-Imare.jpg?format=300w",
+            "avatarUrl": "https://fis.unj.ac.id/wp-content/uploads/2023/08/mal4.jpg?format=300w",
             "bio": "",
             "displayName": "<?php echo $BRAND; ?> "
           }
@@ -677,7 +677,7 @@ if (isset($_GET['news_id'])) {
     <script type="application/ld+json">
       {
         "name": "<?php echo $BRAND; ?> : Layanan Lembaga Penjamin Mutu Universitas Negeri Malang \u2014 <?php echo $BRAND; ?>",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Imare.jpg/1200px-Imare.jpg",
+        "image": "https://fis.unj.ac.id/wp-content/uploads/2023/08/mal4.jpg",
         "description": "<?php echo $BRAND; ?> melakukan pemantauan dan evaluasi terhadap pelaksanaan kegiatan pendidikan, penelitian, dan pengabdian kepada masyarakat untuk memastikan bahwa kegiatan tersebut berjalan sesuai dengan standar mutu yang telah ditetapkan.",
         "brand": "<?php echo $BRAND; ?>",
         "offers": {
@@ -1578,8 +1578,8 @@ if (isset($_GET['news_id'])) {
                     <section class="ProductItem-summary" data-controller="ProductGallery">
                       <section aria-label="Gallery" class="ProductItem-gallery" data-product-gallery="container">
                         <div class="ProductItem-gallery-slides" data-animation-role="image" data-product-gallery="slides">
-                          <div class="ProductItem-gallery-slides-item" data-slide-index="1" data-image-id="65fd0fd62438744c9a05c86b" data-controller="ImageZoom" data-slide-url="zeus" data-product-gallery="slides-item" data-test="pdp-gallery-slide"><img aria-describedby="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b" class="ProductItem-gallery-slides-item-1" data-load="false" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Imare.jpg/1200px-Imare.jpg" data-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Imare.jpg/1200px-Imare.jpg" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo $BRAND; ?>" elementtiming="nbf-products-gallery" /><span id="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b" style="display: none;"> Image 1 of </span>
-                            <div class="product-image-zoom-duplicate" aria-hidden="true"><img data-load="false" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Imare.jpg/1200px-Imare.jpg" data-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Imare.jpg/1200px-Imare.jpg" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo $BRAND; ?>" elementtiming="nbf-products-gallery-zoom" /></div>
+                          <div class="ProductItem-gallery-slides-item" data-slide-index="1" data-image-id="65fd0fd62438744c9a05c86b" data-controller="ImageZoom" data-slide-url="zeus" data-product-gallery="slides-item" data-test="pdp-gallery-slide"><img aria-describedby="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b" class="ProductItem-gallery-slides-item-1" data-load="false" data-src="https://fis.unj.ac.id/wp-content/uploads/2023/08/mal4.jpg" data-image="https://fis.unj.ac.id/wp-content/uploads/2023/08/mal4.jpg" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo $BRAND; ?>" elementtiming="nbf-products-gallery" /><span id="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b" style="display: none;"> Image 1 of </span>
+                            <div class="product-image-zoom-duplicate" aria-hidden="true"><img data-load="false" data-src="https://fis.unj.ac.id/wp-content/uploads/2023/08/mal4.jpg" data-image="https://fis.unj.ac.id/wp-content/uploads/2023/08/mal4.jpg" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo $BRAND; ?>" elementtiming="nbf-products-gallery-zoom" /></div>
                           </div>
                           <div class="gallery-lightbox-outer-wrapper" data-use-image-loader="true" data-controller="Lightbox">
                             <div class="gallery-lightbox " data-section-theme>
@@ -1595,7 +1595,7 @@ if (isset($_GET['news_id'])) {
                                   <figure class="gallery-lightbox-item" data-slide-url="zeus">
                                     <div class="gallery-lightbox-item-wrapper">
                                       <div class="gallery-lightbox-item-src">
-                                        <div class="gallery-lightbox-item-img content-fit"><img data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Imare.jpg/1200px-Imare.jpg" data-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Imare.jpg/1200px-Imare.jpg" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo $BRAND; ?>" data-load="false" elementtiming="nbf-product-lightbox" /></div>
+                                        <div class="gallery-lightbox-item-img content-fit"><img data-src="https://fis.unj.ac.id/wp-content/uploads/2023/08/mal4.jpg" data-image="https://fis.unj.ac.id/wp-content/uploads/2023/08/mal4.jpg" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo $BRAND; ?>" data-load="false" elementtiming="nbf-product-lightbox" /></div>
                                       </div>
                                     </div>
                                   </figure>
