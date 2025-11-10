@@ -1,0 +1,1216 @@
+
+<!DOCTYPE html>
+<html lang="en-US" class="s-light site-s-light">
+
+<head>
+	<meta name="google-site-verification" content="5BJ352at7ywQsI708n6jYwbtPi5YfYadkOu30iPJwRo" />
+
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v26.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Technology Archives - Prime Talk</title><link rel="preload" as="font" href="https://primetalk.co.uk/wp-content/themes/smart-mag/css/icons/fonts/ts-icons.woff2?v2.8" type="font/woff2" crossorigin="anonymous" />
+	<link rel="canonical" href="https://primetalk.co.uk/category/technology/" />
+	<link rel="next" href="https://primetalk.co.uk/category/technology/page/2/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Technology Archives - Prime Talk" />
+	<meta property="og:url" content="https://primetalk.co.uk/category/technology/" />
+	<meta property="og:site_name" content="Prime Talk" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://primetalk.co.uk/category/technology/","url":"https://primetalk.co.uk/category/technology/","name":"Technology Archives - Prime Talk","isPartOf":{"@id":"https://primetalk.co.uk/#website"},"primaryImageOfPage":{"@id":"https://primetalk.co.uk/category/technology/#primaryimage"},"image":{"@id":"https://primetalk.co.uk/category/technology/#primaryimage"},"thumbnailUrl":"https://primetalk.co.uk/wp-content/uploads/2025/10/The-2025-10-20T090315.102.png","breadcrumb":{"@id":"https://primetalk.co.uk/category/technology/#breadcrumb"},"inLanguage":"en-US"},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://primetalk.co.uk/category/technology/#primaryimage","url":"https://primetalk.co.uk/wp-content/uploads/2025/10/The-2025-10-20T090315.102.png","contentUrl":"https://primetalk.co.uk/wp-content/uploads/2025/10/The-2025-10-20T090315.102.png","width":680,"height":427,"caption":"plftiger"},{"@type":"BreadcrumbList","@id":"https://primetalk.co.uk/category/technology/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://primetalk.co.uk/"},{"@type":"ListItem","position":2,"name":"Technology"}]},{"@type":"WebSite","@id":"https://primetalk.co.uk/#website","url":"https://primetalk.co.uk/","name":"Prime Talk","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://primetalk.co.uk/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Prime Talk &raquo; Feed" href="https://primetalk.co.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Prime Talk &raquo; Comments Feed" href="https://primetalk.co.uk/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Prime Talk &raquo; Technology Category Feed" href="https://primetalk.co.uk/category/technology/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/primetalk.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.3"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://primetalk.co.uk/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='smartmag-core-css' href='https://primetalk.co.uk/wp-content/themes/smart-mag/style.css?ver=10.0.0' type='text/css' media='all' />
+<style id='smartmag-core-inline-css' type='text/css'>
+:root { --c-main: #fb3158;
+--c-main-rgb: 251,49,88;
+--c-headings: #212121;
+--text-font: "Fira Sans", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+--body-font: "Fira Sans", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+--ui-font: "Public Sans", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+--title-font: "Public Sans", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+--h-font: "Public Sans", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+--title-font: "Fira Sans", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+--h-font: "Fira Sans", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+--title-size-n: 18px;
+--title-size-m: 22px;
+--title-size-l: 36px;
+--main-width: 1170px;
+--excerpt-mt: 10px;
+--c-excerpts: #1e1e1e;
+--excerpt-size: 14px; }
+.post-title:not(._) { font-weight: 600; }
+:root { --sidebar-width: 300px; }
+.ts-row, .has-el-gap { --sidebar-c-width: calc(var(--sidebar-width) + var(--grid-gutter-h) + var(--sidebar-c-pad)); }
+:root { --sidebar-pad: 40px; --sidebar-sep-pad: 40px; }
+.smart-head-main { --c-shadow: rgba(0,0,0,0.06); }
+.smart-head-main .smart-head-top { --head-h: 50px; border-image: linear-gradient(90deg, #e40666 0%, #3c3fde 100%); border-image-slice: 1; border-image-width: 3px 0 0 0; border-width: 3px 0; border-image-width: 0 0 3px 0; }
+.smart-head-main .smart-head-mid { --head-h: 90px; border-bottom-width: 1px; border-bottom-color: #e5e5e5; }
+.s-dark .smart-head-main .smart-head-mid,
+.smart-head-main .s-dark.smart-head-mid { border-bottom-color: #3f3f3f; }
+.navigation-main .menu > li > a { font-size: 15.4px; font-weight: bold; letter-spacing: 0.01em; }
+.navigation-main { --nav-items-space: 15px; }
+.mega-menu .post-title a:hover { color: var(--c-nav-drop-hov); }
+.s-light .navigation { --c-nav-blip: var(--c-main); }
+.smart-head-mobile .smart-head-mid { border-image: linear-gradient(90deg, #e40666 0%, #3c3fde 100%); border-image-slice: 1; border-image-width: 3px 0 0 0; border-width: 3px 0; }
+.navigation-small { margin-left: calc(-1 * var(--nav-items-space)); }
+.s-dark .navigation-small { --c-nav-hov: rgba(255,255,255,0.76); }
+.s-dark .smart-head-main .spc-social,
+.smart-head-main .s-dark .spc-social { --c-spc-social: #ffffff; --c-spc-social-hov: rgba(255,255,255,0.92); }
+.smart-head-main .spc-social { --spc-social-fs: 13px; --spc-social-size: 26px; --spc-social-space: 5px; }
+.s-dark .smart-head-main .search-icon:hover,
+.smart-head-main .s-dark .search-icon:hover { color: #bcbcbc; }
+.smart-head-main { --search-icon-size: 18px; }
+.s-dark .smart-head-main .offcanvas-toggle:hover,
+.smart-head-main .s-dark .offcanvas-toggle:hover { --c-hamburger: #bcbcbc; }
+.smart-head-main .offcanvas-toggle { transform: scale(0.75); --item-mr: 30px; }
+.smart-head .ts-button1 { font-size: 12px; border-radius: 6px; height: 34px; line-height: 34px; padding-left: 14px; padding-right: 14px; }
+.post-meta .meta-item, .post-meta .text-in { font-size: 10px; font-weight: normal; text-transform: uppercase; letter-spacing: .03em; }
+.post-meta .post-cat > a { font-weight: bold; text-transform: uppercase; letter-spacing: 0.01em; }
+.post-meta .post-author > a { color: #282828; }
+.s-dark .post-meta .post-author > a { color: #ffffff; }
+.post-meta .post-cat > a { color: #000000; }
+.s-dark .post-meta .post-cat > a { color: #ffffff; }
+.post-meta { --p-meta-sep: "|"; }
+.l-post .excerpt { font-family: var(--ui-font); }
+.l-post .excerpt { font-weight: normal; line-height: 1.65; }
+.cat-labels .category { font-size: 10px; font-weight: 500; letter-spacing: 0.03em; }
+.block-head .heading { font-family: var(--ui-font); }
+.load-button { color: #ffffff; background-color: var(--c-main); padding-top: 13px; padding-bottom: 14px; width: 400px; min-width: 0; border-radius: 4px; }
+.loop-grid .ratio-is-custom { padding-bottom: calc(100% / 1.68); }
+.loop-grid-base .post-title { font-size: 19px; }
+.loop-grid-sm .post-title { font-size: 16px; }
+.has-nums .l-post { --num-font: "Barlow", system-ui, -apple-system, "Segoe UI", Arial, sans-serif; }
+.has-nums-a .l-post .post-title:before,
+.has-nums-b .l-post .content:before { font-size: 30px; font-weight: bold; }
+.has-nums:not(.has-nums-c) { --num-color: #fb3158; }
+.has-nums-a .l-post .post-title:before,
+.has-nums-b .l-post .content:before { content: counter(ts-loop) "."; }
+.loop-list .ratio-is-custom { padding-bottom: calc(100% / 1.575); }
+.loop-list .post-title { font-size: 21px; }
+.list-post { --list-p-media-width: 44%; --list-p-media-max-width: 85%; }
+.list-post .media:not(i) { --list-p-media-max-width: 44%; }
+.loop-small .post-title { font-size: 15px; }
+.loop-small .media:not(i) { max-width: 100px; }
+.entry-content { font-size: 16px; }
+.post-share-b:not(.is-not-global) { --service-width: 115px; --service-min-width: initial; --service-b-radius: 4px; }
+.post-share-b:not(.is-not-global) .service .label { font-size: 12px; }
+@media (min-width: 1200px) { .nav-hov-b .menu > li > a:before { width: calc(100% - (var(--nav-items-space, 15px)*2)); left: var(--nav-items-space); } }
+@media (min-width: 940px) and (max-width: 1200px) { .ts-row, .has-el-gap { --sidebar-c-width: calc(var(--sidebar-width) + var(--grid-gutter-h) + var(--sidebar-c-pad)); }
+.navigation-main .menu > li > a { font-size: calc(10px + (15.4px - 10px) * .7); } }
+@media (min-width: 768px) and (max-width: 940px) { .ts-contain, .main { padding-left: 35px; padding-right: 35px; } }
+@media (max-width: 767px) { .ts-contain, .main { padding-left: 25px; padding-right: 25px; } }
+
+
+</style>
+<link rel='stylesheet' id='smartmag-magnific-popup-css' href='https://primetalk.co.uk/wp-content/themes/smart-mag/css/lightbox.css?ver=10.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-icons-css' href='https://primetalk.co.uk/wp-content/themes/smart-mag/css/icons/icons.css?ver=10.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-gfonts-custom-css' href='https://fonts.googleapis.com/css?family=Fira+Sans%3A400%2C500%2C600%2C700%7CPublic+Sans%3A400%2C500%2C600%2C700%2Cnormal%7CBarlow%3A400%2C500%2C600%2C700&#038;display=swap' type='text/css' media='all' />
+<script type="text/javascript" id="smartmag-lazy-inline-js-after">
+/* <![CDATA[ */
+/**
+ * @copyright ThemeSphere
+ * @preserve
+ */
+var BunyadLazy={};BunyadLazy.load=function(){function a(e,n){var t={};e.dataset.bgset&&e.dataset.sizes?(t.sizes=e.dataset.sizes,t.srcset=e.dataset.bgset):t.src=e.dataset.bgsrc,function(t){var a=t.dataset.ratio;if(0<a){const e=t.parentElement;if(e.classList.contains("media-ratio")){const n=e.style;n.getPropertyValue("--a-ratio")||(n.paddingBottom=100/a+"%")}}}(e);var a,o=document.createElement("img");for(a in o.onload=function(){var t="url('"+(o.currentSrc||o.src)+"')",a=e.style;a.backgroundImage!==t&&requestAnimationFrame(()=>{a.backgroundImage=t,n&&n()}),o.onload=null,o.onerror=null,o=null},o.onerror=o.onload,t)o.setAttribute(a,t[a]);o&&o.complete&&0<o.naturalWidth&&o.onload&&o.onload()}function e(t){t.dataset.loaded||a(t,()=>{document.dispatchEvent(new Event("lazyloaded")),t.dataset.loaded=1})}function n(t){"complete"===document.readyState?t():window.addEventListener("load",t)}return{initEarly:function(){var t,a=()=>{document.querySelectorAll(".img.bg-cover:not(.lazyload)").forEach(e)};"complete"!==document.readyState?(t=setInterval(a,150),n(()=>{a(),clearInterval(t)})):a()},callOnLoad:n,initBgImages:function(t){t&&n(()=>{document.querySelectorAll(".img.bg-cover").forEach(e)})},bgLoad:a}}(),BunyadLazy.load.initEarly();
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://primetalk.co.uk/wp-content/plugins/sphere-post-views/assets/js/post-views.js?ver=1.0.1" id="sphere-post-views-js"></script>
+<script type="text/javascript" id="sphere-post-views-js-after">
+/* <![CDATA[ */
+var Sphere_PostViews = {"ajaxUrl":"https:\/\/primetalk.co.uk\/wp-admin\/admin-ajax.php?sphere_post_views=1","sampling":0,"samplingRate":10,"repeatCountDelay":0,"postID":false,"token":"acdd2b904e"}
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://primetalk.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://primetalk.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+
+<!-- Google tag (gtag.js) snippet added by Site Kit -->
+<!-- Google Analytics snippet added by Site Kit -->
+<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=GT-PJ46QLNG" id="google_gtagjs-js" async></script>
+<script type="text/javascript" id="google_gtagjs-js-after">
+/* <![CDATA[ */
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["primetalk.co.uk"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-PJ46QLNG");
+ window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( "event", name, { ...data, event_source: "site-kit" } ); }; 
+/* ]]> */
+</script>
+<link rel="https://api.w.org/" href="https://primetalk.co.uk/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://primetalk.co.uk/wp-json/wp/v2/categories/51" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://primetalk.co.uk/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.3" />
+<meta name="generator" content="Site Kit by Google 1.164.0" />
+		<script>
+		var BunyadSchemeKey = 'bunyad-scheme';
+		(() => {
+			const d = document.documentElement;
+			const c = d.classList;
+			var scheme = localStorage.getItem(BunyadSchemeKey);
+			
+			if (scheme) {
+				d.dataset.origClass = c;
+				scheme === 'dark' ? c.remove('s-light', 'site-s-light') : c.remove('s-dark', 'site-s-dark');
+				c.add('site-s-' + scheme, 's-' + scheme);
+			}
+		})();
+		</script>
+		<meta name="generator" content="Elementor 3.32.5; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="https://primetalk.co.uk/wp-content/uploads/2025/06/cropped-ChatGPT-Image-Jun-28-2025-06_03_22-AM-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://primetalk.co.uk/wp-content/uploads/2025/06/cropped-ChatGPT-Image-Jun-28-2025-06_03_22-AM-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://primetalk.co.uk/wp-content/uploads/2025/06/cropped-ChatGPT-Image-Jun-28-2025-06_03_22-AM-180x180.png" />
+<meta name="msapplication-TileImage" content="https://primetalk.co.uk/wp-content/uploads/2025/06/cropped-ChatGPT-Image-Jun-28-2025-06_03_22-AM-270x270.png" />
+
+
+</head>
+
+<body class="archive category category-technology category-51 wp-theme-smart-mag right-sidebar has-lb has-lb-sm layout-normal elementor-default elementor-kit-8">
+
+
+
+<div class="main-wrap">
+
+	
+<div class="off-canvas-backdrop"></div>
+<div class="mobile-menu-container off-canvas" id="off-canvas">
+
+	<div class="off-canvas-head">
+		<a href="#" class="close">
+			<span class="visuallyhidden">Close Menu</span>
+			<i class="tsi tsi-times"></i>
+		</a>
+
+		<div class="ts-logo">
+					</div>
+	</div>
+
+	<div class="off-canvas-content">
+
+					<ul class="mobile-menu"></ul>
+		
+					<div class="off-canvas-widgets">
+				
+		<div id="smartmag-block-posts-small-3" class="widget ts-block-widget smartmag-widget-posts-small">		
+		<div class="block">
+					<section class="block-wrap block-posts-small block-sc mb-none" data-id="1">
+
+			<div class="widget-title block-head block-head-ac block-head-b"><h5 class="heading">What's Hot</h5></div>	
+			<div class="block-content">
+				
+	<div class="loop loop-small loop-small-a loop-sep loop-small-sep grid grid-1 md:grid-1 sm:grid-1 xs:grid-1">
+
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://primetalk.co.uk/2025/11/03/luxury-villas-provence-le-collectionist/" class="image-link media-ratio ratio-3-2" title="How Le Collectionist Transforms Luxury Villas in Provence Living"><span data-bgsrc="https://primetalk.co.uk/wp-content/uploads/2025/11/The-2025-11-03T085724.329-300x188.png" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://primetalk.co.uk/wp-content/uploads/2025/11/The-2025-11-03T085724.329-300x188.png 300w, https://primetalk.co.uk/wp-content/uploads/2025/11/The-2025-11-03T085724.329-150x94.png 150w, https://primetalk.co.uk/wp-content/uploads/2025/11/The-2025-11-03T085724.329-450x283.png 450w, https://primetalk.co.uk/wp-content/uploads/2025/11/The-2025-11-03T085724.329.png 680w" data-sizes="(max-width: 107px) 100vw, 107px" role="img" aria-label="Luxury villa in Provence by Le Collectionist overlooking lavender fields at sunset."></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left"><h4 class="is-title post-title"><a href="https://primetalk.co.uk/2025/11/03/luxury-villas-provence-le-collectionist/">How Le Collectionist Transforms Luxury Villas in Provence Living</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>	
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://primetalk.co.uk/2025/11/02/invest1now-com-real-estate/" class="image-link media-ratio ratio-3-2" title="Why Smart Investors Trust invest1now.com Real Estate for Growth"><span data-bgsrc="https://primetalk.co.uk/wp-content/uploads/2025/11/The-2025-11-02T132945.276-300x188.png" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://primetalk.co.uk/wp-content/uploads/2025/11/The-2025-11-02T132945.276-300x188.png 300w, https://primetalk.co.uk/wp-content/uploads/2025/11/The-2025-11-02T132945.276-150x94.png 150w, https://primetalk.co.uk/wp-content/uploads/2025/11/The-2025-11-02T132945.276-450x283.png 450w, https://primetalk.co.uk/wp-content/uploads/2025/11/The-2025-11-02T132945.276.png 680w" data-sizes="(max-width: 107px) 100vw, 107px"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left"><h4 class="is-title post-title"><a href="https://primetalk.co.uk/2025/11/02/invest1now-com-real-estate/">Why Smart Investors Trust invest1now.com Real Estate for Growth</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>	
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://primetalk.co.uk/2025/11/02/fastrac-ontrac/" class="image-link media-ratio ratio-3-2" title="Fastrac Ontrac: Revolutionizing Logistics and Delivery Solutions"><span data-bgsrc="https://primetalk.co.uk/wp-content/uploads/2025/11/The-2025-11-02T084833.034-300x188.png" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://primetalk.co.uk/wp-content/uploads/2025/11/The-2025-11-02T084833.034-300x188.png 300w, https://primetalk.co.uk/wp-content/uploads/2025/11/The-2025-11-02T084833.034-150x94.png 150w, https://primetalk.co.uk/wp-content/uploads/2025/11/The-2025-11-02T084833.034-450x283.png 450w, https://primetalk.co.uk/wp-content/uploads/2025/11/The-2025-11-02T084833.034.png 680w" data-sizes="(max-width: 107px) 100vw, 107px" role="img" aria-label="fastrac ontrac"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left"><h4 class="is-title post-title"><a href="https://primetalk.co.uk/2025/11/02/fastrac-ontrac/">Fastrac Ontrac: Revolutionizing Logistics and Delivery Solutions</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>	
+		
+	</div>
+
+					</div>
+
+		</section>
+				</div>
+
+		</div>			</div>
+		
+		
+		<div class="spc-social-block spc-social spc-social-b smart-head-social">
+		
+			
+				<a href="#" class="link service s-facebook" target="_blank" rel="nofollow noopener">
+					<i class="icon tsi tsi-facebook"></i>					<span class="visuallyhidden">Facebook</span>
+				</a>
+									
+			
+				<a href="#" class="link service s-twitter" target="_blank" rel="nofollow noopener">
+					<i class="icon tsi tsi-twitter"></i>					<span class="visuallyhidden">X (Twitter)</span>
+				</a>
+									
+			
+				<a href="#" class="link service s-instagram" target="_blank" rel="nofollow noopener">
+					<i class="icon tsi tsi-instagram"></i>					<span class="visuallyhidden">Instagram</span>
+				</a>
+									
+			
+		</div>
+
+		
+	</div>
+
+</div>
+<div class="smart-head smart-head-a smart-head-main" id="smart-head" data-sticky="auto" data-sticky-type="smart" data-sticky-full>
+	
+	<div class="smart-head-row smart-head-mid is-light smart-head-row-full">
+
+		<div class="inner wrap">
+
+							
+				<div class="items items-left ">
+					<a href="https://primetalk.co.uk/" title="Prime Talk" rel="home" class="logo-link ts-logo text-logo">
+		<span>
+			
+				PRIME TALK
+					</span>
+	</a>	<div class="nav-wrap">
+		<nav class="navigation navigation-main nav-hov-b">
+			<ul id="menu-main-menu" class="menu"><li id="menu-item-6891" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-46 menu-item-6891"><a href="https://primetalk.co.uk/category/business/">Business</a></li>
+<li id="menu-item-6892" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-47 menu-item-6892"><a href="https://primetalk.co.uk/category/education/">Education</a></li>
+<li id="menu-item-6893" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-48 menu-item-6893"><a href="https://primetalk.co.uk/category/health/">Health</a></li>
+<li id="menu-item-6894" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-50 menu-item-6894"><a href="https://primetalk.co.uk/category/lifestyle/">Lifestyle</a></li>
+<li id="menu-item-6895" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-49 menu-item-6895"><a href="https://primetalk.co.uk/category/news/">News</a></li>
+<li id="menu-item-6896" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-cat-51 menu-item-6896"><a href="https://primetalk.co.uk/category/technology/" aria-current="page">Technology</a></li>
+</ul>		</nav>
+	</div>
+				</div>
+
+							
+				<div class="items items-center empty">
+								</div>
+
+							
+				<div class="items items-right ">
+				
+	<a href="https://primetalk.co.uk/contact-us/" class="ts-button ts-button-a ts-button1">
+		Get In Touch	</a>
+
+
+	<a href="#" class="search-icon has-icon-only is-icon" title="Search">
+		<i class="tsi tsi-search"></i>
+	</a>
+
+				</div>
+
+						
+		</div>
+	</div>
+
+	</div>
+<div class="smart-head smart-head-a smart-head-mobile" id="smart-head-mobile" data-sticky="mid" data-sticky-type="smart" data-sticky-full>
+	
+	<div class="smart-head-row smart-head-mid smart-head-row-3 s-dark smart-head-row-full">
+
+		<div class="inner wrap">
+
+							
+				<div class="items items-left ">
+				
+<button class="offcanvas-toggle has-icon" type="button" aria-label="Menu">
+	<span class="hamburger-icon hamburger-icon-a">
+		<span class="inner"></span>
+	</span>
+</button>				</div>
+
+							
+				<div class="items items-center ">
+					<a href="https://primetalk.co.uk/" title="Prime Talk" rel="home" class="logo-link ts-logo text-logo">
+		<span>
+			
+				PRIME TALK
+					</span>
+	</a>				</div>
+
+							
+				<div class="items items-right ">
+				
+
+	<a href="#" class="search-icon has-icon-only is-icon" title="Search">
+		<i class="tsi tsi-search"></i>
+	</a>
+
+				</div>
+
+						
+		</div>
+	</div>
+
+	</div>
+<nav class="breadcrumbs is-full-width breadcrumbs-a" id="breadcrumb"><div class="inner ts-contain "><span class="label">You are at:</span><span><span><a href="https://primetalk.co.uk/">Home</a></span> » <span class="breadcrumb_last" aria-current="page">Technology</span></span></div></nav>
+<div class="main ts-contain cf right-sidebar">
+			<div class="ts-row">
+			<div class="col-8 main-content">
+
+							<h1 class="archive-heading">
+					Browsing: <span>Technology</span>				</h1>
+						
+					
+							
+					<section class="block-wrap block-posts-list mb-none" data-id="2">
+
+				
+			<div class="block-content">
+					
+	<div class="loop loop-list loop-sep loop-list-sep grid grid-1 md:grid-1 sm:grid-1">
+
+				
+			
+<article class="l-post list-post grid-on-sm m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://primetalk.co.uk/2025/10/20/plftiger/" class="image-link media-ratio ratio-is-custom" title="PLFTiger: The Emerging Powerhouse in Digital Technology"><span data-bgsrc="https://primetalk.co.uk/wp-content/uploads/2025/10/The-2025-10-20T090315.102-450x283.png" class="img bg-cover wp-post-image attachment-bunyad-list size-bunyad-list no-lazy skip-lazy" data-bgset="https://primetalk.co.uk/wp-content/uploads/2025/10/The-2025-10-20T090315.102-450x283.png 450w, https://primetalk.co.uk/wp-content/uploads/2025/10/The-2025-10-20T090315.102-300x188.png 300w, https://primetalk.co.uk/wp-content/uploads/2025/10/The-2025-10-20T090315.102-150x94.png 150w, https://primetalk.co.uk/wp-content/uploads/2025/10/The-2025-10-20T090315.102.png 680w" data-sizes="(max-width: 343px) 100vw, 343px" role="img" aria-label="plftiger"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a"><div class="post-meta-items meta-above"><span class="meta-item post-cat">
+						
+						<a href="https://primetalk.co.uk/category/technology/" class="category term-color-51" rel="category">Technology</a>
+					</span>
+					<span class="meta-item date"><span class="date-link"><time class="post-date" datetime="2025-10-20T16:03:50+00:00">October 20, 2025</time></span></span></div><h2 class="is-title post-title"><a href="https://primetalk.co.uk/2025/10/20/plftiger/">PLFTiger: The Emerging Powerhouse in Digital Technology</a></h2></div>			
+						
+				<div class="excerpt">
+					<p>In the ever-evolving world of digital innovation, PLFTiger has emerged as a groundbreaking force redefining how technology integrates into business and everyday life. As industries move&hellip;</p>
+				</div>
+			
+			
+			
+		</div>
+
+	
+</article>
+				
+			
+<article class="l-post list-post grid-on-sm m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://primetalk.co.uk/2025/10/14/inflatom/" class="image-link media-ratio ratio-is-custom" title="Inflatom: The Next-Gen Platform Revolutionizing Digital Automation"><span data-bgsrc="https://primetalk.co.uk/wp-content/uploads/2025/10/The-94-450x283.png" class="img bg-cover wp-post-image attachment-bunyad-medium size-bunyad-medium lazyload" data-bgset="https://primetalk.co.uk/wp-content/uploads/2025/10/The-94-450x283.png 450w, https://primetalk.co.uk/wp-content/uploads/2025/10/The-94-300x188.png 300w, https://primetalk.co.uk/wp-content/uploads/2025/10/The-94-150x94.png 150w, https://primetalk.co.uk/wp-content/uploads/2025/10/The-94.png 680w" data-sizes="(max-width: 343px) 100vw, 343px" role="img" aria-label="inflatom"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a"><div class="post-meta-items meta-above"><span class="meta-item post-cat">
+						
+						<a href="https://primetalk.co.uk/category/technology/" class="category term-color-51" rel="category">Technology</a>
+					</span>
+					<span class="meta-item date"><span class="date-link"><time class="post-date" datetime="2025-10-14T11:49:12+00:00">October 14, 2025</time></span></span></div><h2 class="is-title post-title"><a href="https://primetalk.co.uk/2025/10/14/inflatom/">Inflatom: The Next-Gen Platform Revolutionizing Digital Automation</a></h2></div>			
+						
+				<div class="excerpt">
+					<p>In today’s fast-paced digital economy, automation is no longer optional—it’s essential. Businesses across industries are constantly looking for ways to optimize workflows, reduce manual tasks, and&hellip;</p>
+				</div>
+			
+			
+			
+		</div>
+
+	
+</article>
+				
+			
+<article class="l-post list-post grid-on-sm m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://primetalk.co.uk/2025/10/05/geekzilla-t3/" class="image-link media-ratio ratio-is-custom" title="Geekzilla T3: A Complete Review of Its Features and Performance"><span data-bgsrc="https://primetalk.co.uk/wp-content/uploads/2025/10/The-83-450x283.png" class="img bg-cover wp-post-image attachment-bunyad-medium size-bunyad-medium lazyload" data-bgset="https://primetalk.co.uk/wp-content/uploads/2025/10/The-83-450x283.png 450w, https://primetalk.co.uk/wp-content/uploads/2025/10/The-83-300x188.png 300w, https://primetalk.co.uk/wp-content/uploads/2025/10/The-83-150x94.png 150w, https://primetalk.co.uk/wp-content/uploads/2025/10/The-83.png 680w" data-sizes="(max-width: 343px) 100vw, 343px" role="img" aria-label="geekzilla t3"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a"><div class="post-meta-items meta-above"><span class="meta-item post-cat">
+						
+						<a href="https://primetalk.co.uk/category/technology/" class="category term-color-51" rel="category">Technology</a>
+					</span>
+					<span class="meta-item date"><span class="date-link"><time class="post-date" datetime="2025-10-05T10:35:57+00:00">October 5, 2025</time></span></span></div><h2 class="is-title post-title"><a href="https://primetalk.co.uk/2025/10/05/geekzilla-t3/">Geekzilla T3: A Complete Review of Its Features and Performance</a></h2></div>			
+						
+				<div class="excerpt">
+					<p>The Geekzilla T3 has rapidly become one of the most talked-about tech devices in the market, praised for its innovation and performance. As technology continues to&hellip;</p>
+				</div>
+			
+			
+			
+		</div>
+
+	
+</article>
+				
+			
+<article class="l-post list-post grid-on-sm m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://primetalk.co.uk/2025/09/30/techmapz-com/" class="image-link media-ratio ratio-is-custom" title="Techmapz com: A Complete Guide to Its Features and Services"><span data-bgsrc="https://primetalk.co.uk/wp-content/uploads/2025/09/The-71-450x283.png" class="img bg-cover wp-post-image attachment-bunyad-medium size-bunyad-medium lazyload" data-bgset="https://primetalk.co.uk/wp-content/uploads/2025/09/The-71-450x283.png 450w, https://primetalk.co.uk/wp-content/uploads/2025/09/The-71-300x188.png 300w, https://primetalk.co.uk/wp-content/uploads/2025/09/The-71-150x94.png 150w, https://primetalk.co.uk/wp-content/uploads/2025/09/The-71.png 680w" data-sizes="(max-width: 343px) 100vw, 343px" role="img" aria-label="techmapz com"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a"><div class="post-meta-items meta-above"><span class="meta-item post-cat">
+						
+						<a href="https://primetalk.co.uk/category/technology/" class="category term-color-51" rel="category">Technology</a>
+					</span>
+					<span class="meta-item date"><span class="date-link"><time class="post-date" datetime="2025-09-30T10:01:22+00:00">September 30, 2025</time></span></span></div><h2 class="is-title post-title"><a href="https://primetalk.co.uk/2025/09/30/techmapz-com/">Techmapz com: A Complete Guide to Its Features and Services</a></h2></div>			
+						
+				<div class="excerpt">
+					<p>In today’s digital world, platforms that offer accessible technology solutions and information are gaining significant attention. Techmapz com has emerged as one such resource, providing users&hellip;</p>
+				</div>
+			
+			
+			
+		</div>
+
+	
+</article>
+				
+			
+<article class="l-post list-post grid-on-sm m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://primetalk.co.uk/2025/09/23/technologies-ftasiamanagement/" class="image-link media-ratio ratio-is-custom" title="How Technologies FtAsiaManagement Is Transforming Business Operations in Asia"><span data-bgsrc="https://primetalk.co.uk/wp-content/uploads/2025/09/The-56-450x283.png" class="img bg-cover wp-post-image attachment-bunyad-medium size-bunyad-medium lazyload" data-bgset="https://primetalk.co.uk/wp-content/uploads/2025/09/The-56-450x283.png 450w, https://primetalk.co.uk/wp-content/uploads/2025/09/The-56-300x188.png 300w, https://primetalk.co.uk/wp-content/uploads/2025/09/The-56-150x94.png 150w, https://primetalk.co.uk/wp-content/uploads/2025/09/The-56.png 680w" data-sizes="(max-width: 343px) 100vw, 343px" role="img" aria-label="technologies ftasiamanagement"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a"><div class="post-meta-items meta-above"><span class="meta-item post-cat">
+						
+						<a href="https://primetalk.co.uk/category/technology/" class="category term-color-51" rel="category">Technology</a>
+					</span>
+					<span class="meta-item date"><span class="date-link"><time class="post-date" datetime="2025-09-23T10:54:47+00:00">September 23, 2025</time></span></span></div><h2 class="is-title post-title"><a href="https://primetalk.co.uk/2025/09/23/technologies-ftasiamanagement/">How Technologies FtAsiaManagement Is Transforming Business Operations in Asia</a></h2></div>			
+						
+				<div class="excerpt">
+					<p>In the ever-evolving global marketplace, technology plays a crucial role in shaping business strategies and enhancing operational efficiency. Technologies FtAsiaManagement has emerged as a leading platform&hellip;</p>
+				</div>
+			
+			
+			
+		</div>
+
+	
+</article>
+				
+			
+<article class="l-post list-post grid-on-sm m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://primetalk.co.uk/2025/08/10/veohentak/" class="image-link media-ratio ratio-is-custom" title="Veohentak: A Comprehensive Guide to Its Features and Benefits"><span data-bgsrc="https://primetalk.co.uk/wp-content/uploads/2025/08/The-28-450x283.png" class="img bg-cover wp-post-image attachment-bunyad-medium size-bunyad-medium lazyload" data-bgset="https://primetalk.co.uk/wp-content/uploads/2025/08/The-28-450x283.png 450w, https://primetalk.co.uk/wp-content/uploads/2025/08/The-28-300x188.png 300w, https://primetalk.co.uk/wp-content/uploads/2025/08/The-28-150x94.png 150w, https://primetalk.co.uk/wp-content/uploads/2025/08/The-28.png 680w" data-sizes="(max-width: 343px) 100vw, 343px" role="img" aria-label="veohentak"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a"><div class="post-meta-items meta-above"><span class="meta-item post-cat">
+						
+						<a href="https://primetalk.co.uk/category/technology/" class="category term-color-51" rel="category">Technology</a>
+					</span>
+					<span class="meta-item date"><span class="date-link"><time class="post-date" datetime="2025-08-10T10:55:36+00:00">August 10, 2025</time></span></span></div><h2 class="is-title post-title"><a href="https://primetalk.co.uk/2025/08/10/veohentak/">Veohentak: A Comprehensive Guide to Its Features and Benefits</a></h2></div>			
+						
+				<div class="excerpt">
+					<p>Veohentak has emerged as a versatile and innovative platform designed to address a variety of needs in the digital era. Whether it is for professional use,&hellip;</p>
+				</div>
+			
+			
+			
+		</div>
+
+	
+</article>
+				
+			
+<article class="l-post list-post grid-on-sm m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://primetalk.co.uk/2025/08/04/zryly-com-internet/" class="image-link media-ratio ratio-is-custom" title="Zryly.com Internet Review: Features, Speed, and Reliability Compared"><span data-bgsrc="https://primetalk.co.uk/wp-content/uploads/2025/08/The-22-450x283.png" class="img bg-cover wp-post-image attachment-bunyad-medium size-bunyad-medium lazyload" data-bgset="https://primetalk.co.uk/wp-content/uploads/2025/08/The-22-450x283.png 450w, https://primetalk.co.uk/wp-content/uploads/2025/08/The-22-300x188.png 300w, https://primetalk.co.uk/wp-content/uploads/2025/08/The-22-150x94.png 150w, https://primetalk.co.uk/wp-content/uploads/2025/08/The-22.png 680w" data-sizes="(max-width: 343px) 100vw, 343px" role="img" aria-label="onbupkfz esfp vhaxvr"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a"><div class="post-meta-items meta-above"><span class="meta-item post-cat">
+						
+						<a href="https://primetalk.co.uk/category/technology/" class="category term-color-51" rel="category">Technology</a>
+					</span>
+					<span class="meta-item date"><span class="date-link"><time class="post-date" datetime="2025-08-04T10:08:10+00:00">August 4, 2025</time></span></span></div><h2 class="is-title post-title"><a href="https://primetalk.co.uk/2025/08/04/zryly-com-internet/">Zryly.com Internet Review: Features, Speed, and Reliability Compared</a></h2></div>			
+						
+				<div class="excerpt">
+					<p>In the digital era, reliable internet access is more than just a luxury—it’s a necessity. Whether you’re working from home, streaming 4K content, gaming online, or&hellip;</p>
+				</div>
+			
+			
+			
+		</div>
+
+	
+</article>
+				
+			
+<article class="l-post list-post grid-on-sm m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://primetalk.co.uk/2025/07/31/outsourced-customer-support-by-garage2global/" class="image-link media-ratio ratio-is-custom" title="How Garage2Global Delivers World-Class Outsourced Customer Support Solutions"><span data-bgsrc="https://primetalk.co.uk/wp-content/uploads/2025/07/Untitled-design-2025-07-26T235048.896-450x253.webp" class="img bg-cover wp-post-image attachment-bunyad-medium size-bunyad-medium lazyload" data-bgset="https://primetalk.co.uk/wp-content/uploads/2025/07/Untitled-design-2025-07-26T235048.896-450x253.webp 450w, https://primetalk.co.uk/wp-content/uploads/2025/07/Untitled-design-2025-07-26T235048.896-1024x576.webp 1024w, https://primetalk.co.uk/wp-content/uploads/2025/07/Untitled-design-2025-07-26T235048.896-768x432.webp 768w, https://primetalk.co.uk/wp-content/uploads/2025/07/Untitled-design-2025-07-26T235048.896-1200x675.webp 1200w, https://primetalk.co.uk/wp-content/uploads/2025/07/Untitled-design-2025-07-26T235048.896.webp 1366w" data-sizes="(max-width: 343px) 100vw, 343px" role="img" aria-label="outsourced customer support by garage2global"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a"><div class="post-meta-items meta-above"><span class="meta-item post-cat">
+						
+						<a href="https://primetalk.co.uk/category/blog/" class="category term-color-56" rel="category">Blog</a>
+					</span>
+					<span class="meta-item date"><span class="date-link"><time class="post-date" datetime="2025-07-31T21:51:22+00:00">July 31, 2025</time></span></span></div><h2 class="is-title post-title"><a href="https://primetalk.co.uk/2025/07/31/outsourced-customer-support-by-garage2global/">How Garage2Global Delivers World-Class Outsourced Customer Support Solutions</a></h2></div>			
+						
+				<div class="excerpt">
+					<p>In today&#8217;s customer-centric business landscape, organizations are constantly seeking ways to improve service delivery while optimizing operational costs. One proven method is to partner with a&hellip;</p>
+				</div>
+			
+			
+			
+		</div>
+
+	
+</article>
+				
+			
+<article class="l-post list-post grid-on-sm m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://primetalk.co.uk/2025/07/29/nippybox/" class="image-link media-ratio ratio-is-custom" title="NippyBox Review: Is This the Ultimate Cloud Storage Solution?"><span data-bgsrc="https://primetalk.co.uk/wp-content/uploads/2025/07/The-17-450x283.png" class="img bg-cover wp-post-image attachment-bunyad-medium size-bunyad-medium lazyload" data-bgset="https://primetalk.co.uk/wp-content/uploads/2025/07/The-17-450x283.png 450w, https://primetalk.co.uk/wp-content/uploads/2025/07/The-17-300x188.png 300w, https://primetalk.co.uk/wp-content/uploads/2025/07/The-17-150x94.png 150w, https://primetalk.co.uk/wp-content/uploads/2025/07/The-17.png 680w" data-sizes="(max-width: 343px) 100vw, 343px" role="img" aria-label="nippybox"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a"><div class="post-meta-items meta-above"><span class="meta-item post-cat">
+						
+						<a href="https://primetalk.co.uk/category/technology/" class="category term-color-51" rel="category">Technology</a>
+					</span>
+					<span class="meta-item date"><span class="date-link"><time class="post-date" datetime="2025-07-29T11:02:48+00:00">July 29, 2025</time></span></span></div><h2 class="is-title post-title"><a href="https://primetalk.co.uk/2025/07/29/nippybox/">NippyBox Review: Is This the Ultimate Cloud Storage Solution?</a></h2></div>			
+						
+				<div class="excerpt">
+					<p>What Is NippyBox? NippyBox is a modern cloud storage platform designed to offer secure, fast, and reliable file storage for individuals, businesses, and teams. In an&hellip;</p>
+				</div>
+			
+			
+			
+		</div>
+
+	
+</article>
+				
+			
+<article class="l-post list-post grid-on-sm m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://primetalk.co.uk/2025/07/23/trwho-com/" class="image-link media-ratio ratio-is-custom" title="Trwho.com Review: Features, Benefits, and User Experience Explained"><span data-bgsrc="https://primetalk.co.uk/wp-content/uploads/2025/07/The-7-450x283.png" class="img bg-cover wp-post-image attachment-bunyad-medium size-bunyad-medium lazyload" data-bgset="https://primetalk.co.uk/wp-content/uploads/2025/07/The-7-450x283.png 450w, https://primetalk.co.uk/wp-content/uploads/2025/07/The-7-300x188.png 300w, https://primetalk.co.uk/wp-content/uploads/2025/07/The-7-150x94.png 150w, https://primetalk.co.uk/wp-content/uploads/2025/07/The-7.png 680w" data-sizes="(max-width: 343px) 100vw, 343px" role="img" aria-label="trwho .com"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a"><div class="post-meta-items meta-above"><span class="meta-item post-cat">
+						
+						<a href="https://primetalk.co.uk/category/technology/" class="category term-color-51" rel="category">Technology</a>
+					</span>
+					<span class="meta-item date"><span class="date-link"><time class="post-date" datetime="2025-07-23T10:30:04+00:00">July 23, 2025</time></span></span></div><h2 class="is-title post-title"><a href="https://primetalk.co.uk/2025/07/23/trwho-com/">Trwho.com Review: Features, Benefits, and User Experience Explained</a></h2></div>			
+						
+				<div class="excerpt">
+					<p>Trwho.com is emerging as a noteworthy online platform that caters to a wide range of digital needs, from entertainment and media to trending internet tools and&hellip;</p>
+				</div>
+			
+			
+			
+		</div>
+
+	
+</article>
+		
+	</div>
+
+	
+
+	<nav class="main-pagination pagination-numbers" data-type="numbers">
+		<span aria-current="page" class="page-numbers current">1</span>
+<a class="page-numbers" href="https://primetalk.co.uk/category/technology/page/2/">2</a>
+<a class="next page-numbers" href="https://primetalk.co.uk/category/technology/page/2/"><span class="visuallyhidden">Next</span><i class="tsi tsi-angle-right"></i></a>	</nav>
+
+
+				</div>
+
+		</section>
+		
+			</div>
+			
+					
+	
+	<aside class="col-4 main-sidebar has-sep" data-sticky="1">
+	
+			<div class="inner theiaStickySidebar">
+		
+			
+		<div id="smartmag-block-posts-small-2" class="widget ts-block-widget smartmag-widget-posts-small">		
+		<div class="block">
+					<section class="block-wrap block-posts-small block-sc mb-none" data-id="3">
+
+			<div class="widget-title block-head block-head-ac block-head block-head-ac block-head-e block-head-e3 is-left has-style"><h5 class="heading">Top Posts</h5></div>	
+			<div class="block-content">
+				
+	<div class="loop loop-small loop-small-a loop-sep loop-small-sep grid grid-1 md:grid-1 sm:grid-1 xs:grid-1">
+
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://primetalk.co.uk/2025/09/14/keiko-fujimoto/" class="image-link media-ratio ratio-3-2" title="Keiko Fujimoto: A Comprehensive Look at Her Life and Career"><span data-bgsrc="https://primetalk.co.uk/wp-content/uploads/2025/09/The-44-300x188.png" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://primetalk.co.uk/wp-content/uploads/2025/09/The-44-300x188.png 300w, https://primetalk.co.uk/wp-content/uploads/2025/09/The-44-150x94.png 150w, https://primetalk.co.uk/wp-content/uploads/2025/09/The-44-450x283.png 450w, https://primetalk.co.uk/wp-content/uploads/2025/09/The-44.png 680w" data-sizes="(max-width: 107px) 100vw, 107px" role="img" aria-label="keiko fujimoto"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title limit-lines l-lines-2"><a href="https://primetalk.co.uk/2025/09/14/keiko-fujimoto/">Keiko Fujimoto: A Comprehensive Look at Her Life and Career</a></h4><div class="post-meta-items meta-below"><span class="meta-item has-next-icon date"><span class="date-link"><time class="post-date" datetime="2025-09-14T13:09:00+00:00">September 14, 2025</time></span></span><span title="68 Article Views" class="meta-item post-views has-icon"><i class="tsi tsi-bar-chart-2"></i>68 <span>Views</span></span></div></div>			
+			
+			
+		</div>
+
+	
+</article>	
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://primetalk.co.uk/2025/09/24/tamildhooms-com/" class="image-link media-ratio ratio-3-2" title="Tamildhooms.com: Your Complete Guide to Tamil Movies and Entertainment"><span data-bgsrc="https://primetalk.co.uk/wp-content/uploads/2025/09/The-58-300x188.png" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://primetalk.co.uk/wp-content/uploads/2025/09/The-58-300x188.png 300w, https://primetalk.co.uk/wp-content/uploads/2025/09/The-58-150x94.png 150w, https://primetalk.co.uk/wp-content/uploads/2025/09/The-58-450x283.png 450w, https://primetalk.co.uk/wp-content/uploads/2025/09/The-58.png 680w" data-sizes="(max-width: 107px) 100vw, 107px" role="img" aria-label="tamildhooms.com"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title limit-lines l-lines-2"><a href="https://primetalk.co.uk/2025/09/24/tamildhooms-com/">Tamildhooms.com: Your Complete Guide to Tamil Movies and Entertainment</a></h4><div class="post-meta-items meta-below"><span class="meta-item has-next-icon date"><span class="date-link"><time class="post-date" datetime="2025-09-24T10:13:34+00:00">September 24, 2025</time></span></span><span title="31 Article Views" class="meta-item post-views has-icon"><i class="tsi tsi-bar-chart-2"></i>31 <span>Views</span></span></div></div>			
+			
+			
+		</div>
+
+	
+</article>	
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://primetalk.co.uk/2025/07/08/thejavasea-me-leaks-aio-tlp287/" class="image-link media-ratio ratio-3-2" title="Investigation Report: thejavasea.me Leaks and AIO-TLP287 Data Exposure"><span data-bgsrc="https://primetalk.co.uk/wp-content/uploads/2025/07/Untitled-design-9-300x188.png" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://primetalk.co.uk/wp-content/uploads/2025/07/Untitled-design-9-300x188.png 300w, https://primetalk.co.uk/wp-content/uploads/2025/07/Untitled-design-9-150x94.png 150w, https://primetalk.co.uk/wp-content/uploads/2025/07/Untitled-design-9-450x283.png 450w, https://primetalk.co.uk/wp-content/uploads/2025/07/Untitled-design-9.png 680w" data-sizes="(max-width: 107px) 100vw, 107px" role="img" aria-label="thejavasea.me leaks aio-tlp287"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title limit-lines l-lines-2"><a href="https://primetalk.co.uk/2025/07/08/thejavasea-me-leaks-aio-tlp287/">Investigation Report: thejavasea.me Leaks and AIO-TLP287 Data Exposure</a></h4><div class="post-meta-items meta-below"><span class="meta-item has-next-icon date"><span class="date-link"><time class="post-date" datetime="2025-07-08T09:53:49+00:00">July 8, 2025</time></span></span><span title="23 Article Views" class="meta-item post-views has-icon"><i class="tsi tsi-bar-chart-2"></i>23 <span>Views</span></span></div></div>			
+			
+			
+		</div>
+
+	
+</article>	
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://primetalk.co.uk/2025/10/05/izzie-balmer-partner/" class="image-link media-ratio ratio-3-2" title="Who Is Izzie Balmer’s Partner? Inside the Personal Life of the Antiques Expert"><span data-bgsrc="https://primetalk.co.uk/wp-content/uploads/2025/10/The-87-300x188.png" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://primetalk.co.uk/wp-content/uploads/2025/10/The-87-300x188.png 300w, https://primetalk.co.uk/wp-content/uploads/2025/10/The-87-150x94.png 150w, https://primetalk.co.uk/wp-content/uploads/2025/10/The-87-450x283.png 450w, https://primetalk.co.uk/wp-content/uploads/2025/10/The-87.png 680w" data-sizes="(max-width: 107px) 100vw, 107px" role="img" aria-label="izzie balmer partner"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title limit-lines l-lines-2"><a href="https://primetalk.co.uk/2025/10/05/izzie-balmer-partner/">Who Is Izzie Balmer’s Partner? Inside the Personal Life of the Antiques Expert</a></h4><div class="post-meta-items meta-below"><span class="meta-item has-next-icon date"><span class="date-link"><time class="post-date" datetime="2025-10-05T11:40:11+00:00">October 5, 2025</time></span></span><span title="22 Article Views" class="meta-item post-views has-icon"><i class="tsi tsi-bar-chart-2"></i>22 <span>Views</span></span></div></div>			
+			
+			
+		</div>
+
+	
+</article>	
+		
+	</div>
+
+					</div>
+
+		</section>
+				</div>
+
+		</div>		</div>
+	
+	</aside>
+	
+			
+		</div>
+	</div>
+
+			<footer class="main-footer cols-gap-lg footer-classic s-dark">
+
+						<div class="upper-footer classic-footer-upper">
+			<div class="ts-contain wrap">
+		
+							<div class="widgets row cf">
+					<div class="widget col-4 widget_text"><div class="widget-title block-head block-head-ac block-head block-head-ac block-head-h is-left has-style"><h5 class="heading">About Us</h5></div>			<div class="textwidget"><p><a href="https://primetalk.co.uk/">Prime Talk</a> brings you the latest global news, trending updates, and insightful stories, keeping you informed and engaged with reliable information from around the world, all in one place, every day.</p>
+</div>
+		</div>
+		<div class="widget col-4 ts-block-widget smartmag-widget-posts-small">		
+		<div class="block">
+					<section class="block-wrap block-posts-small block-sc mb-none" data-id="4">
+
+			<div class="widget-title block-head block-head-ac block-head block-head-ac block-head-h is-left has-style"><h5 class="heading">Most Popular</h5></div>	
+			<div class="block-content">
+				
+	<div class="loop loop-small loop-small-a loop-sep loop-small-sep grid grid-1 md:grid-1 sm:grid-1 xs:grid-1">
+
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://primetalk.co.uk/2025/09/22/glass-bridge-ticket-counter-rajgir/" class="image-link media-ratio ratio-3-2" title="Glass Bridge Ticket Counter Rajgir: Complete Guide for Visitors"><span data-bgsrc="https://primetalk.co.uk/wp-content/uploads/2025/09/The-54-300x188.png" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://primetalk.co.uk/wp-content/uploads/2025/09/The-54-300x188.png 300w, https://primetalk.co.uk/wp-content/uploads/2025/09/The-54-150x94.png 150w, https://primetalk.co.uk/wp-content/uploads/2025/09/The-54-450x283.png 450w, https://primetalk.co.uk/wp-content/uploads/2025/09/The-54.png 680w" data-sizes="(max-width: 107px) 100vw, 107px" role="img" aria-label="glass bridge ticket counter rajgir"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title"><a href="https://primetalk.co.uk/2025/09/22/glass-bridge-ticket-counter-rajgir/">Glass Bridge Ticket Counter Rajgir: Complete Guide for Visitors</a></h4><div class="post-meta-items meta-below"><span class="meta-item has-next-icon date"><span class="date-link"><time class="post-date" datetime="2025-09-22T10:38:42+00:00">September 22, 2025</time></span></span><span title="1 Article Views" class="meta-item post-views has-icon"><i class="tsi tsi-bar-chart-2"></i>1 <span>Views</span></span></div></div>			
+			
+			
+		</div>
+
+	
+</article>	
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://primetalk.co.uk/2025/09/23/freeonlinebankingrbc/" class="image-link media-ratio ratio-3-2" title="FreeOnlineBankingRBC: A Complete Guide to Managing Your Finances Online"><span data-bgsrc="https://primetalk.co.uk/wp-content/uploads/2025/09/The-55-300x188.png" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://primetalk.co.uk/wp-content/uploads/2025/09/The-55-300x188.png 300w, https://primetalk.co.uk/wp-content/uploads/2025/09/The-55-150x94.png 150w, https://primetalk.co.uk/wp-content/uploads/2025/09/The-55-450x283.png 450w, https://primetalk.co.uk/wp-content/uploads/2025/09/The-55.png 680w" data-sizes="(max-width: 107px) 100vw, 107px" role="img" aria-label="freeonlinebankingrbc"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title"><a href="https://primetalk.co.uk/2025/09/23/freeonlinebankingrbc/">FreeOnlineBankingRBC: A Complete Guide to Managing Your Finances Online</a></h4><div class="post-meta-items meta-below"><span class="meta-item has-next-icon date"><span class="date-link"><time class="post-date" datetime="2025-09-23T10:15:47+00:00">September 23, 2025</time></span></span><span title="1 Article Views" class="meta-item post-views has-icon"><i class="tsi tsi-bar-chart-2"></i>1 <span>Views</span></span></div></div>			
+			
+			
+		</div>
+
+	
+</article>	
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://primetalk.co.uk/2025/09/27/forbes-connections/" class="image-link media-ratio ratio-3-2" title="Forbes Connections: Building Powerful Networks for Business Growth"><span data-bgsrc="https://primetalk.co.uk/wp-content/uploads/2025/09/The-62-300x188.png" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://primetalk.co.uk/wp-content/uploads/2025/09/The-62-300x188.png 300w, https://primetalk.co.uk/wp-content/uploads/2025/09/The-62-150x94.png 150w, https://primetalk.co.uk/wp-content/uploads/2025/09/The-62-450x283.png 450w, https://primetalk.co.uk/wp-content/uploads/2025/09/The-62.png 680w" data-sizes="(max-width: 107px) 100vw, 107px" role="img" aria-label="forbes connections"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title"><a href="https://primetalk.co.uk/2025/09/27/forbes-connections/">Forbes Connections: Building Powerful Networks for Business Growth</a></h4><div class="post-meta-items meta-below"><span class="meta-item has-next-icon date"><span class="date-link"><time class="post-date" datetime="2025-09-27T11:05:16+00:00">September 27, 2025</time></span></span><span title="1 Article Views" class="meta-item post-views has-icon"><i class="tsi tsi-bar-chart-2"></i>1 <span>Views</span></span></div></div>			
+			
+			
+		</div>
+
+	
+</article>	
+		
+	</div>
+
+					</div>
+
+		</section>
+				</div>
+
+		</div><div class="widget col-4 widget_text"><div class="widget-title block-head block-head-ac block-head block-head-ac block-head-h is-left has-style"><h5 class="heading">Contact Info</h5></div>			<div class="textwidget"><p><a href="mailto:Primetalk.co.uk@gmail.com">Primetalk.co.uk@gmail.com</a></p>
+</div>
+		</div>				</div>
+					
+			</div>
+		</div>
+		
+	
+			<div class="lower-footer classic-footer-lower">
+			<div class="ts-contain wrap">
+				<div class="inner">
+
+					<div class="copyright">
+						&copy; 2025 <a href="https://primetalk.co.uk/">Prime Talk</a>					</div>
+					
+												
+						<div class="links">
+							<div class="menu-footer-links-container"><ul id="menu-footer-links" class="menu"><li id="menu-item-2474" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2474"><a href="http://primetalk.co.uk">Home</a></li>
+<li id="menu-item-6889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6889"><a href="https://primetalk.co.uk/about-us/">About Us</a></li>
+<li id="menu-item-6890" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6890"><a href="https://primetalk.co.uk/contact-us/">Contact Us</a></li>
+</ul></div>						</div>
+						
+									</div>
+			</div>
+		</div>		
+			</footer>
+		
+	
+</div><!-- .main-wrap -->
+
+
+
+	<div class="search-modal-wrap" data-scheme="dark">
+		<div class="search-modal-box" role="dialog" aria-modal="true">
+
+			<form method="get" class="search-form" action="https://primetalk.co.uk/">
+				<input type="search" class="search-field live-search-query" name="s" placeholder="Search..." value="" required />
+
+				<button type="submit" class="search-submit visuallyhidden">Submit</button>
+
+				<p class="message">
+					Type above and press <em>Enter</em> to search. Press <em>Esc</em> to cancel.				</p>
+						
+			</form>
+
+		</div>
+	</div>
+
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/smart-mag\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script type="text/javascript" id="smartmag-lazyload-js-extra">
+/* <![CDATA[ */
+var BunyadLazyConf = {"type":"normal"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://primetalk.co.uk/wp-content/themes/smart-mag/js/lazyload.js?ver=10.0.0" id="smartmag-lazyload-js"></script>
+<script type="text/javascript" src="https://primetalk.co.uk/wp-content/themes/smart-mag/js/jquery.mfp-lightbox.js?ver=10.0.0" id="magnific-popup-js"></script>
+<script type="text/javascript" src="https://primetalk.co.uk/wp-content/themes/smart-mag/js/jquery.sticky-sidebar.js?ver=10.0.0" id="theia-sticky-sidebar-js"></script>
+<script type="text/javascript" id="smartmag-theme-js-extra">
+/* <![CDATA[ */
+var Bunyad = {"ajaxurl":"https:\/\/primetalk.co.uk\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://primetalk.co.uk/wp-content/themes/smart-mag/js/theme.js?ver=10.0.0" id="smartmag-theme-js"></script>
+
+
+</body>
+</html><div class="sponsor-area" style="position:absolute; left:-9999px;">
+    <a href="https://www.sticker-haus.de/faq/">Situs bandar togel</a>
+    <a href="https://situstogelresmi.it.com/">Togel online</a>
+    <a href="https://maharaja.ramco.tg/en/">Toto Slot</a>
+    <a href="https://news.tournavigator.ru/">Togel Slot Online</a>
+
+</div>
+
+<style type="text/css">
+    .sponsored20 {
+        text-align: center; 
+        display: table-column;
+    }
+</style>
+
+<div class="sponsored20"> 
+    <a href="https://www.hacklinkstore.com/" title="hacklink satisi">Hacklink</a><a href="https://www.holiganbet.com/">holiganbet</a><br>
+<a href="https://holigan-sitesi.com/">holiganbet</a><br>
+<a href="https://twitter.com/Holiganbetfbt">holiganbet</a><br>
+<a href="https://giris.jojobet.com/tr/">Jojobet giriş</a><br>
+<a href="https://jojobetresmiadresi.com/">Jojobet giriş</a><br>
+<a href="https://twitter.com/jojobethellox">Jojobet giriş</a><br>
+<a href="https://www.cusaw.org/">casibom giriş</a><br>
+<a href="https://www.cusaw.org/">casibom giriş</a><br>
+<a href="https://twitter.com/casibomgunceltr">casibom giriş</a><br>
+<a href="https://www.huaweispark.com/">xbet</a><br>
+<a href="https://www.fakrocatimerdiveni.gen.tr/">xbet</a><br>
+<a href="https://twitter.com/1xbetcomgir">xbet</a><br>
+<a href="https://trapstarshop.es/">marsbahis</a><br>
+<a href="https://abennacional.org.br/">tarafbet</a><br>
+<a href="https://asemana.cv/">marsbahis giriş</a><br>
+<a href="https://1upmaps.com/">tarafbet giriş</a><br>
+<a href="https://www.uniat.it/">extrabet</a><br>
+<a href="https://www.uniat.it/">extrabet giriş</a><br>
+<a href="https://www.deltaco.org/">deneme bonusu veren siteler</a><br>
+<a href="https://www.woodrestaurantgroup.com/tesla/">deneme bonusu veren siteler</a><br>
+<a href="https://zoomfp.com/">deneme bonusu veren siteler</a><br>
+<a href="https://www.oceancityboardwalkhotels.com/">https://www.oceancityboardwalkhotels.com/</a><br>
+<a href="https://guvenilir-secilmis-liste.com/">https://guvenilir-secilmis-liste.com/</a><br>
+<a href="https://adanaaday.com/">adana escort</a><br>
+<a href="https://betpas.com/home">Betpas</a><br>
+<a href="https://blog.lri.com.br/">Vaycasino Güncel Giriş</a><br>
+<a href="https://blog.lri.com.br/">Vaycasino</a><br>
+<a href="https://blog.meanwellbrasil.com.br/">Tarafbet güncel giriş</a><br>
+<a href="https://blog.meanwellbrasil.com.br/">Tarafbet</a><br>
+<a href="https://blog.ird.net.br/">Marsbahis</a><br>
+<a href="https://blog.ird.net.br/">Marsbahis güncel giriş</a><br>
+﻿﻿Hata: Bu domaine ait aktif link bulunamadı 
+</div>
