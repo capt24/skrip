@@ -1,0 +1,1198 @@
+
+
+<!DOCTYPE html>
+<html lang="en-US" class="s-light site-s-light">
+
+<head>
+	<meta name="google-site-verification" content="5BJ352at7ywQsI708n6jYwbtPi5YfYadkOu30iPJwRo" />
+
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v25.3.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>The Role of SFM Compile Club in Professional 3D Animation - StarMeg</title><link rel="preload" as="font" href="https://www.starmeg.co.uk/wp-content/themes/smart-mag/css/icons/fonts/ts-icons.woff2?v2.8" type="font/woff2" crossorigin="anonymous" />
+	<meta name="description" content="Discover how SFM Compile Club supports animators with resources, tutorials, and collaboration for professional 3D animation." />
+	<link rel="canonical" href="https://www.starmeg.co.uk/sfm-compile-club/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="The Role of SFM Compile Club in Professional 3D Animation - StarMeg" />
+	<meta property="og:description" content="Discover how SFM Compile Club supports animators with resources, tutorials, and collaboration for professional 3D animation." />
+	<meta property="og:url" content="https://www.starmeg.co.uk/sfm-compile-club/" />
+	<meta property="og:site_name" content="StarMeg" />
+	<meta property="article:published_time" content="2025-08-06T09:52:44+00:00" />
+	<meta property="article:modified_time" content="2025-08-06T09:53:29+00:00" />
+	<meta property="og:image" content="https://www.starmeg.co.uk/wp-content/uploads/2025/08/starmeg-79.png" />
+	<meta property="og:image:width" content="680" />
+	<meta property="og:image:height" content="427" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="author" content="Admin" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Admin" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="5 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.starmeg.co.uk/sfm-compile-club/","url":"https://www.starmeg.co.uk/sfm-compile-club/","name":"The Role of SFM Compile Club in Professional 3D Animation - StarMeg","isPartOf":{"@id":"https://www.starmeg.co.uk/#website"},"primaryImageOfPage":{"@id":"https://www.starmeg.co.uk/sfm-compile-club/#primaryimage"},"image":{"@id":"https://www.starmeg.co.uk/sfm-compile-club/#primaryimage"},"thumbnailUrl":"https://www.starmeg.co.uk/wp-content/uploads/2025/08/starmeg-79.png","datePublished":"2025-08-06T09:52:44+00:00","dateModified":"2025-08-06T09:53:29+00:00","author":{"@id":"https://www.starmeg.co.uk/#/schema/person/bd501e893305e29de046c2b0fff630f3"},"description":"Discover how SFM Compile Club supports animators with resources, tutorials, and collaboration for professional 3D animation.","breadcrumb":{"@id":"https://www.starmeg.co.uk/sfm-compile-club/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.starmeg.co.uk/sfm-compile-club/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.starmeg.co.uk/sfm-compile-club/#primaryimage","url":"https://www.starmeg.co.uk/wp-content/uploads/2025/08/starmeg-79.png","contentUrl":"https://www.starmeg.co.uk/wp-content/uploads/2025/08/starmeg-79.png","width":680,"height":427,"caption":"sfm compile club"},{"@type":"BreadcrumbList","@id":"https://www.starmeg.co.uk/sfm-compile-club/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.starmeg.co.uk/"},{"@type":"ListItem","position":2,"name":"The Role of SFM Compile Club in Professional 3D Animation"}]},{"@type":"WebSite","@id":"https://www.starmeg.co.uk/#website","url":"https://www.starmeg.co.uk/","name":"StarMeg","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.starmeg.co.uk/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Person","@id":"https://www.starmeg.co.uk/#/schema/person/bd501e893305e29de046c2b0fff630f3","name":"Admin","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.starmeg.co.uk/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/ad5579ac416269eabd49aa35f645c036e3bdb8bbfe3d7926b59b5425529c7706?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/ad5579ac416269eabd49aa35f645c036e3bdb8bbfe3d7926b59b5425529c7706?s=96&d=mm&r=g","caption":"Admin"},"sameAs":["http://starmeg.co.uk"],"url":"https://www.starmeg.co.uk/author/admin/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel="alternate" type="application/rss+xml" title="StarMeg &raquo; Feed" href="https://www.starmeg.co.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="StarMeg &raquo; Comments Feed" href="https://www.starmeg.co.uk/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="StarMeg &raquo; The Role of SFM Compile Club in Professional 3D Animation Comments Feed" href="https://www.starmeg.co.uk/sfm-compile-club/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.starmeg.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.3"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.starmeg.co.uk/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='smartmag-core-css' href='https://www.starmeg.co.uk/wp-content/themes/smart-mag/style.css?ver=10.0.0' type='text/css' media='all' />
+<style id='smartmag-core-inline-css' type='text/css'>
+:root { --c-main: #eeb63d;
+--c-main-rgb: 238,182,61;
+--text-font: "Outfit", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+--body-font: "Outfit", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+--main-width: 1140px;
+--wrap-padding: 36px;
+--c-post-meta: #666666;
+--c-excerpts: #424449;
+--excerpt-size: 15px;
+--post-content-gaps: 1.4em; }
+.post-title:not(._) { font-weight: 600; }
+:root { --sidebar-width: 310px; }
+.ts-row, .has-el-gap { --sidebar-c-width: calc(var(--sidebar-width) + var(--grid-gutter-h) + var(--sidebar-c-pad)); }
+:root { --sidebar-pad: 30px; --sidebar-sep-pad: 30px; }
+.smart-head-main .smart-head-top { --head-h: 60px; background-color: #ffffff; }
+.smart-head-main .smart-head-mid { --head-h: 100px; }
+.s-dark .smart-head-main .smart-head-mid,
+.smart-head-main .s-dark.smart-head-mid { background-color: #12232e; }
+.smart-head-main .smart-head-bot { border-top-color: #ededed; }
+.s-dark .smart-head-main .smart-head-bot,
+.smart-head-main .s-dark.smart-head-bot { border-top-color: #4f4f4f; }
+.smart-head-main .smart-head-bot { border-bottom-width: 1px; border-bottom-color: #d3d3d3; }
+.navigation { font-family: var(--body-font); }
+.navigation-main .menu > li > a { font-weight: bold; letter-spacing: 0.05em; }
+.off-canvas { background-color: #060d11; }
+.navigation-small { font-family: var(--body-font); }
+.navigation-small .menu > li > a { font-size: 15px; font-weight: 500; }
+.smart-head-main .spc-social { --spc-social-fs: 18px; }
+.smart-head-main .smart-head-top { --search-icon-size: 16px; }
+.smart-head-main .offcanvas-toggle { transform: scale(0.70); }
+.s-dark .smart-head .ts-button1,
+.smart-head .s-dark .ts-button1 { color: #11242d; background-color: var(--c-main); }
+.smart-head .ts-button1 { border-radius: 6px; }
+.smart-head .h-text { font-family: var(--body-font); font-size: 14px; font-weight: bold; color: #dfaa3d; }
+.upper-footer .block-head .heading { font-family: var(--body-font); }
+.post-meta { font-family: "Roboto", system-ui, -apple-system, "Segoe UI", Arial, sans-serif; }
+.post-meta .meta-item, .post-meta .text-in { font-size: 10px; font-weight: normal; text-transform: uppercase; }
+.post-meta .text-in, .post-meta .post-cat > a { font-size: 10px; }
+.post-meta .post-cat > a { font-weight: bold; text-transform: uppercase; }
+.s-light .block-wrap.s-dark { --c-post-meta: var(--c-contrast-450); }
+.post-meta .post-author > a { color: #595959; }
+.s-dark .post-meta .post-author > a { color: #dddddd; }
+.post-meta { --p-meta-sep: "\007C"; --p-meta-sep-pad: 7px; }
+.post-meta .meta-item:before { transform: scale(1.15); }
+.l-post { --media-radius: 6px; }
+.cat-labels .category { font-size: 10px; letter-spacing: 0.1em; background-color: var(--c-main); border-radius: 3px; }
+.block-head .heading { font-family: var(--body-font); }
+.block-head-b .heading { font-family: "Roboto", system-ui, -apple-system, "Segoe UI", Arial, sans-serif; font-size: 19px; font-weight: bold; text-transform: initial; }
+.block-head-b { --space-below: 16px; }
+.block-head-c { --line-weight: 3px; }
+.block-head-c2 { --line-weight: 3px; }
+.block-head-f .heading { text-transform: uppercase; }
+.block-head-f { --c-border: #ffffff; }
+.s-dark .block-head-f { --c-border: #eaeaea; }
+.block-head-h { --border-weight: 2px; --c-border: var(--c-main); }
+.block-head-i .heading { font-size: 17px; font-weight: bold; }
+.block-head-i { --line-weight: 5px; }
+.block-head-i .heading { color: #000000; }
+.load-button { background-color: var(--c-main); border-radius: 6px; }
+.loop-grid .ratio-is-custom { padding-bottom: calc(100% / 1.68); }
+.loop-grid-base .post-title { font-size: 18px; }
+.loop-grid-sm .post-title { font-size: 17px; }
+.has-nums .l-post { --num-font: var(--body-font); }
+.has-nums-a .l-post .post-title:before,
+.has-nums-b .l-post .content:before { font-size: 26px; font-weight: 500; }
+.has-nums-c .l-post .post-title:before,
+.has-nums-c .l-post .content:before { font-size: 17px; }
+.has-nums:not(.has-nums-c) { --num-color: var(--c-main); }
+.has-nums-a .l-post .post-title:before,
+.has-nums-b .l-post .content:before { content: counter(ts-loop) "."; }
+.loop-list .ratio-is-custom { padding-bottom: calc(100% / 1.575); }
+.list-post { --list-p-media-width: 44%; --list-p-media-max-width: 85%; }
+.list-post .media:not(i) { --list-p-media-max-width: 44%; }
+.loop-small .post-title { font-size: 16px; }
+.loop-small .media { width: 36%; max-width: 50%; }
+.loop-small .media:not(i) { max-width: 92px; }
+.single .featured .ratio-is-custom { padding-bottom: calc(100% / 2); }
+.post-meta-single .meta-item, .post-meta-single .text-in { font-size: 11px; }
+.entry-content { font-size: 17px; }
+.entry-content p { --post-content-gaps: 1.2em; }
+.a-wrap-1 { background-color: #02001c; }
+@media (min-width: 940px) and (max-width: 1200px) { .ts-row, .has-el-gap { --sidebar-c-width: calc(var(--sidebar-width) + var(--grid-gutter-h) + var(--sidebar-c-pad)); }
+.navigation-small .menu > li > a { font-size: calc(10px + (15px - 10px) * .7); } }
+@media (min-width: 768px) and (max-width: 940px) { .ts-contain, .main { padding-left: 35px; padding-right: 35px; } }
+@media (max-width: 767px) { .ts-contain, .main { padding-left: 25px; padding-right: 25px; } }
+@media (min-width: 940px) and (max-width: 1300px) { :root { --wrap-padding: min(36px, 5vw); } }
+
+
+</style>
+<link rel='stylesheet' id='smartmag-magnific-popup-css' href='https://www.starmeg.co.uk/wp-content/themes/smart-mag/css/lightbox.css?ver=10.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-icons-css' href='https://www.starmeg.co.uk/wp-content/themes/smart-mag/css/icons/icons.css?ver=10.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-gfonts-custom-css' href='https://fonts.googleapis.com/css?family=Outfit%3A400%2C500%2C600%2C700%2Cbold%7CRoboto%3A400%2C500%2C600%2C700%2Cbold&#038;display=swap' type='text/css' media='all' />
+<script type="text/javascript" id="smartmag-lazy-inline-js-after">
+/* <![CDATA[ */
+/**
+ * @copyright ThemeSphere
+ * @preserve
+ */
+var BunyadLazy={};BunyadLazy.load=function(){function a(e,n){var t={};e.dataset.bgset&&e.dataset.sizes?(t.sizes=e.dataset.sizes,t.srcset=e.dataset.bgset):t.src=e.dataset.bgsrc,function(t){var a=t.dataset.ratio;if(0<a){const e=t.parentElement;if(e.classList.contains("media-ratio")){const n=e.style;n.getPropertyValue("--a-ratio")||(n.paddingBottom=100/a+"%")}}}(e);var a,o=document.createElement("img");for(a in o.onload=function(){var t="url('"+(o.currentSrc||o.src)+"')",a=e.style;a.backgroundImage!==t&&requestAnimationFrame(()=>{a.backgroundImage=t,n&&n()}),o.onload=null,o.onerror=null,o=null},o.onerror=o.onload,t)o.setAttribute(a,t[a]);o&&o.complete&&0<o.naturalWidth&&o.onload&&o.onload()}function e(t){t.dataset.loaded||a(t,()=>{document.dispatchEvent(new Event("lazyloaded")),t.dataset.loaded=1})}function n(t){"complete"===document.readyState?t():window.addEventListener("load",t)}return{initEarly:function(){var t,a=()=>{document.querySelectorAll(".img.bg-cover:not(.lazyload)").forEach(e)};"complete"!==document.readyState?(t=setInterval(a,150),n(()=>{a(),clearInterval(t)})):a()},callOnLoad:n,initBgImages:function(t){t&&n(()=>{document.querySelectorAll(".img.bg-cover").forEach(e)})},bgLoad:a}}(),BunyadLazy.load.initEarly();
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.starmeg.co.uk/wp-content/plugins/sphere-post-views/assets/js/post-views.js?ver=1.0.1" id="sphere-post-views-js"></script>
+<script type="text/javascript" id="sphere-post-views-js-after">
+/* <![CDATA[ */
+var Sphere_PostViews = {"ajaxUrl":"https:\/\/www.starmeg.co.uk\/wp-admin\/admin-ajax.php?sphere_post_views=1","sampling":0,"samplingRate":10,"repeatCountDelay":0,"postID":9052,"token":"4e2cc31625"}
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.starmeg.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.starmeg.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://www.starmeg.co.uk/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.starmeg.co.uk/wp-json/wp/v2/posts/9052" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.starmeg.co.uk/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.3" />
+<link rel='shortlink' href='https://www.starmeg.co.uk/?p=9052' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.starmeg.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.starmeg.co.uk%2Fsfm-compile-club%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.starmeg.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.starmeg.co.uk%2Fsfm-compile-club%2F&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.155.0" />
+		<script>
+		var BunyadSchemeKey = 'bunyad-scheme';
+		(() => {
+			const d = document.documentElement;
+			const c = d.classList;
+			var scheme = localStorage.getItem(BunyadSchemeKey);
+			
+			if (scheme) {
+				d.dataset.origClass = c;
+				scheme === 'dark' ? c.remove('s-light', 'site-s-light') : c.remove('s-dark', 'site-s-dark');
+				c.add('site-s-' + scheme, 's-' + scheme);
+			}
+		})();
+		</script>
+		
+<!-- Google AdSense meta tags added by Site Kit -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+<!-- End Google AdSense meta tags added by Site Kit -->
+<meta name="generator" content="Elementor 3.29.2; features: e_font_icon_svg, additional_custom_breakpoints, e_local_google_fonts, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="https://www.starmeg.co.uk/wp-content/uploads/2025/06/cropped-SM-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.starmeg.co.uk/wp-content/uploads/2025/06/cropped-SM-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.starmeg.co.uk/wp-content/uploads/2025/06/cropped-SM-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.starmeg.co.uk/wp-content/uploads/2025/06/cropped-SM-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.footer-bold.s-dark {
+	border-top: 5px solid;
+	border-image: linear-gradient(135deg,var(--c-main),#000);
+	border-image-slice: 1;
+}		</style>
+		
+
+</head>
+
+<body class="wp-singular post-template-default single single-post postid-9052 single-format-standard wp-theme-smart-mag right-sidebar post-layout-modern post-cat-65 has-lb has-lb-sm layout-normal elementor-default elementor-kit-8">
+
+
+
+<div class="main-wrap">
+
+	
+<div class="off-canvas-backdrop"></div>
+<div class="mobile-menu-container off-canvas s-dark" id="off-canvas">
+
+	<div class="off-canvas-head">
+		<a href="#" class="close">
+			<span class="visuallyhidden">Close Menu</span>
+			<i class="tsi tsi-times"></i>
+		</a>
+
+		<div class="ts-logo">
+					</div>
+	</div>
+
+	<div class="off-canvas-content">
+
+		
+			<ul id="menu-main-menu" class="mobile-menu"><li id="menu-item-8603" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-8603"><a href="https://www.starmeg.co.uk">Home</a></li>
+<li id="menu-item-8653" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8653"><a href="https://www.starmeg.co.uk/category/news/">News</a></li>
+<li id="menu-item-8654" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-8654"><a href="https://www.starmeg.co.uk/category/technology/">Technology</a></li>
+<li id="menu-item-8649" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8649"><a href="https://www.starmeg.co.uk/category/business/">Business</a></li>
+<li id="menu-item-8650" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8650"><a href="https://www.starmeg.co.uk/category/fashion/">Fashion</a></li>
+<li id="menu-item-8652" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8652"><a href="https://www.starmeg.co.uk/category/guide/">Guide</a></li>
+<li id="menu-item-8651" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8651"><a href="https://www.starmeg.co.uk/category/gaming/">Gaming</a></li>
+</ul>
+		
+					<div class="off-canvas-widgets">
+				
+		<div id="smartmag-block-posts-small-3" class="widget ts-block-widget smartmag-widget-posts-small">		
+		<div class="block">
+					<section class="block-wrap block-posts-small block-sc mb-none has-media-shadows" data-id="1">
+
+			<div class="widget-title block-head block-head-ac block-head-b"><h5 class="heading">What's Trending</h5></div>	
+			<div class="block-content">
+				
+	<div class="loop loop-small loop-small-a loop-sep loop-small-sep grid grid-1 md:grid-1 sm:grid-1 xs:grid-1">
+
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://www.starmeg.co.uk/deep-core-exercises/" class="image-link media-ratio ratio-4-3" title="Deep Core Exercises: Strengthening the Foundation of Your Body"><span data-bgsrc="https://www.starmeg.co.uk/wp-content/uploads/2025/07/starmeg-40-300x188.png" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://www.starmeg.co.uk/wp-content/uploads/2025/07/starmeg-40-300x188.png 300w, https://www.starmeg.co.uk/wp-content/uploads/2025/07/starmeg-40-150x94.png 150w, https://www.starmeg.co.uk/wp-content/uploads/2025/07/starmeg-40-450x283.png 450w, https://www.starmeg.co.uk/wp-content/uploads/2025/07/starmeg-40.png 680w" data-sizes="(max-width: 135px) 100vw, 135px" role="img" aria-label="deep core exercises"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left"><h4 class="is-title post-title"><a href="https://www.starmeg.co.uk/deep-core-exercises/">Deep Core Exercises: Strengthening the Foundation of Your Body</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>	
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://www.starmeg.co.uk/wordle-today-hint/" class="image-link media-ratio ratio-4-3" title="Wordle Today Hint: Mastering the Puzzle with Daily Strategy and Insight"><span data-bgsrc="https://www.starmeg.co.uk/wp-content/uploads/2025/06/starmeg-4-300x188.png" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://www.starmeg.co.uk/wp-content/uploads/2025/06/starmeg-4-300x188.png 300w, https://www.starmeg.co.uk/wp-content/uploads/2025/06/starmeg-4-150x94.png 150w, https://www.starmeg.co.uk/wp-content/uploads/2025/06/starmeg-4-450x283.png 450w, https://www.starmeg.co.uk/wp-content/uploads/2025/06/starmeg-4.png 680w" data-sizes="(max-width: 135px) 100vw, 135px" role="img" aria-label="wordle today hint"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left"><h4 class="is-title post-title"><a href="https://www.starmeg.co.uk/wordle-today-hint/">Wordle Today Hint: Mastering the Puzzle with Daily Strategy and Insight</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>	
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://www.starmeg.co.uk/abdu-rozik-age/" class="image-link media-ratio ratio-4-3" title="The True Age of Abdu Rozik and His Inspiring Success Story"><span data-bgsrc="https://www.starmeg.co.uk/wp-content/uploads/2025/07/starmeg-69-300x188.png" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://www.starmeg.co.uk/wp-content/uploads/2025/07/starmeg-69-300x188.png 300w, https://www.starmeg.co.uk/wp-content/uploads/2025/07/starmeg-69-150x94.png 150w, https://www.starmeg.co.uk/wp-content/uploads/2025/07/starmeg-69-450x283.png 450w, https://www.starmeg.co.uk/wp-content/uploads/2025/07/starmeg-69.png 680w" data-sizes="(max-width: 135px) 100vw, 135px" role="img" aria-label="abdu rozik age"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left"><h4 class="is-title post-title"><a href="https://www.starmeg.co.uk/abdu-rozik-age/">The True Age of Abdu Rozik and His Inspiring Success Story</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>	
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://www.starmeg.co.uk/classroom-30x/" class="image-link media-ratio ratio-4-3" title="Classroom 30X: Revolutionizing Modern Education with Scalable Learning Environments"><span data-bgsrc="https://www.starmeg.co.uk/wp-content/uploads/2025/06/starmeg-23-300x188.png" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://www.starmeg.co.uk/wp-content/uploads/2025/06/starmeg-23-300x188.png 300w, https://www.starmeg.co.uk/wp-content/uploads/2025/06/starmeg-23-150x94.png 150w, https://www.starmeg.co.uk/wp-content/uploads/2025/06/starmeg-23-450x283.png 450w, https://www.starmeg.co.uk/wp-content/uploads/2025/06/starmeg-23.png 680w" data-sizes="(max-width: 135px) 100vw, 135px" role="img" aria-label="classroom 30x"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left"><h4 class="is-title post-title"><a href="https://www.starmeg.co.uk/classroom-30x/">Classroom 30X: Revolutionizing Modern Education with Scalable Learning Environments</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>	
+		
+	</div>
+
+					</div>
+
+		</section>
+				</div>
+
+		</div>			</div>
+		
+		
+		<div class="spc-social-block spc-social spc-social-b smart-head-social">
+		
+			
+				<a href="#" class="link service s-facebook" target="_blank" rel="nofollow noopener">
+					<i class="icon tsi tsi-facebook"></i>					<span class="visuallyhidden">Facebook</span>
+				</a>
+									
+			
+				<a href="#" class="link service s-twitter" target="_blank" rel="nofollow noopener">
+					<i class="icon tsi tsi-twitter"></i>					<span class="visuallyhidden">X (Twitter)</span>
+				</a>
+									
+			
+				<a href="#" class="link service s-instagram" target="_blank" rel="nofollow noopener">
+					<i class="icon tsi tsi-instagram"></i>					<span class="visuallyhidden">Instagram</span>
+				</a>
+									
+			
+		</div>
+
+		
+	</div>
+
+</div>
+<div class="smart-head smart-head-b smart-head-main" id="smart-head" data-sticky="auto" data-sticky-type="smart" data-sticky-full>
+	
+	<div class="smart-head-row smart-head-mid smart-head-row-3 s-dark smart-head-row-full">
+
+		<div class="inner wrap">
+
+							
+				<div class="items items-left ">
+				
+		<div class="spc-social-block spc-social spc-social-b smart-head-social">
+		
+			
+				<a href="#" class="link service s-facebook" target="_blank" rel="nofollow noopener">
+					<i class="icon tsi tsi-facebook"></i>					<span class="visuallyhidden">Facebook</span>
+				</a>
+									
+			
+				<a href="#" class="link service s-twitter" target="_blank" rel="nofollow noopener">
+					<i class="icon tsi tsi-twitter"></i>					<span class="visuallyhidden">X (Twitter)</span>
+				</a>
+									
+			
+				<a href="#" class="link service s-instagram" target="_blank" rel="nofollow noopener">
+					<i class="icon tsi tsi-instagram"></i>					<span class="visuallyhidden">Instagram</span>
+				</a>
+									
+			
+				<a href="#" class="link service s-pinterest" target="_blank" rel="nofollow noopener">
+					<i class="icon tsi tsi-pinterest-p"></i>					<span class="visuallyhidden">Pinterest</span>
+				</a>
+									
+			
+		</div>
+
+						</div>
+
+							
+				<div class="items items-center ">
+					<a href="https://www.starmeg.co.uk/" title="StarMeg" rel="home" class="logo-link ts-logo text-logo">
+		<span>
+			
+				StarMeg
+					</span>
+	</a>				</div>
+
+							
+				<div class="items items-right ">
+				
+	<a href="https://www.starmeg.co.uk/contact-us/" class="ts-button ts-button-a ts-button1">
+		Contact Us	</a>
+				</div>
+
+						
+		</div>
+	</div>
+
+	
+	<div class="smart-head-row smart-head-bot smart-head-row-3 is-light has-center-nav wrap">
+
+		<div class="inner full">
+
+							
+				<div class="items items-left empty">
+								</div>
+
+							
+				<div class="items items-center ">
+					<div class="nav-wrap">
+		<nav class="navigation navigation-main nav-hov-a">
+			<ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-8603"><a href="https://www.starmeg.co.uk">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-61 menu-item-8653"><a href="https://www.starmeg.co.uk/category/news/">News</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-cat-64 menu-item-8654"><a href="https://www.starmeg.co.uk/category/technology/">Technology</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-50 menu-item-8649"><a href="https://www.starmeg.co.uk/category/business/">Business</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-55 menu-item-8650"><a href="https://www.starmeg.co.uk/category/fashion/">Fashion</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-57 menu-item-8652"><a href="https://www.starmeg.co.uk/category/guide/">Guide</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-56 menu-item-8651"><a href="https://www.starmeg.co.uk/category/gaming/">Gaming</a></li>
+</ul>		</nav>
+	</div>
+				</div>
+
+							
+				<div class="items items-right empty">
+								</div>
+
+						
+		</div>
+	</div>
+
+	</div>
+<div class="smart-head smart-head-a smart-head-mobile" id="smart-head-mobile" data-sticky="mid" data-sticky-type="smart" data-sticky-full>
+	
+	<div class="smart-head-row smart-head-mid smart-head-row-3 s-dark smart-head-row-full">
+
+		<div class="inner wrap">
+
+							
+				<div class="items items-left ">
+				
+<button class="offcanvas-toggle has-icon" type="button" aria-label="Menu">
+	<span class="hamburger-icon hamburger-icon-a">
+		<span class="inner"></span>
+	</span>
+</button>				</div>
+
+							
+				<div class="items items-center ">
+					<a href="https://www.starmeg.co.uk/" title="StarMeg" rel="home" class="logo-link ts-logo text-logo">
+		<span>
+			
+				StarMeg
+					</span>
+	</a>				</div>
+
+							
+				<div class="items items-right ">
+				
+
+	<a href="#" class="search-icon has-icon-only is-icon" title="Search">
+		<i class="tsi tsi-search"></i>
+	</a>
+
+				</div>
+
+						
+		</div>
+	</div>
+
+	</div>
+<nav class="breadcrumbs is-full-width breadcrumbs-a" id="breadcrumb"><div class="inner ts-contain "><span class="label">You are at:</span><span><span><a href="https://www.starmeg.co.uk/">Home</a></span> » <span class="breadcrumb_last" aria-current="page">The Role of SFM Compile Club in Professional 3D Animation</span></span></div></nav>
+<div class="main ts-contain cf right-sidebar">
+	
+		
+
+<div class="ts-row">
+	<div class="col-8 main-content s-post-contain">
+
+					<div class="the-post-header s-head-modern s-head-modern-a has-share-meta-right">
+	<div class="post-meta post-meta-a post-meta-left post-meta-single has-below"><div class="post-meta-items meta-above"><span class="meta-item cat-labels">
+						
+						<a href="https://www.starmeg.co.uk/category/technology/gadgets/" class="category term-color-65" rel="category">Gadgets</a>
+					</span>
+					</div><h1 class="is-title post-title">The Role of SFM Compile Club in Professional 3D Animation</h1><div class="meta-below-has-right"><div class="post-meta-items meta-below has-author-img"><span class="meta-item post-author has-img"><img alt='Admin' src='https://secure.gravatar.com/avatar/ad5579ac416269eabd49aa35f645c036e3bdb8bbfe3d7926b59b5425529c7706?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/ad5579ac416269eabd49aa35f645c036e3bdb8bbfe3d7926b59b5425529c7706?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' decoding='async'/><span class="by">By</span> <a href="https://www.starmeg.co.uk/author/admin/" title="Posts by Admin" rel="author">Admin</a></span><span class="meta-item date"><time class="post-date" datetime="2025-08-06T09:52:44+00:00">August 6, 2025</time></span></div> 
+	<div class="post-share post-share-b spc-social-colors  post-share-b4">
+
+					<span class="share-text">
+				<i class="icon tsi tsi-share1"></i>
+				Share			</span>
+				
+		
+				
+			<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.starmeg.co.uk%2Fsfm-compile-club%2F" class="cf service s-facebook service-lg" 
+				title="Share on Facebook" target="_blank" rel="nofollow noopener">
+				<i class="tsi tsi-facebook"></i>
+				<span class="label">Facebook</span>
+							</a>
+				
+				
+			<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.starmeg.co.uk%2Fsfm-compile-club%2F&#038;text=The%20Role%20of%20SFM%20Compile%20Club%20in%20Professional%203D%20Animation" class="cf service s-twitter service-lg" 
+				title="Share on X (Twitter)" target="_blank" rel="nofollow noopener">
+				<i class="tsi tsi-twitter"></i>
+				<span class="label">Twitter</span>
+							</a>
+				
+				
+			<a href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.starmeg.co.uk%2Fsfm-compile-club%2F&#038;media=https%3A%2F%2Fwww.starmeg.co.uk%2Fwp-content%2Fuploads%2F2025%2F08%2Fstarmeg-79.png&#038;description=The%20Role%20of%20SFM%20Compile%20Club%20in%20Professional%203D%20Animation" class="cf service s-pinterest service-lg" 
+				title="Share on Pinterest" target="_blank" rel="nofollow noopener">
+				<i class="tsi tsi-pinterest"></i>
+				<span class="label">Pinterest</span>
+							</a>
+				
+				
+			<a href="https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fwww.starmeg.co.uk%2Fsfm-compile-club%2F" class="cf service s-linkedin service-sm" 
+				title="Share on LinkedIn" target="_blank" rel="nofollow noopener">
+				<i class="tsi tsi-linkedin"></i>
+				<span class="label">LinkedIn</span>
+							</a>
+				
+				
+			<a href="https://www.tumblr.com/share/link?url=https%3A%2F%2Fwww.starmeg.co.uk%2Fsfm-compile-club%2F&#038;name=The%20Role%20of%20SFM%20Compile%20Club%20in%20Professional%203D%20Animation" class="cf service s-tumblr service-sm" 
+				title="Share on Tumblr" target="_blank" rel="nofollow noopener">
+				<i class="tsi tsi-tumblr"></i>
+				<span class="label">Tumblr</span>
+							</a>
+				
+				
+			<a href="mailto:?subject=The%20Role%20of%20SFM%20Compile%20Club%20in%20Professional%203D%20Animation&#038;body=https%3A%2F%2Fwww.starmeg.co.uk%2Fsfm-compile-club%2F" class="cf service s-email service-sm" 
+				title="Share via Email" target="_blank" rel="nofollow noopener">
+				<i class="tsi tsi-envelope-o"></i>
+				<span class="label">Email</span>
+							</a>
+				
+		
+				
+					<a href="#" class="show-more" title="Show More Social Sharing"><i class="tsi tsi-share"></i></a>
+		
+				
+	</div>
+
+</div></div>	
+	
+</div>		
+					<div class="single-featured"></div>
+		
+		<div class="the-post s-post-modern">
+
+			<article id="post-9052" class="post-9052 post type-post status-publish format-standard has-post-thumbnail category-gadgets">
+				
+<div class="post-content-wrap has-share-float">
+						<div class="post-share-float share-float-b is-hidden spc-social-colors spc-social-colored">
+	<div class="inner">
+					<span class="share-text">Share</span>
+		
+		<div class="services">
+					
+				
+			<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.starmeg.co.uk%2Fsfm-compile-club%2F" class="cf service s-facebook" target="_blank" title="Facebook" rel="nofollow noopener">
+				<i class="tsi tsi-facebook"></i>
+				<span class="label">Facebook</span>
+
+							</a>
+				
+				
+			<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.starmeg.co.uk%2Fsfm-compile-club%2F&text=The%20Role%20of%20SFM%20Compile%20Club%20in%20Professional%203D%20Animation" class="cf service s-twitter" target="_blank" title="Twitter" rel="nofollow noopener">
+				<i class="tsi tsi-twitter"></i>
+				<span class="label">Twitter</span>
+
+							</a>
+				
+				
+			<a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.starmeg.co.uk%2Fsfm-compile-club%2F" class="cf service s-linkedin" target="_blank" title="LinkedIn" rel="nofollow noopener">
+				<i class="tsi tsi-linkedin"></i>
+				<span class="label">LinkedIn</span>
+
+							</a>
+				
+				
+			<a href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.starmeg.co.uk%2Fsfm-compile-club%2F&media=https%3A%2F%2Fwww.starmeg.co.uk%2Fwp-content%2Fuploads%2F2025%2F08%2Fstarmeg-79.png&description=The%20Role%20of%20SFM%20Compile%20Club%20in%20Professional%203D%20Animation" class="cf service s-pinterest" target="_blank" title="Pinterest" rel="nofollow noopener">
+				<i class="tsi tsi-pinterest-p"></i>
+				<span class="label">Pinterest</span>
+
+							</a>
+				
+				
+			<a href="mailto:?subject=The%20Role%20of%20SFM%20Compile%20Club%20in%20Professional%203D%20Animation&body=https%3A%2F%2Fwww.starmeg.co.uk%2Fsfm-compile-club%2F" class="cf service s-email" target="_blank" title="Email" rel="nofollow noopener">
+				<i class="tsi tsi-envelope-o"></i>
+				<span class="label">Email</span>
+
+							</a>
+				
+		
+					
+		</div>
+	</div>		
+</div>
+			
+	<div class="post-content cf entry-content content-spacious">
+
+		
+				
+		
+<p>The animation industry has witnessed rapid growth over the past decade, driven by advancements in digital tools and the creative potential of artists worldwide. Among these innovative tools, Source Filmmaker (SFM) has emerged as a powerful platform for creating cinematic sequences and animated content. The SFM Compile Club, a community dedicated to mastering and enhancing workflows within Source Filmmaker, plays a vital role in shaping how professionals and enthusiasts approach 3D animation. This platform is more than just a gathering place; it is an evolving hub that provides support, resources, and knowledge sharing to elevate the quality of animations produced through SFM.</p>
+
+
+
+<h2 class="wp-block-heading">What Is Source Filmmaker and Why Is It Important?</h2>
+
+
+
+<p>Source Filmmaker, developed by Valve Corporation, is a unique software built on the Source game engine. Initially designed to create promotional content and game cinematics, SFM has since evolved into a versatile tool that can produce professional-grade animations. Its built-in physics engine, ability to integrate assets from Valve games, and real-time rendering capabilities make it particularly appealing to both beginner animators and seasoned professionals.</p>
+
+
+
+<p>The reason SFM holds such a special place in the animation community is its accessibility. Unlike other 3D animation software that require steep learning curves and expensive licensing, SFM is free and relatively easy to learn. However, mastering its advanced features requires guidance, practice, and community support—this is where <a href="https://www.starmeg.co.uk/sfm-compile-club/">SFM Compile Club</a> comes into the picture.</p>
+
+
+
+<h2 class="wp-block-heading">The Purpose and Mission of SFM Compile Club</h2>
+
+
+
+<p>SFM Compile Club exists to bring together individuals who share a passion for digital filmmaking and 3D animation using SFM. Its primary mission is to help animators navigate the complexities of compiling and rendering scenes efficiently. Rendering high-quality animations in SFM often presents challenges, such as dealing with complex lighting, texture optimization, and model compatibility.</p>
+
+
+
+<p>By providing solutions, tutorials, and collaborative opportunities, the SFM Compile Club serves as a bridge between learning and application. Whether it’s troubleshooting compilation issues or understanding advanced rendering settings, this community offers valuable insights that significantly reduce the learning curve. For professionals, the club also functions as a space to discuss industry trends, share workflow improvements, and explore new creative ideas.</p>
+
+
+
+<h2 class="wp-block-heading">How SFM Compile Club Benefits Professionals and Beginners</h2>
+
+
+
+<p>For newcomers to SFM, the learning process can feel overwhelming. SFM Compile Club provides clear documentation, beginner-friendly tutorials, and access to experienced animators who can answer questions and offer feedback. This mentorship approach helps beginners build confidence and improve their skills at a faster pace.</p>
+
+
+
+<p>For experienced animators and professionals, the club acts as a collaborative think tank. Members often exchange best practices, showcase project breakdowns, and share rendering techniques that enhance production quality. This constant exchange of knowledge allows members to stay updated on software updates, asset development, and even third-party tools that improve animation efficiency.</p>
+
+
+
+<p>In addition, SFM Compile Club encourages portfolio development. Animators can present their work, receive constructive criticism, and gain visibility within the industry. Many members have credited the club for providing networking opportunities that led to freelance projects, collaborations, and even full-time animation careers.</p>
+
+
+
+<h2 class="wp-block-heading">Tools and Resources Provided by the Community</h2>
+
+
+
+<p>The strength of SFM Compile Club lies in its resources. Members have access to libraries of community-made assets, models, and textures. These resources allow animators to focus more on storytelling rather than spending excessive time on asset creation.</p>
+
+
+
+<p>Another important resource is the compilation guide. Rendering animations in SFM often involves dealing with engine limitations and complex settings. SFM Compile Club simplifies this process by providing step-by-step instructions on how to optimize renders, adjust file formats, and troubleshoot common errors.</p>
+
+
+
+<p>The community also supports the development of custom plugins and scripts that integrate with SFM. These tools are specifically designed to extend SFM’s capabilities, improve workflow, and reduce rendering times. This level of technical innovation makes the club a valuable hub not just for artists but also for technical professionals in the animation industry.</p>
+
+
+
+<h2 class="wp-block-heading">The Role of Collaboration and Networking</h2>
+
+
+
+<p>Collaboration is one of the defining characteristics of SFM Compile Club. Animation is rarely a solo effort; it often involves teamwork between modelers, animators, sound designers, and editors. By fostering a collaborative environment, SFM Compile Club allows members to find partners for projects, share knowledge, and create professional-quality animations together.</p>
+
+
+
+<p>Networking within the club also opens doors for professional growth. Many animators use the club to showcase their work, attract potential clients, or connect with industry professionals. This interaction often results in project partnerships, commissions, or even full-scale professional opportunities. For students and freelancers, such networking can be a gateway to building a successful career in 3D animation.</p>
+
+
+
+<h2 class="wp-block-heading">Impact on the Animation Industry</h2>
+
+
+
+<p>While SFM is often perceived as a niche tool compared to industry-standard software like Maya or Blender, its influence should not be underestimated. Communities like SFM Compile Club ensure that this powerful yet accessible platform continues to thrive. By helping individuals produce high-quality work, the club indirectly influences trends in independent filmmaking, fan animations, and even professional game cinematics.</p>
+
+
+
+<p>Many animations produced by members of SFM Compile Club have gained recognition on platforms like YouTube and Steam Workshop, proving that professional-grade content can indeed be created with accessible tools. This democratization of animation production has expanded creative opportunities for people who otherwise might not have access to expensive software or formal training.</p>
+
+
+
+<h2 class="wp-block-heading">The Future of SFM Compile Club and 3D Animation</h2>
+
+
+
+<p>The future of SFM Compile Club looks promising as technology continues to evolve. With advancements in game engines, rendering technologies, and artificial intelligence, animation workflows are becoming faster and more sophisticated. <a href="https://cordless.io/sfm-compile-club/">SFM Compile Club is expected to adapt</a> to these changes, providing updated resources, tutorials, and new collaborative features to meet the demands of a growing user base.</p>
+
+
+
+<p>The community may also expand its focus beyond SFM, exploring integration with other popular 3D tools and engines. This flexibility will help members transition smoothly into broader professional animation workflows, ensuring that the skills learned through SFM remain relevant.</p>
+
+
+
+<h2 class="wp-block-heading">Conclusion</h2>
+
+
+
+<p>SFM Compile Club stands as an essential community for animators using Source Filmmaker, offering guidance, resources, and collaborative opportunities that help both beginners and professionals succeed. By simplifying rendering processes, providing valuable assets, and fostering networking, it enables members to produce higher-quality animations with greater efficiency. Its influence extends beyond hobbyist content, supporting professional-grade work and encouraging career development in digital filmmaking. As animation technology continues to advance, SFM Compile Club will remain a vital hub for learning, collaboration, and innovation. For those seeking to enhance their animation skills, it represents a gateway to professional growth and creative success.</p>
+
+				
+		
+		
+		
+	</div>
+</div>
+	
+			</article>
+
+			
+	
+	<div class="post-share-bot">
+		<span class="info">Share.</span>
+		
+		<span class="share-links spc-social spc-social-colors spc-social-bg">
+
+			
+			
+				<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.starmeg.co.uk%2Fsfm-compile-club%2F" class="service s-facebook tsi tsi-facebook" 
+					title="Share on Facebook" target="_blank" rel="nofollow noopener">
+					<span class="visuallyhidden">Facebook</span>
+
+									</a>
+					
+			
+				<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.starmeg.co.uk%2Fsfm-compile-club%2F&#038;text=The%20Role%20of%20SFM%20Compile%20Club%20in%20Professional%203D%20Animation" class="service s-twitter tsi tsi-twitter" 
+					title="Share on X (Twitter)" target="_blank" rel="nofollow noopener">
+					<span class="visuallyhidden">Twitter</span>
+
+									</a>
+					
+			
+				<a href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.starmeg.co.uk%2Fsfm-compile-club%2F&#038;media=https%3A%2F%2Fwww.starmeg.co.uk%2Fwp-content%2Fuploads%2F2025%2F08%2Fstarmeg-79.png&#038;description=The%20Role%20of%20SFM%20Compile%20Club%20in%20Professional%203D%20Animation" class="service s-pinterest tsi tsi-pinterest" 
+					title="Share on Pinterest" target="_blank" rel="nofollow noopener">
+					<span class="visuallyhidden">Pinterest</span>
+
+									</a>
+					
+			
+				<a href="https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fwww.starmeg.co.uk%2Fsfm-compile-club%2F" class="service s-linkedin tsi tsi-linkedin" 
+					title="Share on LinkedIn" target="_blank" rel="nofollow noopener">
+					<span class="visuallyhidden">LinkedIn</span>
+
+									</a>
+					
+			
+				<a href="https://www.tumblr.com/share/link?url=https%3A%2F%2Fwww.starmeg.co.uk%2Fsfm-compile-club%2F&#038;name=The%20Role%20of%20SFM%20Compile%20Club%20in%20Professional%203D%20Animation" class="service s-tumblr tsi tsi-tumblr" 
+					title="Share on Tumblr" target="_blank" rel="nofollow noopener">
+					<span class="visuallyhidden">Tumblr</span>
+
+									</a>
+					
+			
+				<a href="mailto:?subject=The%20Role%20of%20SFM%20Compile%20Club%20in%20Professional%203D%20Animation&#038;body=https%3A%2F%2Fwww.starmeg.co.uk%2Fsfm-compile-club%2F" class="service s-email tsi tsi-envelope-o" 
+					title="Share via Email" target="_blank" rel="nofollow noopener">
+					<span class="visuallyhidden">Email</span>
+
+									</a>
+					
+			
+			
+		</span>
+	</div>
+	
+
+
+	<section class="navigate-posts">
+	
+		<div class="previous">
+					<span class="main-color title"><i class="tsi tsi-chevron-left"></i> Previous Article</span><span class="link"><a href="https://www.starmeg.co.uk/mark-carney-net-worth/" rel="prev">The Financial Journey of Mark Carney: Net Worth and Professional Milestones</a></span>
+				</div>
+		<div class="next">
+					<span class="main-color title">Next Article <i class="tsi tsi-chevron-right"></i></span><span class="link"><a href="https://www.starmeg.co.uk/coomer-su/" rel="next">The Evolution and Impact of Coomer SU in Digital Culture</a></span>
+				</div>		
+	</section>
+
+
+
+	<div class="author-box">
+		<section class="author-info">
+
+	<img alt='' src='https://secure.gravatar.com/avatar/ad5579ac416269eabd49aa35f645c036e3bdb8bbfe3d7926b59b5425529c7706?s=95&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/ad5579ac416269eabd49aa35f645c036e3bdb8bbfe3d7926b59b5425529c7706?s=190&#038;d=mm&#038;r=g 2x' class='avatar avatar-95 photo' height='95' width='95' decoding='async'/>	
+	<div class="description">
+		<a href="https://www.starmeg.co.uk/author/admin/" title="Posts by Admin" rel="author">Admin</a>		
+		<ul class="social-icons">
+					
+			<li>
+				<a href="http://starmeg.co.uk" class="icon tsi tsi-home" title="Website"> 
+					<span class="visuallyhidden">Website</span></a>				
+			</li>
+			
+			
+				</ul>
+		
+		<p class="bio"></p>
+	</div>
+	
+</section>	</div>
+
+			
+			<div class="comments">
+							</div>
+
+		</div>
+	</div>
+	
+			
+	
+	<aside class="col-4 main-sidebar has-sep" data-sticky="1">
+	
+			<div class="inner theiaStickySidebar">
+		
+			
+		<div id="smartmag-block-posts-small-2" class="widget ts-block-widget smartmag-widget-posts-small">		
+		<div class="block">
+					<section class="block-wrap block-posts-small block-sc mb-none has-media-shadows" data-id="2">
+
+			<div class="widget-title block-head block-head-ac block-head block-head-ac block-head-i is-left has-style"><h5 class="heading">Popular Posts</h5></div>	
+			<div class="block-content">
+				
+	<div class="loop loop-small loop-small-a grid grid-1 md:grid-1 sm:grid-1 xs:grid-1">
+
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://www.starmeg.co.uk/social-media-girls-forum/" class="image-link media-ratio ratio-4-3" title="How Social Media Girls Forum is Shaping Online Networking for Women"><span data-bgsrc="https://www.starmeg.co.uk/wp-content/uploads/2025/08/starmeg-76-300x188.png" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://www.starmeg.co.uk/wp-content/uploads/2025/08/starmeg-76-300x188.png 300w, https://www.starmeg.co.uk/wp-content/uploads/2025/08/starmeg-76-150x94.png 150w, https://www.starmeg.co.uk/wp-content/uploads/2025/08/starmeg-76-450x283.png 450w, https://www.starmeg.co.uk/wp-content/uploads/2025/08/starmeg-76.png 680w" data-sizes="(max-width: 135px) 100vw, 135px" role="img" aria-label="social media girls forum"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title"><a href="https://www.starmeg.co.uk/social-media-girls-forum/">How Social Media Girls Forum is Shaping Online Networking for Women</a></h4><div class="post-meta-items meta-below"><span class="meta-item has-next-icon date"><span class="date-link"><time class="post-date" datetime="2025-08-04T14:08:51+00:00">August 4, 2025</time></span></span><span title="3 Article Views" class="meta-item post-views has-icon"><i class="tsi tsi-bar-chart-2"></i>3 <span>Views</span></span></div></div>			
+			
+			
+		</div>
+
+	
+</article>	
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://www.starmeg.co.uk/how-to-start-a-tech-blog/" class="image-link media-ratio ratio-4-3" title="Beginner’s Roadmap: How to Start a Tech Blog That Stands Out"><span data-bgsrc="https://www.starmeg.co.uk/wp-content/uploads/2025/08/starmeg-300x188.png" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://www.starmeg.co.uk/wp-content/uploads/2025/08/starmeg-300x188.png 300w, https://www.starmeg.co.uk/wp-content/uploads/2025/08/starmeg-150x94.png 150w, https://www.starmeg.co.uk/wp-content/uploads/2025/08/starmeg-450x283.png 450w, https://www.starmeg.co.uk/wp-content/uploads/2025/08/starmeg.png 680w" data-sizes="(max-width: 135px) 100vw, 135px" role="img" aria-label="how to start a tech blog"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title"><a href="https://www.starmeg.co.uk/how-to-start-a-tech-blog/">Beginner’s Roadmap: How to Start a Tech Blog That Stands Out</a></h4><div class="post-meta-items meta-below"><span class="meta-item has-next-icon date"><span class="date-link"><time class="post-date" datetime="2025-08-26T12:53:27+00:00">August 26, 2025</time></span></span><span title="6 Article Views" class="meta-item post-views has-icon"><i class="tsi tsi-bar-chart-2"></i>6 <span>Views</span></span></div></div>			
+			
+			
+		</div>
+
+	
+</article>	
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://www.starmeg.co.uk/rachel-catudal/" class="image-link media-ratio ratio-4-3" title="Rachel Catudal: A Life of Strength, Resilience, and Advocacy"><span data-bgsrc="https://www.starmeg.co.uk/wp-content/uploads/2025/06/starmeg-9-300x188.png" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://www.starmeg.co.uk/wp-content/uploads/2025/06/starmeg-9-300x188.png 300w, https://www.starmeg.co.uk/wp-content/uploads/2025/06/starmeg-9-150x94.png 150w, https://www.starmeg.co.uk/wp-content/uploads/2025/06/starmeg-9-450x283.png 450w, https://www.starmeg.co.uk/wp-content/uploads/2025/06/starmeg-9.png 680w" data-sizes="(max-width: 135px) 100vw, 135px" role="img" aria-label="rachel catudal"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title"><a href="https://www.starmeg.co.uk/rachel-catudal/">Rachel Catudal: A Life of Strength, Resilience, and Advocacy</a></h4><div class="post-meta-items meta-below"><span class="meta-item has-next-icon date"><span class="date-link"><time class="post-date" datetime="2025-06-23T14:13:24+00:00">June 23, 2025</time></span></span><span title="3 Article Views" class="meta-item post-views has-icon"><i class="tsi tsi-bar-chart-2"></i>3 <span>Views</span></span></div></div>			
+			
+			
+		</div>
+
+	
+</article>	
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://www.starmeg.co.uk/entrepreneurs-break/" class="image-link media-ratio ratio-4-3" title="The Importance of Taking a Break: How Entrepreneurs Can Boost Productivity"><span data-bgsrc="https://www.starmeg.co.uk/wp-content/uploads/2025/08/starmeg-86-300x188.png" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://www.starmeg.co.uk/wp-content/uploads/2025/08/starmeg-86-300x188.png 300w, https://www.starmeg.co.uk/wp-content/uploads/2025/08/starmeg-86-150x94.png 150w, https://www.starmeg.co.uk/wp-content/uploads/2025/08/starmeg-86-450x283.png 450w, https://www.starmeg.co.uk/wp-content/uploads/2025/08/starmeg-86.png 680w" data-sizes="(max-width: 135px) 100vw, 135px" role="img" aria-label="entrepreneurs break"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title"><a href="https://www.starmeg.co.uk/entrepreneurs-break/">The Importance of Taking a Break: How Entrepreneurs Can Boost Productivity</a></h4><div class="post-meta-items meta-below"><span class="meta-item has-next-icon date"><span class="date-link"><time class="post-date" datetime="2025-08-18T13:34:19+00:00">August 18, 2025</time></span></span><span title="6 Article Views" class="meta-item post-views has-icon"><i class="tsi tsi-bar-chart-2"></i>6 <span>Views</span></span></div></div>			
+			
+			
+		</div>
+
+	
+</article>	
+		
+	</div>
+
+					</div>
+
+		</section>
+				</div>
+
+		</div>		</div>
+	
+	</aside>
+	
+</div>
+	</div>
+
+			<footer class="main-footer cols-gap-lg footer-classic s-dark">
+
+						<div class="upper-footer classic-footer-upper">
+			<div class="ts-contain wrap">
+		
+							<div class="widgets row cf">
+					<div class="widget col-4 widget_text"><div class="widget-title block-head block-head-ac block-head block-head-ac block-head-h is-left has-style"><h5 class="heading">About Us</h5></div>			<div class="textwidget"><p>StarMeg is your all-in-one blog for the latest in Technology, News, Business, Fashion, Gaming, and more. Stay informed, inspired, and entertained with fresh content curated just for you.</p>
+</div>
+		</div>
+		<div class="widget col-4 ts-block-widget smartmag-widget-posts-small">		
+		<div class="block">
+					<section class="block-wrap block-posts-small block-sc mb-none has-media-shadows" data-id="3">
+
+			<div class="widget-title block-head block-head-ac block-head block-head-ac block-head-h is-left has-style"><h5 class="heading">Our Picks</h5></div>	
+			<div class="block-content">
+				
+	<div class="loop loop-small loop-small-a loop-sep loop-small-sep grid grid-1 md:grid-1 sm:grid-1 xs:grid-1">
+
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://www.starmeg.co.uk/joyous-laughter/" class="image-link media-ratio ratio-4-3" title="Joyous Laughter: The Healing Power of True Happiness"><span data-bgsrc="https://www.starmeg.co.uk/wp-content/uploads/2025/06/starmeg-14-300x188.png" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://www.starmeg.co.uk/wp-content/uploads/2025/06/starmeg-14-300x188.png 300w, https://www.starmeg.co.uk/wp-content/uploads/2025/06/starmeg-14-150x94.png 150w, https://www.starmeg.co.uk/wp-content/uploads/2025/06/starmeg-14-450x283.png 450w, https://www.starmeg.co.uk/wp-content/uploads/2025/06/starmeg-14.png 680w" data-sizes="(max-width: 135px) 100vw, 135px" role="img" aria-label="joyous laughter"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left"><h4 class="is-title post-title"><a href="https://www.starmeg.co.uk/joyous-laughter/">Joyous Laughter: The Healing Power of True Happiness</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>	
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://www.starmeg.co.uk/michael-levonchuck/" class="image-link media-ratio ratio-4-3" title="Michael Levonchuck: The Enigmatic Figure Shaping Contemporary Thought and Innovation"><span data-bgsrc="https://www.starmeg.co.uk/wp-content/uploads/2025/06/starmeg-5-300x188.png" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://www.starmeg.co.uk/wp-content/uploads/2025/06/starmeg-5-300x188.png 300w, https://www.starmeg.co.uk/wp-content/uploads/2025/06/starmeg-5-150x94.png 150w, https://www.starmeg.co.uk/wp-content/uploads/2025/06/starmeg-5-450x283.png 450w, https://www.starmeg.co.uk/wp-content/uploads/2025/06/starmeg-5.png 680w" data-sizes="(max-width: 135px) 100vw, 135px" role="img" aria-label="michael levonchuck"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left"><h4 class="is-title post-title"><a href="https://www.starmeg.co.uk/michael-levonchuck/">Michael Levonchuck: The Enigmatic Figure Shaping Contemporary Thought and Innovation</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>	
+		
+	</div>
+
+					</div>
+
+		</section>
+				</div>
+
+		</div><div class="widget col-4 widget_text"><div class="widget-title block-head block-head-ac block-head block-head-ac block-head-h is-left has-style"><h5 class="heading">Contact Info</h5></div>			<div class="textwidget"><p><strong>Email: <a href="mailto:StarMeg.co.uk@gmail.com">StarMeg.co.uk@gmail.com</a></strong></p>
+</div>
+		</div>				</div>
+					
+			</div>
+		</div>
+		
+	
+			<div class="lower-footer classic-footer-lower">
+			<div class="ts-contain wrap">
+				<div class="inner">
+
+					<div class="copyright">
+						© Copyright 2025 StarMeg All Rights Reserved					</div>
+					
+												
+						<div class="links">
+							<div class="menu-footer-links-container"><ul id="menu-footer-links" class="menu"><li id="menu-item-8620" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-8620"><a href="https://www.starmeg.co.uk">Home</a></li>
+<li id="menu-item-8648" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8648"><a href="https://www.starmeg.co.uk/about-us/">About Us</a></li>
+<li id="menu-item-8646" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8646"><a href="https://www.starmeg.co.uk/contact-us/">Contact Us</a></li>
+<li id="menu-item-8647" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8647"><a href="https://www.starmeg.co.uk/privacy-policy/">Privacy Policy</a></li>
+</ul></div>						</div>
+						
+									</div>
+			</div>
+		</div>		
+			</footer>
+		
+	
+</div><!-- .main-wrap -->
+
+
+
+	<div class="search-modal-wrap" data-scheme="dark">
+		<div class="search-modal-box" role="dialog" aria-modal="true">
+
+			<form method="get" class="search-form" action="https://www.starmeg.co.uk/">
+				<input type="search" class="search-field live-search-query" name="s" placeholder="Search..." value="" required />
+
+				<button type="submit" class="search-submit visuallyhidden">Submit</button>
+
+				<p class="message">
+					Type above and press <em>Enter</em> to search. Press <em>Esc</em> to cancel.				</p>
+						
+			</form>
+
+		</div>
+	</div>
+
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/smart-mag\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Article","headline":"The Role of SFM Compile Club in Professional 3D Animation","url":"https:\/\/www.starmeg.co.uk\/sfm-compile-club\/","image":{"@type":"ImageObject","url":"https:\/\/www.starmeg.co.uk\/wp-content\/uploads\/2025\/08\/starmeg-79.png","width":680,"height":427},"datePublished":"2025-08-06T09:52:44+00:00","dateModified":"2025-08-06T09:53:29+00:00","author":{"@type":"Person","name":"Admin","url":"https:\/\/www.starmeg.co.uk\/author\/admin\/"},"publisher":{"@type":"Organization","name":"StarMeg","sameAs":"https:\/\/www.starmeg.co.uk"},"mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.starmeg.co.uk\/sfm-compile-club\/"}}</script>
+			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script type="text/javascript" id="smartmag-lazyload-js-extra">
+/* <![CDATA[ */
+var BunyadLazyConf = {"type":"normal"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.starmeg.co.uk/wp-content/themes/smart-mag/js/lazyload.js?ver=10.0.0" id="smartmag-lazyload-js"></script>
+<script type="text/javascript" src="https://www.starmeg.co.uk/wp-content/themes/smart-mag/js/jquery.mfp-lightbox.js?ver=10.0.0" id="magnific-popup-js"></script>
+<script type="text/javascript" src="https://www.starmeg.co.uk/wp-content/themes/smart-mag/js/jquery.sticky-sidebar.js?ver=10.0.0" id="theia-sticky-sidebar-js"></script>
+<script type="text/javascript" id="smartmag-theme-js-extra">
+/* <![CDATA[ */
+var Bunyad = {"ajaxurl":"https:\/\/www.starmeg.co.uk\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.starmeg.co.uk/wp-content/themes/smart-mag/js/theme.js?ver=10.0.0" id="smartmag-theme-js"></script>
+<script type="text/javascript" src="https://www.starmeg.co.uk/wp-content/themes/smart-mag/js/float-share.js?ver=10.0.0" id="smartmag-float-share-js"></script>
+<script type="text/javascript" src="https://www.starmeg.co.uk/wp-includes/js/comment-reply.min.js?ver=6.8.3" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+
+
+</body>
+</html>
