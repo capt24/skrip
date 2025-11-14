@@ -1,0 +1,149 @@
+<?php 
+session_start();
+require_once '../conn.php';
+if (isset($_POST['login'])) {
+$username = $_POST['email'];
+$password = md5($_POST['password']);
+
+$sql = "SELECT * FROM users5 WHERE email='$username' AND password = '$password' ";
+$query = mysqli_query($koneksi,$sql);
+
+	if (mysqli_num_rows($query) > 0) {
+		$result = mysqli_fetch_assoc($query);
+		$_SESSION['alogin']		= $result['email'];
+		$_SESSION['id_user']	= $result['id_user'];
+		$_SESSION['email']		= $result['email'];
+		$_SESSION['name'] 		= $result['name'];
+		$_SESSION['nik'] 		= $result['nik'];
+		$_SESSION['mobile']		= $result['mobile'];
+		$_SESSION['jabatan']	= $result['jabatan'];
+		$_SESSION['dep']		= $result['dep'];
+		$_SESSION['role']		= $result['role'];
+		header('location:dashboard.php'); 
+	}else{
+		header('location:index.php?info=Maaf username dan password tidak cocok');
+	}
+}elseif(isset($_GET['logout'])){
+	session_destroy();
+	session_unset();
+	header('location:index.php?info= Anda telah logout');
+}
+ 
+ ?>
+<!doctype html>
+<html lang="en" class="no-js">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+
+	<link rel="stylesheet" href="../style1.css">
+
+</head>
+<style>
+
+	#frmLogin {
+		padding: 20px 60px;
+		background-color: rgba(0,0,0,0.5) !important;
+		color: #555;
+		display: inline-block;
+		width: 370px;
+		border-radius: 4px;
+	}
+	.field-group {
+		margin-top:30px;
+	}
+	.input-field {
+		padding: 8px;
+		width: 240px;
+		border: #A3C3E7 1px solid;
+		border-radius: 4px;
+	}
+	.form-submit-button {
+		background: #07436f;
+		border: 0;
+		width: 260px;
+		padding: 8px 20px;
+		border-radius: 4px;
+		color: #FFF;
+		text-transform: uppercase;
+	}
+	.member-dashboard {
+		padding: 40px;
+		background: #D2EDD5;
+		color: #555;
+		border-radius: 4px;
+		display: inline-block;
+	}
+	.member-dashboard a {
+		color: #09F;
+		text-decoration:none;
+	}
+	.error-message {
+		text-align:center;
+		color:#f7f9fa;
+	}
+</style>
+<div class="login-page bk-img">
+		<div class="form-content">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6 col-md-offset-3">
+
+								<br>
+							<div class="col-md-8 col-md-offset-2">
+<?php if(empty($_SESSION["id"])) { ?>
+<form action="" method="post" id="frmLogin">
+	<div class="error-message"><?php if(isset($message)) { echo $message; } ?>
+	<center><img src="../assets/img/Logo120px.png" alt="TheEnergy" width="75" height="75"></center>
+	<br>
+	<center><b>MEETING ROOM</b></center>
+	<center><b>BOOKING</b></center>
+	</div>	
+	<div class="field-group">
+		<div><label for="login"><span style="font-weight: normal; size: 5px; color: #ffffff;">Username</span></label></div>
+		<div><input name="email" type="text" value="<?php if(isset($_COOKIE["login"])) { echo $_COOKIE["login"]; } ?>" class="input-field">
+	</div>
+	<div class="field-group">
+		<div><label for="password"><span style="font-weight: normal; size: 5px; color: #ffffff;">Password</span></label></div>
+		<div><input name="password" type="password" value="<?php if(isset($_COOKIE["password"])) { echo $_COOKIE["password"]; } ?>" class="input-field"> 
+	</div>
+	<div class="field-group">
+		<div><input type="checkbox" name="remember" id="remember" <?php if(isset($_COOKIE["login"])) { ?> checked <?php } ?> />
+		<label for="remember-me"><span style="font-weight: normal; size: 5px; color: #ffffff;">Remember me</span></label>
+	</div>
+	<div class="field-group">
+		<div><input type="submit" name="login" value="Login" class="form-submit-button"></span></div>
+	</div>       
+</form>
+<?php 
+} else { 
+echo "<script type='text/javascript'> document.location = 'dashboard.php'; </script>";
+	} 
+
+?>	
+
+</div>
+
+<center>
+	<label for="remember-me"><span style="font-weight: normal; size: 5px; color: #ffffff;">Don't Have an Account? Please Signup</span></label>
+								<a href="../register.php"><img src="../assets/img/signup.png" height="50" width="130"/></a></span></center>
+	
+						</div>
+					</div>
+					<br></br>
+	
+	<br>
+						<center><b>IT THE ENERGY Copyright © 2022</b></center>	
+				</div>
+				
+			</div>		
+		</div>
+	</div>
+
+<?php  ?>
