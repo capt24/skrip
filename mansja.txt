@@ -1,0 +1,1012 @@
+<!DOCTYPE html>
+<html lang="id-ID">
+
+<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-language" content="id-ID" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="revisit-after" content="7 days" />
+		<meta http-equiv="Expires" content="0" />
+		<meta http-equiv="Pragma" content="no-cache" />
+		<meta http-equiv="Cache-Control" content="no-cache" />
+		<meta property="og:image" content="css/images/logo.png" />
+		<link rel="profile" href="https://gmpg.org/xfn/11" />
+		<link rel="shortcut icon" href="wp-content/uploads/2017/10/icon-1.jpg" type="image/x-icon" />
+		<link id="style" href="css/style.css" type="text/css" rel="stylesheet" />
+		<link id="awesome" href="css/font-awesome/css/fontawesome-all.css" type="text/css" rel="stylesheet" />
+		<link id="owlcarousel" href="css/css/owl.carousel.min.css" type="text/css" rel="stylesheet" />
+		<link id="owlanimate" href="css/css/owl.animate.css" type="text/css" rel="stylesheet" />
+		<link id="owltheme" href="css/css/owl.theme.default.min.css" type="text/css" rel="stylesheet" />
+		<script type="text/javascript" src="css/js/jquery.min.js"></script>
+		<script type="text/javascript" src="css/js/newstickers.js"></script>
+		 <link rel="stylesheet" type="text/css" href="css/style4.css" />
+		<link rel="stylesheet" href="css/foundation.css" />
+		<script src="js/vendor/jquery.js"></script>
+		<script src="js/vendor/modernizr.js"></script>	
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='wp-includes/css/dist/block-library/style.min6e7a.css?ver=5.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ndeso-style-css'  href='css/style6e7a.css?ver=5.2.7' type='text/css' media='all' />
+
+<link rel='stylesheet' id='awesome-css'  href='css/font-awesome/css/font-awesome6e7a.css?ver=5.2.7' type='text/css' media='all' />
+<script type='text/javascript' src='wp-includes/js/jquery/jquery4a5f.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
+<script type='text/javascript' src='css/js/jquery.cookie1702.js?ver=20170529'></script>
+<link rel='https://api.w.org/' href='wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.7" />
+<link rel='shortlink' href='index.html' />
+
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+				
+		        <script type="text/javascript">
+	    	jQuery("document").ready(function () {
+	    		jQuery('.mobi ul').accordion();
+	     	});
+        </script>
+
+        <script>
+           $(function($){
+               $("ul#wees-ticker").liScroll();
+           });
+        </script>
+
+        <script type="text/javascript">
+			jQuery(window).scroll(function() {
+				if ($(this).scrollTop() >= 30) {
+					$('#return-to-top').fadeIn(200);
+					$('body').addClass("fade");
+			 	} else {
+					$('#return-to-top').fadeOut(200);
+					$('.open').css("display","block");
+					$('body').removeClass("fade");
+			 	}
+			});
+        </script>
+
+        <script type="text/javascript">
+    		$("document").ready(function($){
+				$(".logos .fas").click(function(){
+		    		$(".wrapper").addClass('show');
+					$(".wrapper").removeClass('hiden');
+				});
+			});
+		</script>
+		<script type="text/javascript">
+    		$("document").ready(function($){
+				$(".xclose").click(function(){
+		    		$(".wrapper").addClass('hiden');
+					$(".wrapper").removeClass('show');
+				});
+			});
+			
+			jQuery(document).ready(function($) {
+				$(window).on("load", function() {
+					preloaderFadeOutTime = 500;
+					function hidePreloader() {
+						var preloader = $('.spinner-wrapper');
+						preloader.fadeOut(preloaderFadeOutTime);
+					}
+					hidePreloader();
+				});
+			});
+			
+        </script>
+		
+		<script>
+$(function(){
+  
+    $("select.main").on("change", function(){
+        $(".models.active").removeClass("active");
+        var subList = $(".models."+$(this).val());
+        if (subList.length){
+            subList.addClass("active");
+        }
+    });
+  
+});
+</script>
+		
+
+	</head>
+
+
+	
+	<!-- Tema Weesata 2 oleh Ciuss Creative , rilis Agustus 2018 -->
+			            <div class="mob">
+			    <div class="smob">
+
+				</div>
+    	      
+			    <div class="mas-nav clear">			    	
+					
+					<div class="inn">
+
+						<div class="ws clear">
+
+						</div>
+					</div>
+				</div>
+			</div>
+			
+        <section id="slidex" class="slide1">	
+	  
+        	
+        	
+	     	<div class="justslide owl-carousel owl-theme">
+		     		
+											
+					<div class="item">
+								
+												    <img width="1200" height="500" src="wp-content/uploads/2017/09/resize/theenergy.jpg" class="attachment-slide size-slide wp-post-image" />												
+					</div>
+					    	
+											
+					<div class="item">
+								
+												    <img width="1200" height="500" src="wp-content/uploads/2017/09/resize/theenergy1.jpg" class="attachment-slide size-slide wp-post-image" />												
+					</div>
+										<div class="item">
+								
+												    <img width="1200" height="500" src="wp-content/uploads/2017/09/resize/theenergy2.jpg" class="attachment-slide size-slide wp-post-image" alt="The Energy" title="The Energy" />												
+					</div>
+										<div class="item">
+								
+												    <img width="1200" height="500" src="wp-content/uploads/2017/09/resize/theenergy3.jpg" class="attachment-slide size-slide wp-post-image"  />												
+					</div>
+										<div class="item">
+								
+												    <img width="1200" height="500" src="wp-content/uploads/2017/09/resize/theenergy4.jpg" class="attachment-slide size-slide wp-post-image" />												
+					</div>
+										<div class="item">
+								
+												    <img width="1200" height="500" src="wp-content/uploads/2017/09/resize/theenergy5.jpg" class="attachment-slide size-slide wp-post-image" />												
+					</div>
+					    	
+						        		
+		    </div>
+					
+				    	
+        </section>
+<link rel="stylesheet" href="css/foundation.css" />
+      <script src="js/vendor/jquery.js"></script>
+      <script src="js/vendor/modernizr.js"></script>		
+			</div>	
+		
+		<div class="mas-nav">
+		<div class="address clear">
+		    <div class="colover clear">
+	    	<div class="colslide">
+		    	<div class="cols-1">
+				<i class=""><center><img width="50" height="50" src="wp-content/uploads/2017/09/logo.png"/></center></i>
+		
+	         	    <div class="indiv">
+																													
+					       <div class="em"> 
+						   An Engagement of art and professionalism that combine into an integrated office building, The Energy meets the demands of a new concept for the architecture of the future in creating a stunning beautiful and aesthetically pleasing, professional and dynamic working environment. 
+</div>
+					</div>
+					
+	        	</div>
+         	</div>
+			
+			<div class="callslide">
+             	<div class="cols-3">
+				    <div class="indiv">
+					    <a href="zoiper://029951400"><i class="fas fa-phone-volume"></i> <div class="tops">CALL OPERATOR</a>
+						</div>
+						
+		                <div class="numphone"><a href="zoiper://029951400"><b>021-29951400</b></a></div>
+						<div class="em">
+						    <div class="infa">
+						        <a href="https://facebook.com/"><i class="fab fa-facebook"></i></a>					    	    <a href="https://twitter.com/"><i class="fab fa-twitter"></i></a>					        	<a href="https://instagram.com/"><i class="fab fa-instagram"></i></a>						     <a href="https://youtube.com/"><i class="fab fa-youtube"></i></a>						    </div>
+						</div>
+					</div>
+				</div>
+			</div>
+											    
+	    	<div class="colslide">
+		    	<div class="cols-1">
+	         	    <div class="indiv">
+					    <i class="fas fa-map-marker-alt"></i> <div class="masname">THE ENERGY BUILDING</div>
+		                <div class="em">
+						    LOt 11A,Jalan Jenderal Sudirman, kavling : 52-53, Jakarta, Indonesia 						</div>
+					</div>
+	        	</div>
+         	</div>
+												</div>
+																																	                	</div>
+		                 	</div>
+	                 	            	
+ <!-- SLIDE -->
+
+
+			        	<div class="colspeop">
+        	    <div class="cols-2">		
+	        	</div>
+        	</div>
+			
+
+			
+</div>	
+			</div>	
+	    <div class="mas-nav serv">
+	<div id="bercontainer" class="clear">
+				
+<!--SIDEBAR-->
+<div class="wee-slider clear">
+    	                    <script>
+            jQuery(document).ready(function($) {
+              var owl = $('.justslide');
+              owl.on('initialize.owl.carousel initialized.owl.carousel ' +
+                'initialize.owl.carousel initialize.owl.carousel ' +
+                'resize.owl.carousel resized.owl.carousel ' +
+                'refresh.owl.carousel refreshed.owl.carousel ' +
+                'update.owl.carousel updated.owl.carousel ' +
+                'drag.owl.carousel dragged.owl.carousel ' +
+                'translate.owl.carousel translated.owl.carousel ' +
+                'to.owl.carousel changed.owl.carousel',
+                function(e) {
+                  $('.' + e.type)
+                    .removeClass('secondary')
+                    .addClass('success');
+                  window.setTimeout(function() {
+                    $('.' + e.type)
+                      .removeClass('success')
+                      .addClass('secondary');
+                  }, 500);
+                });
+              owl.owlCarousel({
+                loop: true,
+                nav: false,
+				dots: false,
+                lazyLoad: true,
+				autoplay: true,
+                autoplayTimeout: 5000,
+                autoplayHoverPause: false,
+                margin: 0,
+                video: true,
+                items:1,
+              });
+            });
+        </script>
+
+
+
+			<!-- Container -->
+	<div class="clear">
+	
+	
+	
+	<div id="topcontainer" class="clear">
+	    <div class="mas-nav">
+		    <div id="after">
+		        <script>
+            jQuery(document).ready(function($) {
+              var owl = $('.latest');
+              owl.on('initialize.owl.carousel initialized.owl.carousel ' +
+                'initialize.owl.carousel initialize.owl.carousel ' +
+                'resize.owl.carousel resized.owl.carousel ' +
+                'refresh.owl.carousel refreshed.owl.carousel ' +
+                'update.owl.carousel updated.owl.carousel ' +
+                'drag.owl.carousel dragged.owl.carousel ' +
+                'translate.owl.carousel translated.owl.carousel ' +
+                'to.owl.carousel changed.owl.carousel',
+                function(e) {
+                  $('.' + e.type)
+                    .removeClass('secondary')
+                    .addClass('success');
+                  window.setTimeout(function() {
+                    $('.' + e.type)
+                      .removeClass('success')
+                      .addClass('secondary');
+                  }, 7000);
+                });
+              owl.owlCarousel({
+                loop: true,
+                nav: false,
+				dots: false,
+                lazyLoad: true,
+				autoplay: true,
+                autoplayTimeout: 6000,
+                autoplayHoverPause: true,
+                margin: 0,
+                video: true,
+                responsive:{
+                0:{
+                    items:1
+                },
+                480:{
+                    items:1
+                },
+	        	800:{
+                    items:2
+                },
+                980:{
+                    items:3
+                },
+                1170:{
+                    items:1
+                }
+                }
+              });
+            });
+          </script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <style>
+        body {
+            font-family: "Lato", sans-serif;
+        }
+        
+        .sidebar {
+            height: 100%;
+            width: 85px;
+            position: fixed;
+            z-index: 1;
+            top: 0;
+            left: 0;
+            background-color: #111;
+            overflow-x: hidden;
+            transition: 0.5s;
+            padding-top: 60px;
+            white-space: nowrap;
+        }
+        
+        .sidebar a {
+            padding: 8px 8px 8px 32px;
+            text-decoration: none;
+            font-size: 25px;
+            color: #818181;
+            display: block;
+            transition: 0.3s;
+        }
+        
+        .sidebar a:hover {
+            color: #f1f1f1;
+        }
+        
+        .sidebar .closebtn {
+            position: absolute;
+            top: 0;
+            right: 25px;
+            font-size: 36px;
+            margin-left: 50px;
+        }
+        
+        .material-icons,
+        .icon-text {
+            vertical-align: middle;
+        }
+        
+        .material-icons {
+            padding-bottom: 3px;
+        }
+        
+        #main {
+            transition: margin-left .5s;
+            padding: 16px;
+            margin-left: 100px;
+        }
+        /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+        
+        @media screen and (max-height: 450px) {
+            .sidebar {
+                padding-top: 15px;
+            }
+            .sidebar a {
+                font-size: 18px;
+            }
+        }
+    </style>
+
+
+
+    <div style="border-radius: 10px;opacity: 0.9;" id="mySidebar" class="sidebar" onmouseover="toggleSidebar()" onmouseout="toggleSidebar() ">
+        
+        <a href="http://thema.elga.net.id"><img src="wp-content/uploads/2017/09/themaweb.png" height="45" width="45" title="Aplikasi THEMA versi untuk update Ticket"/></span>&nbsp;&nbsp;&nbsp;&nbsp;THEMA-WEB</a></span>
+        </a><br>
+		
+        <a href="https://theenergy.online/operation"><img src="wp-content/uploads/2017/09/notulen.png" height="40" width="40" title="Notulensi meeting operasional"/><span class="icon-text"></span>&nbsp;&nbsp;&nbsp;&nbsp;NOTULEN-OPS</span></a><br> 
+		
+		<a href="https://sf.dataon.com/"><img src="wp-content/uploads/2017/09/sunfish.png" height="40" width="40" title="Notulensi meeting operasional"/><span class="icon-text"></span>&nbsp;&nbsp;&nbsp;&nbsp;SUNFISH</span></a><br>
+		
+		<a href="https://theenergy.online/room"><img src="wp-content/uploads/2017/09/room.png" height="40" width="40" title="Booking Meeting Room"/></span>&nbsp;&nbsp;&nbsp;&nbsp;MEET. ROOM<span></a><br>
+		
+		<a href="http://delva.theenergy.co.id/sign-in"><img src="wp-content/uploads/2017/09/delva.png" height="40" width="40"/></span>&nbsp;&nbsp;&nbsp;&nbsp;DELVA<span></a><br>
+
+		<a href="https://theenergy.online/guardtour"><img src="wp-content/uploads/2017/09/icon_eng.png" height="40" width="40" title="Aplikasi Mobile Ext ZOIPER "/><span class="icon-text"></span>&nbsp;&nbsp;&nbsp;&nbsp;GUARD TOUR</span></a><br>
+		
+		<a href="https://theenergy.online/engineering"><img src="engineering/images/icon_eng.png" height="40" width="40" title="Aplikasi Mobile Ext ZOIPER "/><span class="icon-text"></span>&nbsp;&nbsp;&nbsp;&nbsp;ENG_CHECKLIST</span></a><br>
+		
+		<a href="https://theenergy.online/ict"><img src="wp-content/uploads/2017/09/logoit2.png" height="40" width="40" title="Notulensi meeting IT"/><span class="icon-text"></span>&nbsp;&nbsp;&nbsp;&nbsp;NOTULEN-IT</span></a><br> 
+		<a href="https://theenergy.online/mentor"><img src="wp-content/uploads/2017/09/logopm.png" height="40" width="40" title="Mentoring"/></span>&nbsp;&nbsp;&nbsp;&nbsp;MENTORING<span></a><br>
+		<a href="https://theenergy.online/fire-check"><img src="wp-content/uploads/2017/09/fire_check.png" height="40" width="40" title="Fire Checklist"/></span>&nbsp;&nbsp;&nbsp;&nbsp;FIRE CHECKLIST<span></a><br>
+		<a href="https://theenergy.online/housekeeping"><img src="housekeeping/assets/img/logo_hk.png" height="40" width="40" title="Solar Tank Checklist"/></span>&nbsp;&nbsp;&nbsp;&nbsp;HOUSEKEEPING CHECK<span></a><br>
+		
+		<a href="https://theenergy.online/dc-checklist"><img src="dc-checklist/logowhite.png" height="40" width="40" title="Solar Tank Checklist"/></span>&nbsp;&nbsp;&nbsp;&nbsp;DC CHECKLIST<span></a><br>
+		<a href="https://theenergy.online/pms"><img src="wp-content/uploads/2017/09/pms.png" height="40" width="40" title="Solar Tank Checklist"/></span>&nbsp;&nbsp;&nbsp;&nbsp;PMS<span></a><br>		
+		<br></br>
+		<br></br>
+		
+		<a href=""><img src="wp-content/uploads/2017/09/onprogress.png" height="80" width="80" title="Sedang dalam proses programming"/><span class="icon-text"></span></span></a>
+		
+		<a href="runifca.php"><img src="wp-content/uploads/2017/09/ifca.png" height="40" width="40" title="Akses melalui dari PC/Notebook"/></span>&nbsp;&nbsp;&nbsp;&nbsp;IFCA<span></a><br>
+		<a href="thema:// "><img src="wp-content/uploads/2017/09/themaapp.png" height="45" width="45"/><span class="icon-text">&nbsp;&nbsp;&nbsp;&nbsp;THEMA</span></a><br>
+		
+		
+    </div>
+<!--SIDEBAR-->
+
+  <div id="main">
+  	    <div class="mas-nav">
+		    <div id="berita">
+		        	    <!-- Block Berita -->
+		<div class="ll clear">
+	    	<h3><span>&nbsp;&nbsp;&nbsp;ENERGY INFO :&nbsp;&nbsp;&nbsp;</span></h3><br>
+<!-- Info Okupansi Gedung -->	    					
+<div class="berr">
+						    <div class="berrin">
+						        						            <a href=""><img width="150" height="113" src="wp-content/uploads/2017/09/theenergy4.jpg" class="attachment-thumb size-thumb wp-post-image" alt="Okupansi Gedung The Energy." title="Okupansi Gedung The Energy" srcset="wp-content/uploads/2017/09/theenergy4.jpg 600w, wp-content/uploads/2017/09/theenergy4.jpg 320w" sizes="(max-width: 150px) 100vw, 150px" />							    	</a>
+							    							    <div class="coberr">
+						        	<div class="kotass">
+<?php
+function tgl_indo($tanggal){
+	$bulan = array (
+		1 =>   'Januari',
+		'Februari',
+		'Maret',
+		'April',
+		'Mei',
+		'Juni',
+		'Juli',
+		'Agustus',
+		'September',
+		'Oktober',
+		'November',
+		'Desember'
+	);
+	$pecahkan = explode('-', $tanggal);
+	
+	// variabel pecahkan 0 = tanggal
+	// variabel pecahkan 1 = bulan
+	// variabel pecahkan 2 = tahun
+ 
+	return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
+}
+ 
+?>
+<?php
+	// Load file koneksi.php
+	include "koneksi.php";
+	$query = "SELECT * FROM okupansi ORDER BY id DESC limit 1"; 
+	$sql = mysqli_query($connect, $query); // Eksekusi/Jalankan query dari variabel $query
+	
+	while($data = mysqli_fetch_array($sql)){ // Ambil semua data dari hasil eksekusi $sql
+		echo "<tr>";
+		echo tgl_indo($data['tanggal']);
+		echo "</tr>";
+	}
+?>
+		</div><h3>Okupansi Gedung :</h3>
+<style>
+#show,#content{display:none;}
+#show:checked~#content{display:block;}
+</style>
+<input id="show" type=checkbox>
+<label for="show" style="font-weight: bold; color: #ffffff;font-size: 14px;font-style: italic;underline;line-height: 10px;">Tampilkan...</label>
+<br></br>
+<span  id="content" style="font-weight: normal; color: #ffffff;font-size: 14px;font-style: normal;line-height: 14px;">
+			<?php
+	// Load file koneksi.php
+	include "koneksi.php";
+	$query = "SELECT * FROM okupansi ORDER BY id DESC limit 1"; 
+	$sql = mysqli_query($connect, $query); // Eksekusi/Jalankan query dari variabel $query
+	
+	while($data = mysqli_fetch_array($sql)){ // Ambil semua data dari hasil eksekusi $sql
+		echo "<tr>";
+		echo nl2br($data['keterangan']);
+		echo "</tr>";
+	}
+	?>
+	<br>
+	<label style="font-weight: bold; color: #FFFFFF;font-size: 14px;font-style: italic;underline;line-height: 10px;">_________________________</label>
+	<br></br>
+	<a href="updateokupansi.php" style="font-weight: bold; color: #FFFFFF;font-size: 14px;font-style: italic;underline;line-height: 10px;">update...</a>&nbsp; by Tim Security<br></span>
+</div>
+</div>
+</div>
+
+
+
+
+<!-- Info Okupansi Parkir-->
+
+<div class="berr">
+						    <div class="berrin">
+						        						            <a href="#"><img width="150" height="113" src="wp-content/uploads/2017/09/parkir.jpg" class="attachment-thumb size-thumb wp-post-image" alt="Divisi Operation The Energy" title="Divisi Operation The Energy" srcset="wp-content/uploads/2017/09/parkir.jpg 600w, wp-content/uploads/2017/09/parkir.jpg 320w" sizes="(max-width: 150px) 100vw, 150px" />							    	</a>
+							    							    <div class="coberr">
+						        	<div class="kotass">
+
+<?php
+	// Load file koneksi.php
+	include "koneksi.php";
+	$query = "SELECT * FROM lotparkir ORDER BY id DESC limit 1"; 
+	$sql = mysqli_query($connect, $query); // Eksekusi/Jalankan query dari variabel $query
+	
+	while($data = mysqli_fetch_array($sql)){ // Ambil semua data dari hasil eksekusi $sql
+		echo "<tr>";
+		echo tgl_indo($data['tanggal']);
+		echo "</tr>";
+	}
+?>
+		</div><h3>Okupansi Parkir :</h3>
+<style>
+#show1,#content{display:none;}
+#show1:checked~#content{display:block;}
+</style>
+<input id="show1" type=checkbox>
+<label for="show1" style="font-weight: bold; color: #ffffff;font-size: 14px;font-style: italic;underline;line-height: 10px;">Tampilkan...</label>
+<br></br>
+<span  id="content" style="font-weight: normal; color: #ffffff;font-size: 12px;font-style: normal;line-height: 12px;">
+	<?php
+	// Load file koneksi.php
+	include "koneksi.php";
+	$query = "SELECT * FROM lotparkir ORDER BY id DESC limit 1"; 
+	$sql = mysqli_query($connect, $query); // Eksekusi/Jalankan query dari variabel $query
+	
+	while($data = mysqli_fetch_array($sql)){ // Ambil semua data dari hasil eksekusi $sql
+
+		echo nl2br($data['keterangan']);
+
+	}
+	
+	?>
+	<br></br>
+	<label style="font-weight: bold; color: #FFFFFF;font-size: 14px;font-style: italic;underline;line-height: 10px;">_________________________</label>
+	<br></br>
+	<a href="updatelotparkir.php" style="font-weight: bold; color: #FFFFFF;font-size: 14px;font-style: italic;underline;line-height: 10px;">update...</a>&nbsp; &nbsp;by Tim Parkir<br>
+	</span>
+</div>
+</div>
+</div>	
+
+<!-- Info lobby dutty-->
+
+<div class="berr">
+						    <div class="berrin">
+						        						            <a href="#"><img width="150" height="113" src="wp-content/uploads/2017/09/officer.jpeg" class="attachment-thumb size-thumb wp-post-image" alt="Divisi Operation The Energy" title="Divisi Operation The Energy" srcset="wp-content/uploads/2017/09/officer.jpeg 600w, wp-content/uploads/2017/09/officer.jpeg 320w" sizes="(max-width: 150px) 100vw, 150px" />							    	</a>
+							    							    <div class="coberr">
+						        	<div class="kotass">
+
+<?php
+	// Load file koneksi.php
+	include "koneksi.php";
+	$query = "SELECT * FROM lobydutty ORDER BY id DESC limit 1"; 
+	$sql = mysqli_query($connect, $query); // Eksekusi/Jalankan query dari variabel $query
+	
+	while($data = mysqli_fetch_array($sql)){ // Ambil semua data dari hasil eksekusi $sql
+		echo "<tr>";
+		echo tgl_indo($data['tanggal']);
+		echo "</tr>";
+	}
+?>
+		</div><h3>Dutty Oficer :</h3>
+	<style>
+#show2,#content{display:none;}
+#show2:checked~#content{display:block;}
+</style>
+<input id="show2" type=checkbox>
+<label for="show2" style="font-weight: bold; color: #ffffff;font-size: 14px;font-style: italic;underline;line-height: 10px;">Tampilkan...</label>
+<br></br>
+<span  id="content" style="font-weight: normal; color: #ffffff;font-size: 12px;font-style: normal;line-height: 12px;">
+		
+		
+			<?php
+	// Load file koneksi.php
+	
+
+	include "koneksi.php";
+	$query = "SELECT * FROM lobydutty ORDER BY id DESC limit 1"; 
+	$sql = mysqli_query($connect, $query); // Eksekusi/Jalankan query dari variabel $query
+	
+	while($data = mysqli_fetch_array($sql)){ // Ambil semua data dari hasil eksekusi $sql
+		echo "<tr>";
+		echo nl2br($data['keterangan']);
+		echo "</tr>";
+	}
+	?>
+	<label style="font-weight: bold; color: #FFFFFF;font-size: 14px;font-style: italic;underline;line-height: 10px;">_________________________</label>
+	<br></br>
+	<a href="lobydutty.php" style="font-weight: bold; color: #FFFFFF;font-size: 14px;font-style: italic;underline;line-height: 10px;">update...</a>&nbsp; &nbsp;by Tim MOD<br></span>
+</div>
+</div>
+</div>
+
+
+
+<!-- Info HK-->
+
+<div class="berr">
+						    <div class="berrin">
+						        						            <a href="#"><img width="150" height="113" src="wp-content/uploads/2017/09/iss.jpg" class="attachment-thumb size-thumb wp-post-image" alt="Divisi Operation The Energy" title="Divisi Operation The Energy" srcset="wp-content/uploads/2017/09/iss.jpg 600w, wp-content/uploads/2017/09/iss.jpg 320w" sizes="(max-width: 150px) 100vw, 150px" />							    	</a>
+							    							    <div class="coberr">
+						        	<div class="kotass">
+
+<?php
+	// Load file koneksi.php
+	include "koneksi.php";
+	$query = "SELECT * FROM updatehk ORDER BY id DESC limit 1"; 
+	$sql = mysqli_query($connect, $query); // Eksekusi/Jalankan query dari variabel $query
+	
+	while($data = mysqli_fetch_array($sql)){ // Ambil semua data dari hasil eksekusi $sql
+		echo "<tr>";
+		echo tgl_indo($data['tanggal']);
+		echo "</tr>";
+	}
+?>
+		</div><h3>Update Housekeeping :</h3>
+		<style>
+#show3,#content{display:none;}
+#show3:checked~#content{display:block;}
+</style>
+<input id="show3" type=checkbox>
+<label for="show3" style="font-weight: bold; color: #ffffff;font-size: 14px;font-style: italic;underline;line-height: 10px;">Tampilkan...</label>
+<br></br>
+<span  id="content" style="font-weight: normal; color: #ffffff;font-size: 12px;font-style: normal;line-height: 12px;">
+			<?php
+	// Load file koneksi.php
+	include "koneksi.php";
+	$query = "SELECT * FROM updatehk ORDER BY id DESC limit 1"; 
+	$sql = mysqli_query($connect, $query); // Eksekusi/Jalankan query dari variabel $query
+	
+	while($data = mysqli_fetch_array($sql)){ // Ambil semua data dari hasil eksekusi $sql
+		echo "<tr>";
+		echo nl2br($data['keterangan']);
+		echo "</tr>";
+	}
+	?>
+	<br>
+		<label style="font-weight: bold; color: #FFFFFF;font-size: 14px;font-style: italic;underline;line-height: 10px;">_________________________</label>
+	<br></br>
+	<a href="updatehk.php" style="font-weight: bold; color: #FFFFFF;font-size: 14px;font-style: italic;underline;line-height: 10px;">update...</a>
+	&nbsp; &nbsp;by Tim housekeeping<br></span>
+</div>
+</div>
+</div>	
+
+<!-- Info IT-->
+
+<div class="berr">
+						    <div class="berrin">
+						        						            <a href="#"><img width="150" height="113" src="wp-content/uploads/2017/09/updateit.jpeg" class="attachment-thumb size-thumb wp-post-image" alt="Divisi Operation The Energy" title="Divisi Operation The Energy" srcset="wp-content/uploads/2017/09/updateit.jpeg 600w, wp-content/uploads/2017/09/updateit.jpeg 320w" sizes="(max-width: 150px) 100vw, 150px" />							    	</a>
+							    							    <div class="coberr">
+						        	<div class="kotass">
+
+<?php
+	// Load file koneksi.php
+	include "koneksi.php";
+	$query = "SELECT * FROM updateit ORDER BY id DESC limit 1"; 
+	$sql = mysqli_query($connect, $query); // Eksekusi/Jalankan query dari variabel $query
+	
+	while($data = mysqli_fetch_array($sql)){ // Ambil semua data dari hasil eksekusi $sql
+		echo "<tr>";
+		echo tgl_indo($data['tanggal']);
+		echo "</tr>";
+	}
+?>
+		</div><h3>Update IT :</h3>
+		<style>
+#show4,#content{display:none;}
+#show4:checked~#content{display:block;}
+</style>
+<input id="show4" type=checkbox>
+<label for="show4" style="font-weight: bold; color: #ffffff;font-size: 14px;font-style: italic;underline;line-height: 10px;">Tampilkan...</label>
+<br></br>
+<span  id="content" style="font-weight: normal; color: #ffffff;font-size: 12px;font-style: normal;line-height: 12px;">
+			<?php
+	// Load file koneksi.php
+	include "koneksi.php";
+	$query = "SELECT * FROM updateit ORDER BY id DESC limit 1"; 
+	$sql = mysqli_query($connect, $query); // Eksekusi/Jalankan query dari variabel $query
+	
+	while($data = mysqli_fetch_array($sql)){ // Ambil semua data dari hasil eksekusi $sql
+		echo "<tr>";
+		echo nl2br($data['keterangan']);
+		echo "</tr>";
+	}
+	?>
+	<label style="font-weight: bold; color: #FFFFFF;font-size: 14px;font-style: italic;underline;line-height: 10px;">_________________________</label>
+	<br></br>
+	<a href="updateit.php" style="font-weight: bold; color: #FFFFFF;font-size: 14px;font-style: italic;underline;line-height: 10px;">update...</a></a>&nbsp; &nbsp;by Tim IT<br>
+</div>
+</div>
+</div>	
+
+<!-- Info weekend engineering-->
+
+<div class="berr">
+						    <div class="berrin">
+						        						            <a href="#"><img width="150" height="113" src="wp-content/uploads/2017/09/engineering.jpg" class="attachment-thumb size-thumb wp-post-image" alt="Divisi Operation The Energy" title="Divisi Operation The Energy" srcset="wp-content/uploads/2017/09/engineering.jpg 600w, wp-content/uploads/2017/09/engineering.jpg 320w" sizes="(max-width: 150px) 100vw, 150px" />							    	</a>
+							    							    <div class="coberr">
+						        	<div class="kotass">
+<?php
+	// Load file koneksi.php
+	include "koneksi.php";
+	$query = "SELECT * FROM weekend ORDER BY id DESC limit 1"; 
+	$sql = mysqli_query($connect, $query); // Eksekusi/Jalankan query dari variabel $query
+	
+	while($data = mysqli_fetch_array($sql)){ // Ambil semua data dari hasil eksekusi $sql
+		echo "<tr>";
+		echo tgl_indo($data['tanggal']);
+		echo "</tr>";
+	}
+?>
+
+		</div><h3>Rencana Pekerjaan Engineering Weekend :</h3>
+		<style>
+#show5,#content{display:none;}
+#show5:checked~#content{display:block;}
+</style>
+<input id="show5" type=checkbox>
+<label for="show5" style="font-weight: bold; color: #ffffff;font-size: 14px;font-style: italic;underline;line-height: 10px;">Tampilkan...</label>
+
+<br></br>
+<span  id="content" style="font-weight: normal; color: #ffffff;font-size: 12px;font-style: normal;line-height: 12px;">
+			<?php
+	// Load file koneksi.php
+	include "koneksi.php";
+	$query = "SELECT * FROM weekend ORDER BY id DESC limit 1"; 
+	$sql = mysqli_query($connect, $query); // Eksekusi/Jalankan query dari variabel $query
+	
+	while($data = mysqli_fetch_array($sql)){ // Ambil semua data dari hasil eksekusi $sql
+		echo "<tr>";
+		echo nl2br($data['keterangan']);
+		echo "</tr>";
+	}
+	?>
+	<label style="font-weight: bold; color: #FFFFFF;font-size: 14px;font-style: italic;underline;line-height: 10px;">_________________________</label>
+	<br></br>
+	<a href="weekendupdate.php" style="font-weight: bold; color: #FFFFFF;font-size: 14px;font-style: italic;underline;line-height: 10px;">update...</a></a>&nbsp; &nbsp;by Tim Engineering<br>
+</div>
+</div>
+</div>	
+<!-- Info Security-->
+
+<div class="berr">
+						    <div class="berrin">
+						        						            <a href="#"><img width="150" height="113" src="wp-content/uploads/2017/09/security.jpg" class="attachment-thumb size-thumb wp-post-image" alt="Divisi Operation The Energy" title="Divisi Operation The Energy" srcset="wp-content/uploads/2017/09/security.jpg 600w, wp-content/uploads/2017/09/security.jpg 320w" sizes="(max-width: 150px) 100vw, 150px" />							    	</a>
+							    							    <div class="coberr">
+						        	<div class="kotass">
+<?php
+	// Load file koneksi.php
+	include "koneksi.php";
+	$query = "SELECT * FROM security ORDER BY id DESC limit 1"; 
+	$sql = mysqli_query($connect, $query); // Eksekusi/Jalankan query dari variabel $query
+	
+	while($data = mysqli_fetch_array($sql)){ // Ambil semua data dari hasil eksekusi $sql
+		echo "<tr>";
+		echo tgl_indo($data['tanggal']);
+		echo "</tr>";
+	}
+?>
+
+		</div><h3>Update Security :</h3>
+		<style>
+#show6,#content{display:none;}
+#show6:checked~#content{display:block;}
+</style>
+<input id="show6" type=checkbox>
+<label for="show6" style="font-weight: bold; color: #ffffff;font-size: 14px;font-style: italic;underline;line-height: 10px;">Tampilkan...</label>
+
+<br></br>
+<span  id="content" style="font-weight: normal; color: #ffffff;font-size: 12px;font-style: normal;line-height: 12px;">
+			<?php
+	// Load file koneksi.php
+	include "koneksi.php";
+	$query = "SELECT * FROM security ORDER BY id DESC limit 1"; 
+	$sql = mysqli_query($connect, $query); // Eksekusi/Jalankan query dari variabel $query
+	
+	while($data = mysqli_fetch_array($sql)){ // Ambil semua data dari hasil eksekusi $sql
+		echo "<tr>";
+		echo nl2br($data['keterangan']);
+		echo "</tr>";
+	}
+	?>
+	<label style="font-weight: bold; color: #FFFFFF;font-size: 14px;font-style: italic;underline;line-height: 10px;">_________________________</label>
+	<br></br>
+	<a href="security.php" style="font-weight: bold; color: #FFFFFF;font-size: 14px;font-style: italic;underline;line-height: 10px;">update...</a></a>&nbsp; &nbsp;by Tim Security<br>
+</div>
+</div>
+</div>
+<!-- Info Security-->	
+
+<!-- Info Shift engineering-->
+
+<div class="berr">
+						    <div class="berrin">
+						        						            <a href="#"><img width="150" height="113" src="wp-content/uploads/2017/09/engineering1.jpg" class="attachment-thumb size-thumb wp-post-image" alt="Divisi Operation The Energy" title="Divisi Operation The Energy" srcset="wp-content/uploads/2017/09/engineering1.jpg 600w, wp-content/uploads/2017/09/engineering1.jpg 320w" sizes="(max-width: 150px) 100vw, 150px" />							    	</a>
+							    							    <div class="coberr">
+						        	<div class="kotass">
+<?php
+	// Load file koneksi.php
+	include "koneksi.php";
+	$query = "SELECT * FROM engineering ORDER BY id DESC limit 1"; 
+	$sql = mysqli_query($connect, $query); // Eksekusi/Jalankan query dari variabel $query
+	
+	while($data = mysqli_fetch_array($sql)){ // Ambil semua data dari hasil eksekusi $sql
+		echo "<tr>";
+		echo tgl_indo($data['tanggal']);
+		echo "</tr>";
+	}
+?>
+
+		</div><h3>Report Shift Engineering:</h3>
+		<style>
+#show7,#content{display:none;}
+#show7:checked~#content{display:block;}
+</style>
+<input id="show7" type=checkbox>
+<label for="show7" style="font-weight: bold; color: #ffffff;font-size: 14px;font-style: italic;underline;line-height: 10px;">Tampilkan...</label>
+
+<br></br>
+<span  id="content" style="font-weight: normal; color: #ffffff;font-size: 12px;font-style: normal;line-height: 12px;">
+			<?php
+	// Load file koneksi.php
+	include "koneksi.php";
+	$query = "SELECT * FROM engineering ORDER BY id DESC limit 1"; 
+	$sql = mysqli_query($connect, $query); // Eksekusi/Jalankan query dari variabel $query
+	
+	while($data = mysqli_fetch_array($sql)){ // Ambil semua data dari hasil eksekusi $sql
+		echo "<tr>";
+		echo nl2br($data['keterangan']);
+		echo "</tr>";
+	}
+	?>
+	<label style="font-weight: bold; color: #FFFFFF;font-size: 14px;font-style: italic;underline;line-height: 10px;">_________________________</label>
+	<br></br>
+	<a href="engineering.php" style="font-weight: bold; color: #FFFFFF;font-size: 14px;font-style: italic;underline;line-height: 10px;">update...</a></a>&nbsp; &nbsp;by Tim Engineering<br>
+</div>
+</div>
+</div>
+<!-- Info Shift engineering-->	
+										
+	</div>		    
+	</div>
+    </div>
+
+  
+<!--Gallery---->
+<div class="ll clear">
+	    	<h3><span>GALLERY ENERGY :</span></h3>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="stylesheet" href="css/foundation.css" />
+      <script src="js/vendor/modernizr.js"></script>
+
+
+      <nav class="top-bar" data-topbar role="navigation">
+	   <section class="top-bar-section">
+         <ul class="title-area">
+<li><a href="upload-photo.php" data-reveal-id="uploadModal" data-reveal-ajax="true">Add Photo</a></li>
+ <li class="divider"></li>
+               <li><a href="index.php">Home</a></li>
+               <li class="divider"></li>
+</section>
+            <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+      </nav>
+      <br/>
+      <!--Content goes here-->
+      <div class="row">
+         <div class="large-12 columns">
+             <?php
+            if(isset($_GET['success'])) {
+            if($_GET['success']=="yes"){?>
+            <div class="row">
+               <div class="small-6 large-6 columns">
+               </div>
+            </div>
+            <?php } else {?>
+             <div class="row">
+               <div class="small-3 large-3 columns">
+                  <div data-alert class="alert-box alert radius ">
+                     There was a problem uploading the image.
+                     <a href="#" class="close">&times;</a>
+                  </div>
+               </div>
+            </div>
+
+            <?php } }?>
+            <ul class="clearing-thumbs small-block-grid-1 medium-block-grid-2 large-block-grid-4" data-clearing>
+               <?php
+               require 'dbc.php';
+               $stmt = $dbc->query("SELECT * FROM tbl_photos ORDER by img_id DESC");
+               foreach ($stmt as $img) {
+               ?>
+               <li>
+
+<div class="demo-container">		
+		<section>
+			<div id="gallery" style="font-weight: italic; color: #b8792c;text-align:center;font-size: 10px;font-style: italic;underline;line-height: 10px;">
+                  <a href="<?= $img['img_path']; ?>">
+<img data-caption="<?= $img['img_title']; ?>" src="<?= $img['img_path']; $img['img_title']; ?>" class="img-fluid" width="240px" height="300px"></a><?= $img['img_title']; ?>
+				  
+               </li>
+               <?php } ?>
+            </ul>
+			</div>
+			</section>
+		
+      </div>
+     
+      <!--End content-->
+      <!--MODALS-->
+      <div id="uploadModal" class="reveal-modal tiny" data-reveal></div>
+      <!--END MODALS-->
+
+      </div>
+	  
+      <script src="js/foundation.min.js"></script>
+      <script src="js/sticky-footer.js"></script>
+      <script src="js/foundation/foundation.topbar.js"></script>
+      <script src="js/foundation/foundation.reveal.js"></script>
+      <script src="js/foundation/foundation.abide.js"></script>
+      <script>
+         $(document).foundation();
+      </script>
+	  
+<!--Gallery---->
+	
+				    </div>
+	    </div>
+    </div>
+	
+		</div>
+		<!-- Container -->
+<script type='text/javascript' src='css/js/script1702.js?ver=20170529'></script>
+<script type='text/javascript' src='css/js/timers1702.js?ver=20170529'></script>
+<script type='text/javascript' src='wp-includes/js/wp-embed.min6e7a.js?ver=5.2.7'></script>
+<a href="javascript:" id="return-to-top"><i class="fas fa-arrow-up"></i></a>
+	 	<script>
+			$('#return-to-top').click(function() {
+				$('body,html').animate({
+					scrollTop : 0
+			 	}, 500);
+			});
+		</script>
+		
+		<script type="text/javascript" src="css/js/owl.carousel.js"></script>
+		<script type="text/javascript" src="css/js/accordion.js"></script>
+	    <script>
+        var mini = true;
+
+        function toggleSidebar() {
+            if (mini) {
+                console.log("opening sidebar");
+                document.getElementById("mySidebar").style.width = "300px";
+                document.getElementById("main").style.marginLeft = "300px";
+                this.mini = false;
+            } else {
+                console.log("closing sidebar");
+                document.getElementById("mySidebar").style.width = "82px";
+                document.getElementById("main").style.marginLeft = "82px";
+                this.mini = true;
+            }
+        }
+    </script>		
+	</body>
+
+
+</html>
+
