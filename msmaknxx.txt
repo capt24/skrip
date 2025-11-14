@@ -1,0 +1,1305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+
+  <!-- Favicons -->
+  <link href="moderna/assets/img/favicon.png" rel="icon">
+  <link href="moderna/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="moderna/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="moderna/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="moderna/assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="moderna/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="moderna/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+	<link rel="shortcut icon" href="images/favicon.png" />
+	<link rel='stylesheet' id='config-css'  href='css/ts-config.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='mailchimp-checkbox-css'  href='css/checkbox.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='font-awesome.min-css'  href='css/font-awesome.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='jquery.flipcountdown-css'  href='css/jquery.flipcountdown.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='jquery-ui-css'  href='css/jquery-ui.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='bootstrap.min-css'  href='css/bootstrap.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='owl.carousel-css'  href='css/owl.carousel.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='easy-responsive-tabs-css'  href='css/easy-responsive-tabs.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='jquery.circliful-css'  href='css/jquery.circliful.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='cubeportfolio.min-css'  href='css/cubeportfolio.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='megamenu-css'  href='css/megamenu.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='styles-css'  href='css/styles.css' type='text/css' media='all' />
+	<link rel="stylesheet" id="custom-css" href="css/mobile.css" type="text/css" media="all" />
+	<link rel='stylesheet' id='fl-automator-skin-css'  href='uploads/bb-theme/skincare.css?ver=1.7.4.1' type='text/css' media='all' />
+	<link rel='stylesheet'   href='css/layout.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='redux-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Roboto%3A300%2C500%2C400%2C100&#038;ver=1428634381' type='text/css' media='all' />
+  <link href="moderna/assets/css/main.css" rel="stylesheet">
+</head>
+
+<body class="index-page">
+
+  <header id="header" class="header d-flex align-items-center fixed-top">
+    <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
+
+      <a href="index.php" class="logo d-flex align-items-center">
+
+  <a href="index.php" class="ariva_logo">
+  <img src="images/logo.png" alt="The Energi - Network Datacenter in Jakarta Indonesia" width="300">
+</a>
+      <nav id="navmenu" class="navmenu">
+	  <ul id="menu-main-menu" class="menu-nav list-inline ts-response-simple ts-response-stack ts-effect-slide-top">
+									<li class="menu-item">
+										<a title="Home" href="index.php"  class="dropdown-toggle">Home</a>
+									
+									</li>
+									<li class="menu-item">
+										<a title="About Us" href="about.html" class="dropdown-toggle" >About Us</a>
+										
+									</li>
+									<li class="menu-item menu-item-has-children dropdown">
+										<a title="Solution Servicess" href="#"  class="dropdown-toggle" >Solution Services</a>
+										<ul role="menu" class=" dropdown-menu">
+<li class="menu-item"><a title="Secure Rack" href="secure-rack.html">Secure Rack</a></li>
+<li class="menu-item"><a title="Secure Cage" href="secure-cage.html">Secure Cage</a></li>
+										</ul>
+									</li>
+									<li class="menu-item menu-item-has-children dropdown">
+										<a title="Our Values" href="#"  class="dropdown-toggle">Our Values</a>
+										<ul role="menu" class="dropdown-menu">
+<li class="menu-item"><a title="Neutrality" href="neutrality.html">Neutrality</a></li>
+<li class="menu-item"><a title="menu-item" href="infrastructure.html">Infrascructure</a></li>
+<li class="menu-item"><a title="Strategic Location" href="location.html">Strategic Location</a></li>
+
+										</ul>
+									</li>
+									
+									
+									<li class="menu-item">
+										<a title="contact us" href="contact.html">Contact Us</a>
+									</li>	
+							
+									<li class="menu-item">
+										<a title="contact us" href="https://theenergy.online/vmsdc/register_tamu.php">Visitor Registration</a>
+									</li>	
+								</ul>
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav>
+
+    </div>
+  </header>
+
+  <main class="main">
+    <!-- Hero Section -->
+    <section id="hero" class="hero section dark-background">
+
+      <!-- <img src="assets/img/hero-bg.jpg" alt="" data-aos="fade-in"> -->
+
+      <div id="hero-carousel" class="carousel carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
+
+        <div class="container position-relative">
+		<div class="carousel-item active">
+<div class="carousel-container">
+<div class="tp-caption ts-big-caption tp-fade tp-resizeme" 
+data-x="0" 
+data-y="128"  
+data-speed="900" 
+data-start="800" 
+data-easing="easeOutExpo" 
+data-splitin="none" 
+data-splitout="none" 
+data-elementdelay="0.1" 
+data-endelementdelay="0.1" 
+data-endspeed="1700" 
+style="z-index: 6; max-width: auto; max-height: auto; white-space: nowrap;"> High<span> availability</span><p></p>And
+<p></p><span> Secure Data Center</span>
+
+									</div>
+			<p></p>
+              <p>A high availability and secure data center ensures continuous operation with minimal downtime, while protecting data through robust security measures and infrastructure.</p>
+            </div>
+          </div><!-- End Carousel Item -->
+
+
+
+          <div class="carousel-item">
+            <div class="carousel-container">
+             <div class="tp-caption ts-big-caption tp-fade tp-resizeme" 
+ data-x="0" 
+ data-y="128"  
+data-speed="900" 
+data-start="800" 
+data-easing="easeOutExpo" 
+data-splitin="none" 
+data-splitout="none" 
+data-elementdelay="0.1" 
+data-endelementdelay="0.1" 
+ data-endspeed="1700" 
+style="z-index: 6; max-width: auto; max-height: auto; white-space: nowrap;">Realiable and  <p></p><span>Trusted Data Center</span> 
+									</div>
+			<p></p>
+			<p>A reliable and trusted data center is designed to consistently deliver high-performance services with minimal downtime, utilizing advanced infrastructure, redundancy systems, and rigorous security protocols to ensure both the safety and availability of critical data while earning the confidence of its users through proven operational excellence and robust disaster recovery capabilities.</p>
+            </div>
+          </div><!-- End Carousel Item -->
+
+          <div class="carousel-item">
+            <div class="carousel-container">
+             <div class="tp-caption ts-big-caption tp-fade tp-resizeme" 
+ data-x="0" 
+ data-y="128"  
+data-speed="900" 
+data-start="800" 
+data-easing="easeOutExpo" 
+data-splitin="none" 
+data-splitout="none" 
+data-elementdelay="0.1" 
+data-endelementdelay="0.1" 
+ data-endspeed="1700" 
+style="z-index: 6; max-width: auto; max-height: auto; white-space: nowrap;">Strategic<span> Location</span>
+									</div>
+		 <p>Centrally located in Primary Business District in Jakarta with close proximity to county government.</p>
+            </div>
+          </div><!-- End Carousel Item -->
+
+        </div>
+
+      </div>
+
+    </section><!-- /Hero Section -->
+	
+
+    <!-- Featured Services Section -->
+
+
+  <!-- Scroll Top -->
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Preloader -->
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="moderna/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="moderna/assets/vendor/php-email-form/validate.js"></script>
+  <script src="moderna/assets/vendor/aos/aos.js"></script>
+  <script src="moderna/assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="moderna/assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="moderna/assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="moderna/assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="moderna/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+  <script src="moderna/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="moderna/assets/js/main.js"></script>
+  <!-- ==========================================BATAAAAAAAAAAS================ -->
+		<!-- content -->			
+		<div id="container_full">	
+			<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<div class="st-wrapper">
+						<div class="row">
+							<div class="inner-row clearfix">
+								<div class="col-sm-6">
+									<div class="st-wrapper">
+									
+<div class="ts-special-offer">
+<div class="fl-photo-content fl-photo-img-jpg"><center>
+<img loading="lazy" class="fl-photo-img wp-image-968 size-full" src="images/slideshow/iso_27001.png" alt="TE - Facade" itemprop="image" height="180" width="280" title="TE - Facade"  /></center>
+</div>
+<br></br>
+<p style="text-align: justify;">Strategically located in the heart of Jakarta's bustling business district, the SCBD, Lokadatta stands as a premier neutral carrier, seamlessly connecting with a broad range of prominent service providers across Indonesia. Our prime position in this vibrant hub allows us to offer unparalleled access to global connectivity, enabling businesses to stay ahead in an increasingly digital world.
+At Lokadatta, we take pride in providing cutting-edge global connectivity services powered by the latest advancements in technology. Our infrastructure is built with the highest standards of security, ensuring that your data and operations remain safe and protected at all times.</p>
+
+</div>
+</div> 
+</div> 
+<div class="col-sm-6">
+<div class="st-wrapper">
+<div class="ts-special-offer">
+<p style="text-align: justify;"> 
+With a dedicated team of certified experts, we manage and maintain our Datacenter to meet Tier-3 specifications , guaranteeing a robust, reliable, and secure environment for your critical infrastructure.
+Our Datacenter offers two distinct service options, each designed to meet the diverse needs of our clients. Whether you're looking for colocation, cloud services, or hybrid solutions, we provide flexible and scalable options that can grow with your business. Every aspect of our infrastructure is optimized for high performance, and we are committed to delivering an exceptional level of service that aligns with your unique requirements.
+</p>
+<p style="text-align: justify;">
+
+When you choose Lokadatta, you’re not just investing in state-of-the-art technology, but also in the peace of mind that comes from knowing your Datacenter needs are being managed by professionals who prioritize security, quality, and stability. With us, you can confidently focus on your core business, knowing that your infrastructure is in safe hands, backed by the highest industry standards.
+</p>
+									</div> 
+								</div> 
+							</div>
+						</div>
+					</div> 
+				</div> 
+			</div>
+		</div>
+	</div>
+<!-------LOKADATA---------->
+
+			<div  class="ts-home5-completely-promote parallax-section">
+				<div class="ts-overlay">
+				
+				</div>
+		<div class="container">
+		<div class="row ">
+		<div class="col-sm-6  ">
+		<div class="ts-wrapper">
+							
+			<div class="ts-feature-item-style2 left">
+				<div class="tile-feature">
+				<h1><a href="#">FACILITIES</a></h1>
+				</div>
+			</div>
+							
+							
+								<div class="ts-feature-item-style2 left">
+									<div class="tile-feature">
+										<span class="icon-feature"><i class="fa fa-bolt"></i></span>
+										
+										<h3><a href="#">POWER</a></h3>
+									</div>
+									<div class="info-feature">
+										<p><span>Final load curtailment is given with PLN Premium Services, Redundant power with N+1 UPS System, Power backed up by dedicated Generator and UPS.</span></p>
+									</div>
+								</div>
+								<br></br>
+								<div class="ts-feature-item-style2 left">
+									<div class="tile-feature">
+										<span class="icon-feature"><i class="fa fa-sort-amount-asc"></i></span>
+										<h3><a href="#">COOLING SYSTEM</a></h3>
+									</div>
+									<div class="info-feature">
+										<p><span>Precise control of temperature and humidity in the data center, Provides a cooling capacity of 20 degrees Celsius +/- 2 and Relative humidity of 50% +/- 5, Downflow system.</span></p>
+									</div>
+								</div>
+								<br></br>
+								<div class="ts-feature-item-style2 left">
+									<div class="tile-feature">
+										<span class="icon-feature"><i class="fa fa-fire-extinguisher"></i></span>
+										<h3><a href="#">SAFETY</a></h3>
+									</div>
+									<div class="info-feature">
+										<p><span>FM2000 Fire detection &amp; Suppression system, Zero Ozone Depleting Potential, Safe for use in occupied areas, No residue to clean up after discharge.</span></p>
+									</div>
+								</div>
+								<br></br>
+								
+<style type="text/css">
+#sliderFrame {position:relative;width:px;margin: 0 auto 40px;}
+        
+#slider {
+    width:450px;height:180px;/* Make it the same size as your images */
+	background:#fff url(loading.gif) no-repeat 50% 50%;
+	position:relative;
+	padding:0;
+	left:0px; 
+	margin:0 auto;/*make the image slider center-aligned */
+    box-shadow: 0px 1px 5px #999999;
+}
+#slider img {
+	position:absolute;
+	border:none;
+	display:none;
+}
+
+/* the link style (if an image is wrapped in a link) */
+#slider a.imgLink {
+	z-index:2;
+	display:none;position:absolute;
+	top:0px;left:0px;border:0;padding:0;margin:0;
+	width:100%;height:100%;
+}
+
+/* Caption styles */
+div.mc-caption-bg, div.mc-caption-bg2 {
+	position:absolute;
+	width:100%;
+	height:auto;
+	padding:0;
+	left:0px; 
+	bottom:0px;
+	z-index:3;
+	overflow:hidden;
+	font-size: 0;
+}
+div.mc-caption-bg {
+	background-color:black;
+}
+div.mc-caption {
+	font: bold 14px/20px Arial;
+	color:#EEE;
+	z-index:4;
+	padding:10px 0;
+	text-align:center;
+}
+div.mc-caption a {
+	color:#FB0;
+}
+div.mc-caption a:hover {
+	color:#DA0;
+}
+
+
+/* ------ built-in navigation bullets wrapper ------*/
+div.navBulletsWrapper  {
+	top:0px; left:auto; /* Its position is relative to the #slider */
+	width:150px;
+	background:none;
+	padding-left:20px;
+	position:relative;
+	z-index:5;
+	cursor:pointer;
+}
+
+/* each bullet */
+div.navBulletsWrapper div 
+{
+    width:11px; height:11px;
+    background:transparent url(images/bullet.png) no-repeat 0 0;
+    float:left;overflow:hidden;vertical-align:middle;cursor:pointer;
+    margin-right:11px;/* distance between each bullet*/
+    _position:relative;/*IE6 hack*/
+}
+
+div.navBulletsWrapper div.active {background-position:0 -11px;}
+
+
+/* --------- Others ------- */
+#slider 
+{
+	transform: translate3d(0,0,0);
+    -ms-transform:translate3d(0,0,0);
+    -moz-transform:translate3d(0,0,0);
+    -o-transform:translate3d(0,0,0);
+}
+
+body {
+	background-image: url('images/1-bg.png');
+	background-size: cover;
+	
+}
+
+div {
+	
+	font-weight: 500 !important;
+}
+
+#sliderFrame {
+	margin-top: 0%;
+}
+
+h1 {
+	margin-top: 0px;
+	font-weight: 700 !important;
+}
+
+h2 {
+	font-weight: 400 !important;
+	font-size: 20px;
+	color: #c2c2c2;
+}
+
+img {
+	
+	transition: all 0.3s ease;
+}
+
+img:hover {
+	opacity: 0.8;
+}
+/* Responsive stuff */
+
+@media screen and (max-width:984px) {
+    #sliderFrame {
+        width:96%;
+        padding:2%;
+    }
+    #slider, #thumbs {
+        float:none;
+    }
+    #slider {
+        float:none;
+        width:100%;
+        height:200px; // this would be set to 'auto' if you had an image already in there, to maintain the aspect ratio
+        background-color:#ccc;
+        border:solid 1px red;
+    }
+    #thumbs {
+        width:100%;
+        margin:0;
+    }
+    #thumbs .thumb {
+        float:left;
+        width:20%;
+        margin:1.3%;
+        padding:1%;
+        border:solid 1px #CCC;
+    }
+    .thumb img,
+    .thumb .frame{
+        display:none;
+    }
+    #thumbs .thumb-content {
+        width:100%;
+        padding-left:0;
+        margin:0 auto;
+        text-align:center;
+    }
+ }
+
+@media screen and (max-width:660px) {
+    #thumbs .thumb {
+        width:40%;
+        margin:2%;
+        padding:2%;
+    }    
+}
+@media screen and (max-width:520px) {
+    #thumbs .thumb {
+        width:90%;
+        margin:2%;
+        padding:2%;
+    }  
+}
+</style>
+<!-- Importing "Open Sans font" from Google Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Maven+Pro:400,900,700,500' rel='stylesheet' type='text/css'>
+<script src="js/js-image-slider.js" type="text/javascript"></script>
+
+
+
+<div id="sliderFrame">
+<div id="slider">
+<a href="#"><img src="images/slideshow/energy-a1.jpg" alt="Neutral Carrier Datacenter" /></a>
+<a href="#"><img src="images/slideshow/energy-a2.jpg" alt="High Avaliability" /></a>
+<a href="#"><img src="images/slideshow/energy-a3.jpg" alt="Secure" /></a>
+<a href="#"><img src="images/slideshow/energy-a3b.jpg" alt="Strategic Location" /></a>
+<a href="#"><img src="images/slideshow/energy-a4.jpg" alt="Reliable And Trusted" /></a>
+<a href="#"><img src="images/slideshow/energy-a5.jpg" alt="Your best Business partner" /></a>
+<a href="#"><img src="images/slideshow/energy-a6.jpg" alt="" /></a>
+
+	</div>
+</div>
+</div> 
+</div>
+						<div class="col-sm-6  ">
+							<div class="ts-wrapper">
+								<div class="ts-feature-item-style2 left">
+									<div class="tile-feature">
+										
+										<h1><a href="#">LOCATION</a></h1>
+									</div>
+									
+<!-- Facilities -->									
+					<div class="ts-feature-item-style2 left">
+									<div class="tile-feature">
+										<div class="ts_single_image-wrapper ">
+<img width="729" height="1511" src="images/slideshow/map.png" class="ts_single_image-img attachment-full" alt="img-feature" />
+										</div>
+									</div>
+
+					</div>
+<!-- Facilities -->									
+					<div class="ts-feature-item-style2 left">
+									<div class="tile-feature">
+										<span class="icon-feature"><i class="fa fa-bolt"></i></span>
+										
+										<h3><a href="#">SECURITY & ACCESS SYSTEM</a></h3>
+									</div>
+									<div class="info-feature">
+										<p><span>Digital security video surveillance, Proximity, and biometric security access, Data Center staff support available 24 hours a day.</span></p>
+					</div>
+					</div>
+<!-- Facilities -->									
+								<br></br>
+								<div class="ts-feature-item-style2 left">
+									<div class="tile-feature">
+									<span class="icon-feature"><i class="fa fa-history"></i></span>
+										<h3><a href="#">MONITORING SYSTEM</a></h3>
+									</div>
+									<div class="info-feature">
+										<p><span>Monitors critical environmental conditions, such as temperature, humidity, power, UPS, dust &amp; water presence, smoke, and fire. The alarm system automatically sends a notification by console, email and SMS message, Water leak detection system.</span></p>
+									</div>
+								</div>
+			</div>	
+
+        
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-------LOKADATA---------->
+		
+	</div>
+	<!-- End / Page wrap -->
+	<script type='text/javascript' src='js/jquery.js'></script>
+	<script type='text/javascript' src='js/jquery-ui.js'></script>
+	<script type='text/javascript' src='js/jquery-migrate.min.js'></script>
+	<script type='text/javascript' src='js/jquery.themepunch.tools.min.js'></script>
+	<script type='text/javascript' src='js/jquery.themepunch.revolution.min.js'></script> 
+	<script type='text/javascript' src='js/accordion-home4.js'></script> 
+	<script type="text/javascript" src="js/slideshow-homepage.js"></script>
+	<script type='text/javascript' src='js/loading.js'></script>	
+	<script type='text/javascript' src='js/accordion.js'></script>	
+	<script type='text/javascript' src='js/lasted-blog-slide.js'></script>	
+	<script type='text/javascript' src='js/comment-reply.min.js'></script>
+	<script type='text/javascript' src='js/jquery.form.min.js'></script>
+	<script type='text/javascript' src='js/scripts.js'></script>
+	<script type='text/javascript' src='js/jquery.blockUI.min.js'></script>
+	<script type='text/javascript' src='js/retina.min.js'></script>
+	<script type='text/javascript' src='js/bootstrap.min.js'></script>
+	<script type='text/javascript' src='js/jquery.appear.min.js'></script>
+	<script type='text/javascript' src='js/jquery.countTo.js'></script>
+	<script type='text/javascript' src='js/jquery.countdown.js'></script>
+	<script type='text/javascript' src='js/jquery.fitvids.js'></script>
+	<script type='text/javascript' src='js/readmore.js'></script>
+	<script type='text/javascript' src='js/subscribre.js'></script>
+	<script type='text/javascript' src='js/jquery.validate.min.js'></script>
+	<script type='text/javascript' src='js/jquery.owl.carousel.js'></script>
+	<script type='text/javascript' src='js/easyResponsiveTabs.js?'></script>
+	<script type='text/javascript' src='js/jquery.circliful.min.js'></script>
+	<script type='text/javascript' src='js/jquery.sticky.js'></script>
+	<script type='text/javascript' src='js/jquery.cubeportfolio.min.js'></script>
+	<script type='text/javascript' src='js/portfolio.js'></script>
+	<script type='text/javascript' src='js/chosen.jquery.min.js'></script>
+	<script type='text/javascript' src='js/custom.js'></script>
+	<script type='text/javascript' src='js/accordion.min.js'></script>
+	<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+
+	</div>
+</div>
+	</div>
+
+
+					
+<!-- ARTICLE -->		
+<?php
+require "admin/connection.php";
+
+$query=$pdo->query("SELECT *,concat(DATE_FORMAT(acilis_zaman,\"%H:%i\"),\"-\",DATE_FORMAT(kapanis_zaman,\"%H:%i\")) as zaman  from ayarlar");
+$ayarlar= $query->fetch();
+?>
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LOKADATTA</title>
+  <link rel="stylesheet" href="admin/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css" />
+  <link rel="stylesheet" href="admin/css/main.css">
+</head>
+
+<body style="background-color: <?= $ayarlar["bg_renk"] ?>">
+
+
+  <!-- Hizmetlerimiz -->
+  <div class="py-4 bg_value">
+    <div class="container py-4">
+      <div class="text-center mb-5">
+        <h1 class="fw-bold c_mavi">OUR VALUES</h1>
+      </div>
+      <div class="swiper hakkimizda">
+        <!-- Additional required wrapper -->
+        <div class="swiper-wrapper">
+            <?php
+            $query= $pdo->query("SELECT * FROM our_values");
+            $values = $query->fetchAll();
+            ?>
+            <?php foreach ($values as $value): ?>
+          <div class="swiper-slide">
+            <div class="d-flex flex-column align-items-center border border-1 border-secondary p-5 value_eft">
+              <img src="<?= $value["image"] ?>" alt="" class="icon_hizmet">
+              <span href="#" class="text-decoration-none my-4 fw-bold"><?= $value["judul"] ?></span>
+              <p><?= $value["uraian"] ?></p>
+            </div>
+          </div>
+            <?php endforeach; ?>
+        </div>
+      </div>
+    </div>
+
+
+
+<!-- Include Swiper CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
+<!-- NEWS & EVENT -->
+<div class="container py-4">
+  <div class="d-flex align-items-center justify-content-between my-4">
+    <h1 class="c_mavi fw-bold">NEWS & EVENT</h1>
+    <div>
+      <i id="prevButton" class="blog-button-prev fa-solid fa-arrow-left p-2 bg_mavi text-white"></i>
+      <i id="nextButton" class="blog-button-next fa-solid fa-arrow-right p-2 bg_sari text-white"></i>
+    </div>
+  </div>
+  <div class="swiper blog">
+    <div class="swiper-wrapper">
+      <?php
+        $query = $pdo->query("SELECT *, DATE_FORMAT(tanggal, '%d %M %Y') as tanggal_format FROM news");
+        $news = $query->fetchAll();
+      ?>
+      <?php foreach ($news as $yazi): ?>
+      <div class="swiper-slide">
+        <div class="d-flex flex-column gap-2 small">
+          <a href="news.php?id=<?= $yazi['id'] ?>" class="d-inline-flex text-decoration-none">
+            <img src="<?= $yazi['image'] ?>" class="w-100 rounded-6 slider_img" alt="" style="border-radius: 30px;">
+          </a>
+          <span class="fw-bold text-black-50"><?= $yazi['tanggal_format'] ?></span>
+          <a href="news.php?id=<?= $yazi['id'] ?>" class="text-decoration-none">
+            <h1 class="fs-3 c_mavi"><?= $yazi['judul'] ?></h1>
+          </a>
+          <p class="text-muted">
+            <?php 
+              $max_length = 150;
+              $uraian = strip_tags($yazi['uraian']);
+              if (strlen($uraian) > $max_length) {
+                $uraian = substr($uraian, 0, $max_length);
+                $uraian = substr($uraian, 0, strrpos($uraian, ' '));
+                echo $uraian . '... <a href="news.php?id=' . $yazi['id'] . '" class="text-decoration-none fw-bold c_mavi">Read More</a>';
+              } else {
+                echo $uraian;
+              }
+            ?>
+          </p>
+        </div>
+      </div>
+      <?php endforeach; ?>
+    </div>
+  </div>
+</div>
+
+<!-- ARTICLE -->
+<div class="container py-4">
+  <div class="d-flex align-items-center justify-content-between my-4">
+    <h1 class="c_mavi fw-bold">ARTICLE</h1>
+    <div>
+      <i id="prevButton" class="swiper-button-prev"></i>
+      <i id="nextButton" class="swiper-button-next"></i>
+    </div>
+  </div>
+  <div class="swiper blog-slider">
+    <div class="swiper-wrapper">
+      <?php
+        $query = $pdo->query("SELECT *, DATE_FORMAT(tanggal, '%d %M %Y') as tanggal_format FROM article");
+        $article = $query->fetchAll();
+      ?>
+      <?php foreach ($article as $yazi): ?>
+      <div class="swiper-slide">
+        <div class="d-flex flex-column gap-2 small">
+          <a href="artikel.php?id=<?= $yazi['id'] ?>" class="d-inline-flex text-decoration-none">
+            <img src="<?= $yazi['image'] ?>" class="w-100 rounded-6 slider_img" alt="" style="border-radius: 30px;">
+          </a>
+          <span class="fw-bold text-black-50"><?= $yazi['tanggal_format'] ?></span>
+          <a href="artikel.php?id=<?= $yazi['id'] ?>" class="text-decoration-none">
+            <h1 class="fs-3 c_mavi"><?= $yazi['judul'] ?></h1>
+          </a>
+          <p class="text-muted">
+            <?php 
+              $max_length = 150;
+              $uraian = strip_tags($yazi['uraian']);
+              if (strlen($uraian) > $max_length) {
+                $uraian = substr($uraian, 0, $max_length);
+                $uraian = substr($uraian, 0, strrpos($uraian, ' '));
+                echo $uraian . '... <a href="artikel.php?id=' . $yazi['id'] . '" class="text-decoration-none fw-bold c_mavi">Read More</a>';
+              } else {
+                echo $uraian;
+              }
+            ?>
+          </p>
+        </div>
+      </div>
+      <?php endforeach; ?>
+    </div>
+  </div>
+</div>
+
+<!-- Include Swiper JS -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script>
+  var articleSwiper = new Swiper(".blog-slider", {
+    slidesPerView: 3,
+    spaceBetween: 20,
+    loop: true,
+    speed: 2000,
+    autoplay: {
+      delay: 0,
+      disableOnInteraction: false,
+    },
+    navigation: {
+      nextEl: "#nextButton",
+      prevEl: "#prevButton",
+    },
+    breakpoints: {
+      320: { slidesPerView: 1 },
+      768: { slidesPerView: 2 },
+      1024: { slidesPerView: 3 }
+    }
+  });
+
+  var newsSwiper = new Swiper(".blog", {
+    slidesPerView: 3,
+    spaceBetween: 20,
+    loop: true,
+    speed: 5500,
+    autoplay: {
+      delay: 0,
+      disableOnInteraction: false,
+    },
+    navigation: {
+      nextEl: "#nextButton",
+      prevEl: "#prevButton",
+    },
+    breakpoints: {
+      320: { slidesPerView: 1 },
+      768: { slidesPerView: 2 },
+      1024: { slidesPerView: 3 }
+    }
+  });
+    window.onload = function() {
+    setTimeout(function() {
+      document.getElementById("nextButton").click();
+    }, 500);
+  };
+</script>
+
+  <!-- Footer Bottom -->
+  <script src="admin/js/bootstrap.bundle.js"></script>
+  <script src="admin/js/fontawesome.js"></script>
+  <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
+  <script src="admin/js/app.js"></script>
+<!-- ARTIKEL -->
+
+
+<!-- PRODUK -->
+<?php
+// Mengubah query untuk menggunakan tabel our_product dan membatasi hasil menjadi 3
+$query = $pdo->query("SELECT * FROM our_product LIMIT 3");
+$values = $query->fetchAll();
+if ($values):  // Check if there are results
+?>
+
+<div class="container1">
+<h3 class=""><center>SPECIAL INTRODUCTORY OFFERS</center></h3>
+<br>
+  <div class="row justify-content-center">
+    <?php foreach ($values as $yazi): ?>
+      <div class="col-sm-12 col-md-4 mb-4 d-flex justify-content-center">
+        <div class="st-wrapper">
+          <div class="ts-special-offer1 card">
+            <h4 class="card-title text-center"><?= htmlspecialchars($yazi['judul']) ?></h4>
+            <!-- Product Image -->
+            <img src="<?= htmlspecialchars($yazi['image']) ?>"
+                 class="card-img-top img-fluid custom-img"
+                 alt="<?= htmlspecialchars($yazi['judul']) ?>" />
+            <!-- Product Title -->
+            <div class="card-body">
+              <p class="card-text text-muted1">
+                <?= $yazi["uraian"] ?>
+              </p>
+          <div class="ts-special-offer-content">
+            <div class="ts-offer-right">
+              <div class="card-body">
+                <a href="<?= htmlspecialchars($yazi["judul"]) ?>.html" class="learn-more">....Learn More</a>
+              </div>
+            </div>
+          </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    <?php endforeach; ?>
+  </div>
+</div>
+<?php else: ?>
+  <p>No products found.</p>
+<?php endif; ?>
+
+<style>
+/* Custom CSS for the image */
+.custom-img {
+  width: 100%;
+  height: 250px; /* Menetapkan tinggi gambar agar lebih besar */
+  border-radius: 10px; /* Apply border radius */
+  object-fit: cover; /* Ensure the image covers the area properly without stretching */
+  object-fit: cover;
+}
+/* Memperbaiki desain kartu produk */
+.ts-special-offer1 {
+  width: 530px; /* Menetapkan lebar kartu tetap 530px */
+  height: 100%; /* Pastikan kartu mengisi kolom dengan tinggi penuh */
+  min-height: 500px; /* Menetapkan tinggi minimal untuk kartu */
+  max-width: 100%; /* Membuat kotak lebih lebar dan fleksibel */
+  transform: translateY(-10px);
+  margin-bottom: 10px;
+  padding: 20px; /* Menambahkan jarak (padding) di dalam kotak */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  border-radius: 10px; /* Menambahkan border-radius untuk sudut yang lebih halus */
+  background-color: #fff; /* Background putih untuk kontras */
+  display: flex; /* Menjadikan kartu sebagai elemen flex */
+  flex-direction: column; /* Susun elemen secara vertikal */
+}
+
+/* Menjaga elemen-elemen dalam kartu agar memiliki tinggi yang konsisten */
+.ts-special-offer1 .card-body {
+  flex-grow: 1; /* Membuat card-body mengisi ruang yang tersisa */
+}
+
+/* Custom CSS for the image */
+.custom-img {
+  width: 100%;
+  height: 250px; /* Menetapkan tinggi gambar agar lebih besar */
+  border-radius: 10px; /* Apply border radius */
+  object-fit: cover; /* Ensure the image covers the area properly without stretching */
+  object-fit: cover;
+}
+
+/* Membuat judul lebih besar dan bold */
+.card-title {
+  font-size: 2.5rem; /* Ukuran font lebih besar */
+  font-weight: bold; /* Judul tebal */
+  text-transform: uppercase; /* Menambahkan efek kapital */
+  margin-bottom: 15px; /* Memberikan jarak antara judul dan gambar */
+}
+
+/* Responsif untuk berbagai ukuran layar */
+@media (max-width: 767px) {
+  .col-sm-12.col-md-4 {
+    margin-bottom: 20px; /* Menambahkan jarak antar elemen pada perangkat mobile */
+  }
+
+  .ts-special-offer1 {
+    width: 100%; /* Sesuaikan lebar kartu pada perangkat mobile */
+    max-width: 100%; /* Pastikan kartu tidak melebihi lebar layar */
+    padding: 15px; /* Mengurangi padding pada kartu untuk perangkat mobile */
+  }
+  .custom-img {
+    height: 200px; /* Mengurangi tinggi gambar pada perangkat mobile */
+  }
+
+  .card-title {
+    font-size: 1.2rem; /* Mengurangi ukuran font judul pada perangkat mobile */
+  }
+}
+
+</style>
+
+
+
+<h3 class=""><center>GALLERY</center></h3>
+<br>
+<?php
+$folder = 'galery/';  // Pastikan folder ini ada dan berisi gambar
+$cacheFolder = 'cache/';
+$cacheFile = $cacheFolder . 'gallery_cache.json';
+
+if (!is_dir($cacheFolder)) {
+    mkdir($cacheFolder, 0777, true); // Buat folder cache jika belum ada
+}
+
+$allowedExtensions = ['jpg', 'jpeg', 'png', 'bmp', 'gif', 'webp'];
+
+if (!file_exists($cacheFile) || time() - filemtime($cacheFile) > 86400) {
+    $files = array_diff(scandir($folder), ['..', '.']);
+    $files = array_filter($files, function ($file) use ($allowedExtensions, $folder) {
+        return in_array(strtolower(pathinfo($file, PATHINFO_EXTENSION)), $allowedExtensions);
+    });
+    file_put_contents($cacheFile, json_encode(array_values($files))); // Simpan daftar gambar ke cache
+} else {
+    $files = json_decode(file_get_contents($cacheFile), true);
+}
+?>
+
+    <style>
+        .slider-container { width: 80%; overflow: hidden; margin: auto; position: relative; 
+		}
+        .slider-wrapper { display: flex; transition: transform 0.5s ease-in-out; 
+		}
+        .slider-wrapper img { width: 300px; height: auto; border-radius: 10px; cursor: pointer; margin-right: 10px; 
+		}
+        .slider-container button { position: absolute; top: 50%; transform: translateY(-50%); background: rgba(0, 0, 0, 0.5); color: white; border: none; padding: 10px; cursor: pointer; }
+        .popup { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.7); justify-content: center; align-items: center; 
+		}
+        .slider-container .prev {
+            left: 10px;
+        }
+        .slider-container .next {
+            right: 10px;
+        }
+        .popup img { max-width: 70%; max-height: 70%; border-radius: 15px; }
+    </style>
+
+    <div class="slider-container">
+        <button class="prev" onclick="moveSlide(-1)">&#10094;</button>
+        <div class="slider-wrapper">
+            <?php foreach ($files as $file): ?>
+                <img src="<?= $folder . $file ?>" data-full="<?= $folder . $file ?>" loading="lazy" alt="Gallery Image" onclick="openPopup(this)">
+            <?php endforeach; ?>
+        </div>
+        <button class="next" onclick="moveSlide(1)">&#10095;</button>
+    </div>
+
+    <div class="popup" id="popup" onclick="closePopup()">
+        <img id="popup-img" src="" alt="Enlarged Image">
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            let index = 0;
+            const sliderWrapper = document.querySelector('.slider-wrapper');
+            const images = document.querySelectorAll('.slider-wrapper img');
+
+            function moveSlide(step) {
+                index = (index + step + images.length) % images.length;
+                sliderWrapper.style.transform = `translateX(${-index * (images[0].clientWidth + 10)}px)`;
+            }
+
+            function openPopup(imgElement) {
+                const popup = document.getElementById('popup');
+                const popupImg = document.getElementById('popup-img');
+                popupImg.src = imgElement.getAttribute('data-full');
+                popup.style.display = 'flex';
+            }
+
+            function closePopup() {
+                document.getElementById('popup').style.display = 'none';
+            }
+
+            window.moveSlide = moveSlide;
+            window.openPopup = openPopup;
+            window.closePopup = closePopup;
+        });
+    </script>
+</body>
+</html>
+
+
+
+<br>
+
+
+
+<footer class="fl-row fl-row-full-width fl-row-bg-color fl-node-60617a2e9d519" data-node="60617a2e9d519">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-full-width fl-node-content">
+		
+<div class="fl-col-group fl-node-60538b7eef92f" data-node="60538b7eef92f">
+			<div class="fl-col fl-node-60538b7eef933 fl-col-has-cols" data-node="60538b7eef933">
+	<div class="fl-col-content fl-node-content">
+	
+<div class="fl-col-group fl-node-60538b7eef934 fl-col-group-nested" data-node="60538b7eef934">
+			<div class="fl-col fl-node-60538b7eef935 fl-col-small" data-node="60538b7eef935">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-menu fl-node-60538b7eef939" data-node="60538b7eef939">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-menu fl-menu-responsive-toggle-mobile">
+	<button class="fl-menu-mobile-toggle hamburger" aria-label="Menu"><span class="svg-container"><svg version="1.1" class="hamburger-menu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+<rect class="fl-hamburger-menu-top" width="512" height="102"/>
+<rect class="fl-hamburger-menu-middle" y="205" width="512" height="102"/>
+<rect class="fl-hamburger-menu-bottom" y="410" width="512" height="102"/>
+</svg>
+</span></button>	
+<div class="fl-clear"></div>
+	<nav aria-label="Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">	
+	</nav></div>
+	</div>
+</div>
+	</div>
+</div>
+<div class="fl-col fl-node-60538b7eef936 fl-col-small" data-node="60538b7eef936">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-photo fl-node-60538b7eef93a" data-node="60538b7eef93a">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-crop-portrait fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-jpg">
+				<img loading="lazy" class="fl-photo-img wp-image-968 size-full" src="uploads/bb-plugin/cache/TE-Facade-1-portrait.jpg" alt="TE - Facade" itemprop="image" height="1620" width="1015" title="TE - Facade"  />
+					</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>		
+<div class="fl-col fl-node-60538b7eef937 fl-col-small" data-node="60538b7eef937">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-rich-text fl-node-60538b7eef93b" data-node="60538b7eef93b">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p><strong>Request Enquiry</strong></p>
+<p><span style="font-size: 12px;">For inquiries, please fill out the form or simply reach us directly at <a href="mailto:marketing.it@theenergy.co.id">marketing.it@theenergy.co.id</a>.</span></p>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-contact-form fl-node-60538b7eef93c" data-node="60538b7eef93c">
+	<div class="fl-module-content fl-node-content">
+		<form class="fl-contact-form" data-template-id="60538b7ed23a3" data-template-node-id="60538b7eef93c">	<input type="hidden" name="fl-layout-id" value="8" />
+		<div class="fl-input-group fl-name">
+		<label for="fl-name" class="fl-contact-form-label-hidden">Your name</label>
+		<span class="fl-contact-error" id="name-error">Please enter your name.</span>
+		<input type="text" id="fl-name" name="fl-name" aria-describedby="name-error" value="" placeholder="Your name" />
+	</div>
+				<div class="fl-input-group fl-email">
+		<label for="fl-email" class="fl-contact-form-label-hidden">Your email</label>
+		<span class="fl-contact-error" id="email-error">Please enter a valid email.</span>
+		<input type="email" id="fl-email" aria-describedby="email-error" name="fl-email" value="" placeholder="Your email" />
+	</div>
+			<div class="fl-input-group fl-message">
+		<label for="fl-message" class="fl-contact-form-label-hidden">Your message</label>
+		<span class="fl-contact-error" id="message-error">Please enter a message.</span>
+		<textarea id="fl-message" name="fl-message" aria-describedby="message-error" placeholder="Your message"></textarea>
+	</div>
+	
+		<div class="fl-button-wrap fl-button-width-full fl-button-left fl-button-has-icon">
+			<a href="#" target="_self" class="fl-button" role="button">
+					<i class="fl-button-icon fl-button-icon-before fas fa-paper-plane" aria-hidden="true"></i>
+						<span class="fl-button-text">Send</span>
+					</a>
+</div>
+			<span class="fl-success-none" style="display:none;">Message Sent!</span>
+	
+	<span class="fl-send-error" style="display:none;">Message failed. Please try again.</span>
+</form>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-60538b7eef938 fl-col-small" data-node="60538b7eef938">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-html fl-node-60538b7eef93d" data-node="60538b7eef93d">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15865.134921300538!2d106.78796560845247!3d-6.226272148587841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f10fee2172fb%3A0xdb7fc832f029dbfc!2sLokadatta%20Data%20Center!5e0!3m2!1sen!2sid!4v1756373668191!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</footer>
+</div>	</div><!-- .fl-post-content -->
+	
+</article>
+
+<!-- .fl-post -->
+		</div>
+	</div>
+</div>
+
+	<link rel='stylesheet' id='font-awesome.min-css'  href='css/font-awesome.min.css' type='text/css' media='all' />
+	<div class="ts-section-top-footer">    
+				<div class="ts-top-footer">
+					<div class="container">
+						<div class="row">
+			<div class="col-lg-4 col-md-4 col-sm-4 ts-contact-email-info contact-info">
+								
+			<a href="mailto:dc.operations@theenergy.co.id"><span><i class="fa fa-envelope-o"></i></span>Email us</a>
+			</div>
+			
+			<div class="col-lg-4 col-md-4 col-sm-4 ts-contact-livechat-info contact-info">					
+			<a title="Hubungi Kami via WhatsApp" rel="nofollow" href="https://api.whatsapp.com/send?phone=6281399131331&text=Saya ingin bertanya sesuatu"><span><i class="fa fa-comment-o"></i></span>Chat</a>				
+			</div> 
+							<div class="col-lg-4 col-md-4 col-sm-4 ts-contact-phone-info contact-info">
+								
+								<p><span><i class="fa fa-phone"></i></span>+62 21 2995 1470 </p>
+							</div>
+                  
+						</div>                            
+					</div>
+				</div>
+												
+		</div>		
+		<!-- Start footer -->
+		<footer>
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-6">
+						<div class="ts-company-info ">
+							<h3 class="title">About company</h3>
+							<p>Lokadatta has been operating since 2009 and is located in the central business area of ​​Jakarta, namely the SCBD area.</p>					
+							<p><span>The Energy 3rd FL.,SCBD Lot 11 A <br>Jl. Jend. Sudirman Kav. 52-53 <br>Jakarta 12190 - Indonesia</span></p>						
+							<p><span></span><a href="mailto:dc.operations@theenergy.co.id">dc.operations@theenergy.co.id</a></p>
+							
+						</div>
+					</div>
+					
+					<div class="col-lg-3 col-md-3 col-sm-6">
+						<div class="nav_menu-1 nav_menu">
+							<h3 class="title">Solution Services</h3>
+							<div class="menu-support-help-container">
+								<ul id="menu-support-help" class="menu">
+                                	<li class="menu-item"><a title="Support Home" href="secure-cage.html">Secure Cage</a></li>
+									<li class="menu-item"><a title="Knowledge Center" href="secure-rack.html">Secure Rack</a></li>
+
+
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-6">
+						<div class="nav_menu-2 nav_menu">
+						<h3 class="title">Our Values</h3>
+						<div class="menu-control-panel-container">
+							<ul id="menu-control-panel" class="menu">
+                            	<li  class="menu-item"><a title="Get Support" href="location.html">Location</a></li>
+								<li class="menu-item"><a title="Neutrality" href="neutrality.html">Neutrality</a></li>
+								<li class="menu-item"><a title="Auto Install Scripts" href="infrastructure.html">Infrastructure</a></li>
+								
+							</ul>
+						</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-6 last">
+							<div class="menu-support-help-container">
+								<ul id="menu-support-help" class="menu">
+<h3 class="title">DOWNLOADS</h3>
+<li class="menu-item"><a title="Support Home" href="uploads/2021/04/Brochure-lokadatta.pdf" target="_blank" class="black" rel="noopener">BROCHURE PDF</a></li>
+
+								</ul>
+							</div>
+						<!-- / MailChimp for WP Plugin -->
+						</div>
+						
+					</div>	
+				</div>
+			</div>    
+		</footer>
+		<!-- End footer -->
+
+		<!-- Start copyright -->
+		<div class="ts-copy-right">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-4 col-md-4 col-sm-4">
+						 <p>Â© 2021 Lokadatta. All rights reserved.</p>
+					</div>
+					<div class="col-lg-8 col-md-8 col-sm-8">
+						<div class="ts-menu-footer">
+							<nav>
+								 <ul>
+									<li><a href="index.php">Home</a></li>
+									<li><a href="about.html">About</a></li>
+									<li><a href="contact.html">contact</a></li>
+								</ul>                    
+							</nav>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- End copyright -->	
+
+		<!-- Start popup -->	
+		<div class="clr toggle-bar-fade hidden-xs" id="toggle-bar-wrap">
+			<div class="clr container" id="toggle-bar">
+				<div class="container">
+					<div class="col-sm-6  ">                    
+						<h4>Welcome Lokadatta</h4>
+						<p>Lokadatta has been operating since 2009 and is located in the central business area of ​​Jakarta, namely the SCBD area. It is suitable for customers who need minimum access time from their location in the Jakarta business area with other conveniences, namely being accessible by several public transport routes.
+Has a datacenter area of ​​about 1200m2 supported by adequate infrastructure. Datacenter The Energy is a neutral carrier datacenter because it is connected to several telecommunications provider companies.
+Datacenter The Energy not only provides infrastructure for server rooms but also provides solutions for the smooth running of your business with the support of a reliable and guaranteed availability infrastructure.</p>
+						<div class="vcex-spacing"></div>
+						<div>
+								<h4>Get In Touch</h4>
+						</div>
+												  
+						<div class="vcex-list_item">
+	<div class="fl-page-footer-widgets-container container">
+		<div class="fl-page-footer-widgets-row row">
+		<div class="col-sm-3 col-md-3"><aside id="text-3" class="fl-widget widget_text">			
+		</aside></div><div class="col-sm-3 col-md-3"><aside id="text-4" class="fl-widget widget_text">			<div class="textwidget"><div class="widget-location">
+The Energy Building</br> 
+SCBD Lot 11A</br>
+Jl. Jendral Sudirman Kav 52-53</br>
+Jakarta 12190 - Indonesia</br>
+</br>
+Tel. <a href="tel:+622129951470">+62-21 2995 1470</a></br>
+Fax. +62-21 527 2828</div></div>
+		</aside></div><div class="col-sm-3 col-md-3"><aside id="text-5" class="fl-widget widget_text">			<div class="textwidget"><div class="widget-download">
+<h3>DOWNLOADS</h3>
+<a href="uploads/2021/04/Brochure-lokadatta.pdf" target="_blank" class="black" rel="noopener">BROCHURE PDF</a>
+
+</div></div>
+
+</div></div>
+</div>
+
+
+
+						</div>
+						<!-- .vcex-list_item -->
+											 
+						<div class="vcex-list_item">
+							<span class="fa fa-envelope-o"></span>dc.operations@theenergy.co.id               
+						</div>
+						<!-- .vcex-list_item -->
+						
+						<div class="vcex-list_item">
+							<span class="fa fa-phone"></span>+62 21 2995 1470                 
+						</div>
+						<!-- .vcex-list_item -->   
+						
+						<div class="vcex-list_item">
+							<span class="fa fa-fax"></span>+ 62 21 527 2828                  
+						</div>
+						<!-- .vcex-list_item -->   
+										   
+					</div> 
+					<div class="col-sm-6 ">
+						<h4>Our Location</h4>                                            
+						<div>                          
+							<img width="468" height="263" alt="togglebar-map"  src="images/map.png">
+						</div><!-- .ts_single_image -->
+					</div> 
+				</div><!-- .entry -->
+			</div><!-- #toggle-bar -->
+		</div>    
+	 <!-- End popup -->       
+	</div>
+	
+	<link rel='stylesheet' id='jquery-magnificpopup-css'  href='wp-content/plugins/bb-plugin/css/jquery.magnificpopup.min81d9.css?ver=2.4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fl-builder-layout-8-css'  href='uploads/bb-plugin/cache/8-layoute9ba.css?ver=5186e0849ac8f3ac5e255d86385c55aa' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='wp-content/themes/bb-theme/css/bootstrap.min2629.css?ver=1.7.4.1' type='text/css' media='all' />
+	
+	
+	
+	<!-- End / Page wrap -->
+	<script type='text/javascript' src='js/jquery.js'></script>
+	<script type='text/javascript' src='js/jquery-ui.js'></script>
+	<script type='text/javascript' src='js/jquery-migrate.min.js'></script>
+	<script type='text/javascript' src='js/jquery.themepunch.tools.min.js'></script>
+	<script type='text/javascript' src='js/jquery.themepunch.revolution.min.js'></script> 
+	<script type="text/javascript" src="js/slideshow-homepage.js"></script>
+	<script type='text/javascript' src='js/loading.js'></script>	
+	<script type='text/javascript' src='js/accordion.js'></script>	
+	<script type='text/javascript' src='js/lasted-blog-slide.js'></script>	
+	<script type='text/javascript' src='js/comment-reply.min.js'></script>
+	<script type='text/javascript' src='js/jquery.form.min.js'></script>
+	<script type='text/javascript' src='js/scripts.js'></script>
+	<script type='text/javascript' src='js/jquery.blockUI.min.js'></script>
+	<script type='text/javascript' src='js/retina.min.js'></script>
+	<script type='text/javascript' src='js/bootstrap.min.js'></script>
+	<script type='text/javascript' src='js/jquery.appear.min.js'></script>
+	<script type='text/javascript' src='js/jquery.countTo.js'></script>
+	<script type='text/javascript' src='js/jquery.countdown.js'></script>
+	<script type='text/javascript' src='js/jquery.fitvids.js'></script>
+	<script type='text/javascript' src='js/readmore.js'></script>
+	<script type='text/javascript' src='js/subscribre.js'></script>
+	<script type='text/javascript' src='js/jquery.validate.min.js'></script>
+	<script type='text/javascript' src='js/jquery.owl.carousel.js'></script>
+	<script type='text/javascript' src='js/easyResponsiveTabs.js?'></script>
+	<script type='text/javascript' src='js/jquery.circliful.min.js'></script>
+	<script type='text/javascript' src='js/jquery.sticky.js'></script>
+	<script type='text/javascript' src='js/jquery.cubeportfolio.min.js'></script>
+	<script type='text/javascript' src='js/portfolio.js'></script>
+	<script type='text/javascript' src='js/chosen.jquery.min.js'></script>
+	<script type='text/javascript' src='js/custom.js'></script>
+	<script type='text/javascript' src='js/accordion.min.js'></script>
+</body>
+</html>
