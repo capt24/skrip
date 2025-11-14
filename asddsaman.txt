@@ -1,0 +1,174 @@
+<?php 
+session_start();
+require_once 'conn.php';
+if (isset($_POST['login'])) {
+$username = $_POST['email'];
+$password = md5($_POST['password']);
+$sql = "SELECT * FROM users2 WHERE email='$username' AND password = '$password' ";
+$query = mysqli_query($koneksi,$sql);
+
+	if (mysqli_num_rows($query) > 0) {
+		$result = mysqli_fetch_assoc($query);
+		$_SESSION['alogin']		= $result['email'];
+		$_SESSION['id_user']	= $result['id_user'];
+		$_SESSION['email']		= $result['email'];
+		$_SESSION['name'] 		= $result['name'];
+		$_SESSION['nik'] 		= $result['nik'];
+		$_SESSION['mobile']		= $result['mobile'];
+		$_SESSION['jabatan']	= $result['jabatan'];
+		$_SESSION['dep']		= $result['dep'];
+		$_SESSION['role']		= $result['role'];
+		header('location:halaman.php'); 
+	}else{
+		header('location:index_login.php?info=Maaf username dan password tidak cocok');
+	}
+}elseif(isset($_GET['logout'])){
+	session_destroy();
+	session_unset();
+	header('location:index.php?info= Anda telah logout');
+}
+ 
+ ?>
+<!-- =============================================== -->
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Fire Check</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		<!-- MATERIAL DESIGN ICONIC FONT -->
+		<link rel="stylesheet" href="fonts/material-design-iconic-font/css/material-design-iconic-font.min.css">
+
+		<!-- STYLE CSS -->
+		<link rel="stylesheet" href="css/styleku.css">
+	</head>
+
+	<body>
+
+<div class="wrapper" style="background-image: url('images/bg-registration-form-1.jpg');">
+
+<div class="inner">
+				<div class="image-holder">
+					<img src="images/registration-form-2.png" alt="">
+				</div>
+<?php if(empty($_SESSION["id"])) { ?>
+
+<form action="" method="post" id="">
+
+<label style="color: #ffffff; font-size: 36px; font-family: Times New Roman; text-align: left;  font-weight: bold;">The Energy</label>
+<p>
+<label style="color: #ffffff; font-size: 36px; font-family: Times New Roman; text-align: left;  font-weight: bold;">Building</label>
+<br></br>
+<h4 style="color: #ffffff;font-size: 16px; font-family: Arial, sans-serif; text-align: left;">FIRE CHECK</h4></P>
+
+<br></br>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  .container {
+    padding: 5vw; /* Adjust padding for responsiveness */
+    background: rgb(121,68,160);
+    background: -moz-linear-gradient(left, rgba(121,68,160,1) 0%, rgba(86,93,181,1) 100%);
+    background: -webkit-linear-gradient(left, rgba(121,68,160,1) 0%, rgba(86,93,181,1) 100%);
+    background: linear-gradient(to right, rgba(121,68,160,1) 0%, rgba(86,93,181,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7944a0', endColorstr='#565db5',GradientType=1 );
+  }
+
+  h1 { 
+    margin-bottom: 15px; 
+    color: #EEE; 
+  }
+
+  .input { 
+    margin-bottom: 10px; 
+    position: relative; 
+  }
+
+  input, button {
+    font-size: 16px;
+    border: none;
+    width: calc(100% - 20px); /* Adjusted width to accommodate icon */
+    outline: 0;
+    font-family: 'Helvetica Neue', Helvetica, Tahoma, Arial, sans-serif;
+    padding: 10px;
+    border-radius: 7px;
+    color: #ffffff;
+    cursor: pointer;
+    background: rgba(255,255,255,0.2);
+  }
+
+  .input i {
+    position: absolute;
+    right: 5px; /* Adjust as needed */
+    top: 50%;
+    transform: translateY(-50%);
+    color: rgba(255, 255, 255, 0.7); /* Adjust icon color */
+  }
+
+  .form-submit-button {
+    background-color: #7a0e0e; /* warna tombol */
+    color: #fff; /* warna teks */
+    width: 100px; /* ukuran tombol */
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    margin-top: 10px; /* letak tombol */
+    margin-left: 0px; /* letak tombol */
+  }
+
+  /* Media query for small screens */
+  @media screen and (max-width: 600px) {
+    .container {
+      padding: 10px; /* Adjust padding for small screens */
+    }
+
+    input, button {
+      width: calc(100% - 10px); /* Adjusted width for small screens */
+    }
+
+    .input i {
+      right: 2px; /* Adjusted position for small screens */
+    }
+  }
+</style>
+
+
+<div class="input">
+  <input name="email" type="text" value="<?php if(isset($_COOKIE["login"])) { echo $_COOKIE["login"]; } ?>" placeholder="Enter your Email" style="padding-left: 10px;"> <i class="fa fa-user"></i>
+</div>
+
+
+<div class="input">
+	<input type="password" name="password" placeholder="Password" style="padding-left: 10px;" ><i class="fa fa-lock"></i>
+
+</div>
+<p></p>
+<button type="submit" name="login" class="form-submit-button">Sign in</button>
+<p></p>
+<div class="form-wrapper">
+    <span style="font-weight: bold; margin-left: 195px; color: #ffffff;">Don't have account?</span>
+</div>
+<div class="form-wrapper">
+    <a href="register.php"><span style="font-weight: bold; margin-left: 266px; color: #7a0e0e;">Signup</span></a>
+</div>
+
+
+
+
+
+
+</form>
+<?php 
+} else { 
+echo "<script type='text/javascript'> document.location = 'form.php'; </script>";
+	} 
+
+?>
+
+</div>
+</div>
+</div>
+		
+	</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+</html>
