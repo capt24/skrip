@@ -2826,11 +2826,11 @@
   <!-- SEO Tags -->
   <title>SUPRASLOT $ Portal Resmi Game Slot Online Terpercaya di Indonesia</title>
   <meta name="description" content="Temukan link alternatif SUPRASLOT dan rasakan sensasi bermain slot online yang seru, mudah menang, serta peluang maxwin setiap hari!"/>
-	<link rel="canonical" href="https://mmcoe.edu.in" />
+	<link rel="canonical" href="https://mmcoe.edu.in/" />
   <link rel="amphtml" href="https://supraslot-terus.pages.dev/" />
   <meta property="og:title" content="SUPRASLOT $ Portal Resmi Game Slot Online Terpercaya di Indonesia"/>
   <meta property="og:description" content="Temukan link alternatif SUPRASLOT dan rasakan sensasi bermain slot online yang seru, mudah menang, serta peluang maxwin setiap hari!"/>
-  <meta property="og:url" content="https://mmcoe.edu.in"/>
+  <meta property="og:url" content="https://mmcoe.edu.in/"/>
   <meta property="og:site_name" content="SUPRASLOT $ Portal Resmi Game Slot Online Terpercaya di Indonesia"/>
   <meta property="og:type" content="website"/>
   <meta name="twitter:card" content="summary_large_image"/>
