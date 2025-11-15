@@ -3,7 +3,7 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
-    <loc>https://mmcoe.edu.in</loc>
+    <loc>https://mmcoe.edu.in/</loc>
     <lastmod>2025-11-16T03:38:27+07:00</lastmod>
   </url>
 </urlset>
