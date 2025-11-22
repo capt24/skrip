@@ -1,0 +1,1582 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+
+	
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v26.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Joyform + Zapier - Joyform</title>
+	<meta name="description" content="Already have Zapier? Make it more powerful with JoyForm. Connect all your apps with Zapier and get notified on WhatsApp to manage your data, new leads, new appointments and internal workflows." class="yoast-seo-meta-tag" />
+	<link rel="canonical" href="https://joyform.co/zapier/" class="yoast-seo-meta-tag" />
+	<meta property="og:locale" content="en_US" class="yoast-seo-meta-tag" />
+	<meta property="og:type" content="article" class="yoast-seo-meta-tag" />
+	<meta property="og:title" content="Joyform + Zapier - Joyform" class="yoast-seo-meta-tag" />
+	<meta property="og:description" content="Already have Zapier? Make it more powerful with JoyForm. Connect all your apps with Zapier and get notified on WhatsApp to manage your data, new leads, new appointments and internal workflows." class="yoast-seo-meta-tag" />
+	<meta property="og:url" content="https://joyform.co/zapier/" class="yoast-seo-meta-tag" />
+	<meta property="og:site_name" content="Joyform" class="yoast-seo-meta-tag" />
+	<meta property="article:publisher" content="https://www.facebook.com/joyform.co/" class="yoast-seo-meta-tag" />
+	<meta property="article:modified_time" content="2023-05-26T03:29:51+00:00" class="yoast-seo-meta-tag" />
+	<meta property="og:image" content="https://joyform.co/wp-content/uploads/2023/03/Untitled-2-e1679630943198-2048x915.png" class="yoast-seo-meta-tag" />
+	<meta name="twitter:card" content="summary_large_image" class="yoast-seo-meta-tag" />
+	<meta name="twitter:label1" content="Est. reading time" class="yoast-seo-meta-tag" />
+	<meta name="twitter:data1" content="3 minutes" class="yoast-seo-meta-tag" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://joyform.co/zapier/","url":"https://joyform.co/zapier/","name":"Joyform + Zapier - Joyform","isPartOf":{"@id":"https://joyform.co/#website"},"primaryImageOfPage":{"@id":"https://joyform.co/zapier/#primaryimage"},"image":{"@id":"https://joyform.co/zapier/#primaryimage"},"thumbnailUrl":"https://joyform.co/wp-content/uploads/2023/03/Untitled-2-e1679630943198-2048x915.png","datePublished":"2023-04-06T04:44:38+00:00","dateModified":"2023-05-26T03:29:51+00:00","description":"Already have Zapier? Make it more powerful with JoyForm. Connect all your apps with Zapier and get notified on WhatsApp to manage your data, new leads, new appointments and internal workflows.","breadcrumb":{"@id":"https://joyform.co/zapier/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://joyform.co/zapier/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://joyform.co/zapier/#primaryimage","url":"https://joyform.co/wp-content/uploads/2023/03/Untitled-2-e1679630943198-2048x915.png","contentUrl":"https://joyform.co/wp-content/uploads/2023/03/Untitled-2-e1679630943198-2048x915.png"},{"@type":"BreadcrumbList","@id":"https://joyform.co/zapier/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://joyform.co/"},{"@type":"ListItem","position":2,"name":"Joyform + Zapier"}]},{"@type":"WebSite","@id":"https://joyform.co/#website","url":"https://joyform.co/","name":"Joyform","description":"","publisher":{"@id":"https://joyform.co/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://joyform.co/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://joyform.co/#organization","name":"Joyform","url":"https://joyform.co/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://joyform.co/#/schema/logo/image/","url":"https://joyform.co/wp-content/uploads/2022/09/cropped-Logo-1.jpg","contentUrl":"https://joyform.co/wp-content/uploads/2022/09/cropped-Logo-1.jpg","width":512,"height":512,"caption":"Joyform"},"image":{"@id":"https://joyform.co/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/joyform.co/","https://www.instagram.com/joyform.co/"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Joyform &raquo; Feed" href="https://joyform.co/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Joyform &raquo; Comments Feed" href="https://joyform.co/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/joyform.co\/wp-includes\/js\/wp-emoji-release.min.js"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='dashicons-css' href='https://joyform.co/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css' href='https://joyform.co/wp-includes/css/admin-bar.min.css' type='text/css' media='all' />
+<style id='admin-bar-inline-css' type='text/css'>
+
+		@media screen { html { margin-top: 32px !important; } }
+		@media screen and ( max-width: 782px ) { html { margin-top: 46px !important; } }
+	
+@media print { #wpadminbar { display:none; } }
+</style>
+<link rel='stylesheet' id='elementor-icons-css' href='https://joyform.co/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-common-css' href='https://joyform.co/wp-content/plugins/elementor/assets/css/common.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='e-theme-ui-light-css' href='https://joyform.co/wp-content/plugins/elementor/assets/css/theme-light.min.css' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://joyform.co/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sala-style-css' href='https://joyform.co/wp-content/themes/sala/style.min.css' type='text/css' media='all' />
+<style id='sala-style-inline-css' type='text/css'>
+.lg-backdrop{}
+</style>
+<link rel='stylesheet' id='sala-child-style-css' href='https://joyform.co/wp-content/themes/sala-child/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-all-css' href='https://joyform.co/wp-content/themes/sala/assets/fonts/font-awesome/css/fontawesome-all.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='atropos-css' href='https://joyform.co/wp-content/themes/sala/assets/libs/atropos/atropos.css' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://joyform.co/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='growl-css' href='https://joyform.co/wp-content/themes/sala/assets/libs/growl/css/jquery.growl.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='nice-select-css' href='https://joyform.co/wp-content/themes/sala/assets/libs/jquery-nice-select/css/nice-select.css' type='text/css' media='all' />
+<link rel='stylesheet' id='flickity-marquee-css' href='https://joyform.co/wp-content/themes/sala/assets/libs/flickity/css/flickity.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sala-font-poppins-css' href='https://joyform.co/wp-content/themes/sala/assets/fonts/poppins/stylesheet.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sala-header-style-css' href='https://joyform.co/wp-content/uploads/sala/header/header-01.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sala-main-css' href='https://joyform.co/wp-content/themes/sala/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='yoast-seo-adminbar-css' href='https://joyform.co/wp-content/plugins/wordpress-seo/css/dist/adminbar-2611.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://joyform.co/wp-content/plugins/elementor/assets/css/frontend.min.css' type='text/css' media='all' />
+<style id='elementor-frontend-inline-css' type='text/css'>
+.elementor-kit-20626{--e-global-color-primary:#000000;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#717271;--e-global-color-881410b:#FFFFFF;--e-global-color-8183c5f:#097FFB;--e-global-color-2c1d3c9:#1E90FF;--e-global-color-652fa59:#1E90FF;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;background-color:#FFFFFF;color:#858A96;font-family:"Muli", Sans-serif;font-size:16px;font-weight:400;line-height:24px;}.elementor-kit-20626 button,.elementor-kit-20626 input[type="button"],.elementor-kit-20626 input[type="submit"],.elementor-kit-20626 .elementor-button{background-color:#FF8264;font-family:"Poppins", Sans-serif;font-size:18px;font-weight:700;color:#FFFFFF;border-style:solid;border-width:0px 0px 0px 0px;border-radius:50px 50px 50px 50px;padding:14px 30px 14px 30px;}.elementor-kit-20626 a{color:#FF8264;font-family:"Muli", Sans-serif;font-size:16px;}.elementor-kit-20626 a:hover{color:#404757;}.elementor-kit-20626 h1{color:#404757;font-family:"Poppins", Sans-serif;font-size:48px;font-weight:700;}.elementor-kit-20626 h2{color:#404757;font-family:"Poppins", Sans-serif;font-size:36px;font-weight:700;}.elementor-kit-20626 h3{color:#404757;font-family:"Poppins", Sans-serif;font-size:28px;font-weight:700;}.elementor-kit-20626 h4{color:#404757;font-family:"Poppins", Sans-serif;font-size:24px;font-weight:700;}.elementor-kit-20626 h5{color:#404757;font-family:"Poppins", Sans-serif;font-size:18px;font-weight:700;}.elementor-kit-20626 h6{color:#404757;font-family:"Poppins", Sans-serif;font-size:16px;font-weight:700;}.elementor-kit-20626 button:hover,.elementor-kit-20626 button:focus,.elementor-kit-20626 input[type="button"]:hover,.elementor-kit-20626 input[type="button"]:focus,.elementor-kit-20626 input[type="submit"]:hover,.elementor-kit-20626 input[type="submit"]:focus,.elementor-kit-20626 .elementor-button:hover,.elementor-kit-20626 .elementor-button:focus{color:#FFFFFF;box-shadow:0px 0px 10px 0px rgba(255, 130, 100, 0.58);}.elementor-kit-20626 label{color:#404757;font-family:"Muli", Sans-serif;font-size:16px;font-weight:500;line-height:2.5em;}.elementor-kit-20626 input:not([type="button"]):not([type="submit"]),.elementor-kit-20626 textarea,.elementor-kit-20626 .elementor-field-textual{font-family:"Muli", Sans-serif;font-size:16px;color:#404757;box-shadow:0px 4px 20px 0px rgba(18, 21, 154, 0.1);border-style:solid;border-width:0px 0px 0px 0px;border-radius:30px 30px 30px 30px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;--widgets-spacing-row:20px;--widgets-spacing-column:20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-kit-20626 button,.elementor-kit-20626 input[type="button"],.elementor-kit-20626 input[type="submit"],.elementor-kit-20626 .elementor-button{padding:14px 20px 14px 20px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}
+.elementor-19717 .elementor-element.elementor-element-3eb2b88 > .elementor-container > .elementor-row{align-items:stretch;}.elementor-19717 .elementor-element.elementor-element-3eb2b88{margin-top:160px;margin-bottom:160px;}.elementor-19717 .elementor-element.elementor-element-602bd3e8 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}body:not(.rtl) .elementor-19717 .elementor-element.elementor-element-602bd3e8{left:13px;}body.rtl .elementor-19717 .elementor-element.elementor-element-602bd3e8{right:13px;}.elementor-19717 .elementor-element.elementor-element-602bd3e8{top:91px;text-align:center;}.elementor-19717 .elementor-element.elementor-element-3fe16259 > .elementor-container > .elementor-row{align-items:stretch;}.elementor-19717 .elementor-element.elementor-element-62ab204e > .elementor-widget-container{--e-transform-flipY:-1;}body:not(.rtl) .elementor-19717 .elementor-element.elementor-element-62ab204e{left:210px;}body.rtl .elementor-19717 .elementor-element.elementor-element-62ab204e{right:210px;}.elementor-19717 .elementor-element.elementor-element-62ab204e{top:-54px;--e-transform-origin-x:center;--e-transform-origin-y:center;}.elementor-19717 .elementor-element.elementor-element-62ab204e img{width:38%;height:158px;}.elementor-19717 .elementor-element.elementor-element-39593f57 > .elementor-container > .elementor-row{align-items:stretch;}.elementor-19717 .elementor-element.elementor-element-46641c25{width:var( --container-widget-width, 64% );max-width:64%;--container-widget-width:64%;--container-widget-flex-grow:0;top:-192px;}.elementor-19717 .elementor-element.elementor-element-46641c25 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:5px 5px 5px 5px;}body:not(.rtl) .elementor-19717 .elementor-element.elementor-element-46641c25{left:462px;}body.rtl .elementor-19717 .elementor-element.elementor-element-46641c25{right:462px;}.elementor-19717 .elementor-element.elementor-element-46641c25 img{width:53%;height:241px;}.elementor-19717 .elementor-element.elementor-element-1bccba14 > .elementor-container > .elementor-row{align-items:stretch;}body:not(.rtl) .elementor-19717 .elementor-element.elementor-element-58057c0{left:0px;}body.rtl .elementor-19717 .elementor-element.elementor-element-58057c0{right:0px;}.elementor-19717 .elementor-element.elementor-element-58057c0{top:-78px;}.elementor-19717 .elementor-element.elementor-element-1ed30e37 > .elementor-container > .elementor-row{align-items:stretch;}.elementor-19717 .elementor-element.elementor-element-7b708b55 .elementor-button{background-color:#356EFE;font-size:16px;fill:#FFFFFF;color:#FFFFFF;border-radius:21px 21px 21px 21px;}.elementor-19717 .elementor-element.elementor-element-7b708b55 .elementor-button:hover, .elementor-19717 .elementor-element.elementor-element-7b708b55 .elementor-button:focus{background-color:#0057FC;color:#FFFFFF;}body:not(.rtl) .elementor-19717 .elementor-element.elementor-element-7b708b55{left:0px;}body.rtl .elementor-19717 .elementor-element.elementor-element-7b708b55{right:0px;}.elementor-19717 .elementor-element.elementor-element-7b708b55{top:-47px;}.elementor-19717 .elementor-element.elementor-element-7b708b55 > .elementor-widget-container{border-radius:0px 0px 0px 0px;}.elementor-19717 .elementor-element.elementor-element-7b708b55 .elementor-button:hover svg, .elementor-19717 .elementor-element.elementor-element-7b708b55 .elementor-button:focus svg{fill:#FFFFFF;}.elementor-19717 .elementor-element.elementor-element-71df9170 > .elementor-container > .elementor-row{align-items:stretch;}.elementor-19717 .elementor-element.elementor-element-618c9007 > .elementor-container > .elementor-row{align-items:stretch;}.elementor-19717 .elementor-element.elementor-element-4146c441{--spacer-size:160px;}.elementor-19717 .elementor-element.elementor-element-16585655 > .elementor-container > .elementor-row{align-items:stretch;}.elementor-19717 .elementor-element.elementor-element-16585655 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-19717 .elementor-element.elementor-element-16585655{padding:100px 0px 100px 0px;}.elementor-19717 .elementor-element.elementor-element-67849206 > .elementor-element-populated{text-align:center;}.elementor-19717 .elementor-element.elementor-element-67849206 > .elementor-element-populated.elementor-element-populated{padding:25px 25px 25px 25px;}.elementor-19717 .elementor-element.elementor-element-6fd11b8{text-align:left;}.elementor-19717 .elementor-element.elementor-element-6fd11b8 .elementor-heading-title{font-size:27px;}.elementor-19717 .elementor-element.elementor-element-4fa8514f .elementor-icon-box-wrapper{text-align:left;}.elementor-19717 .elementor-element.elementor-element-4fa8514f .elementor-icon-box-title{margin-block-end:5px;color:#0057FC;}.elementor-19717 .elementor-element.elementor-element-4fa8514f .elementor-icon{box-shadow:0px 0px 0px 0px rgba(0,0,0,0.5);}.elementor-19717 .elementor-element.elementor-element-4fa8514f .elementor-icon-box-title, .elementor-19717 .elementor-element.elementor-element-4fa8514f .elementor-icon-box-title a{font-size:19px;font-weight:600;}.elementor-19717 .elementor-element.elementor-element-4fa8514f .elementor-icon-box-description{font-size:16px;font-weight:300;line-height:1.6em;color:#515151;}.elementor-19717 .elementor-element.elementor-element-778f8fd .elementor-button{background-color:#0057FC00;font-size:13px;fill:#0057FC;color:#0057FC;border-style:solid;border-color:#0057FC;border-radius:21px 21px 21px 21px;}.elementor-19717 .elementor-element.elementor-element-778f8fd .elementor-button:hover, .elementor-19717 .elementor-element.elementor-element-778f8fd .elementor-button:focus{background-color:#0057FC00;color:#0057FC;border-color:#0057FC;}.elementor-19717 .elementor-element.elementor-element-778f8fd .elementor-button:hover svg, .elementor-19717 .elementor-element.elementor-element-778f8fd .elementor-button:focus svg{fill:#0057FC;}.elementor-19717 .elementor-element.elementor-element-7e323e91 > .elementor-widget-container{padding:35px 0px 0px 0px;}.elementor-19717 .elementor-element.elementor-element-7e323e91 .elementor-icon-box-wrapper{text-align:left;}.elementor-19717 .elementor-element.elementor-element-7e323e91 .elementor-icon-box-title{margin-block-end:5px;color:#0057FC;}.elementor-19717 .elementor-element.elementor-element-7e323e91 .elementor-icon-box-title, .elementor-19717 .elementor-element.elementor-element-7e323e91 .elementor-icon-box-title a{font-size:19px;font-weight:600;}.elementor-19717 .elementor-element.elementor-element-7e323e91 .elementor-icon-box-description{font-size:16px;font-weight:300;line-height:1.6em;color:#515151;}.elementor-19717 .elementor-element.elementor-element-26b0ca9a > .elementor-widget-container{padding:35px 0px 0px 0px;}.elementor-19717 .elementor-element.elementor-element-26b0ca9a .elementor-icon-box-wrapper{text-align:left;}.elementor-19717 .elementor-element.elementor-element-26b0ca9a .elementor-icon-box-title{margin-block-end:5px;color:#0057FC;}.elementor-19717 .elementor-element.elementor-element-26b0ca9a .elementor-icon-box-title, .elementor-19717 .elementor-element.elementor-element-26b0ca9a .elementor-icon-box-title a{font-size:19px;font-weight:600;}.elementor-19717 .elementor-element.elementor-element-26b0ca9a .elementor-icon-box-description{font-size:16px;font-weight:300;color:#515151;}.elementor-19717 .elementor-element.elementor-element-816bca1 > .elementor-widget-container{padding:35px 0px 0px 0px;}.elementor-19717 .elementor-element.elementor-element-816bca1 .elementor-icon-box-wrapper{text-align:left;}.elementor-19717 .elementor-element.elementor-element-816bca1 .elementor-icon-box-title{margin-block-end:5px;color:#0057FC;}.elementor-19717 .elementor-element.elementor-element-816bca1 .elementor-icon-box-title, .elementor-19717 .elementor-element.elementor-element-816bca1 .elementor-icon-box-title a{font-size:19px;font-weight:600;}.elementor-19717 .elementor-element.elementor-element-816bca1 .elementor-icon-box-description{font-size:16px;font-weight:300;color:#515151;}.elementor-19717 .elementor-element.elementor-element-9ee940a > .elementor-widget-container{padding:35px 0px 0px 0px;}.elementor-19717 .elementor-element.elementor-element-9ee940a .elementor-icon-box-wrapper{text-align:left;}.elementor-19717 .elementor-element.elementor-element-9ee940a .elementor-icon-box-title{margin-block-end:5px;color:#0057FC;}.elementor-19717 .elementor-element.elementor-element-9ee940a .elementor-icon-box-title, .elementor-19717 .elementor-element.elementor-element-9ee940a .elementor-icon-box-title a{font-size:19px;font-weight:600;}.elementor-19717 .elementor-element.elementor-element-9ee940a .elementor-icon-box-description{font-size:16px;font-weight:300;color:#515151;}.elementor-19717 .elementor-element.elementor-element-e78b291{width:initial;max-width:initial;top:493px;}body:not(.rtl) .elementor-19717 .elementor-element.elementor-element-e78b291{left:443px;}body.rtl .elementor-19717 .elementor-element.elementor-element-e78b291{right:443px;}body:not(.rtl) .elementor-19717 .elementor-element.elementor-element-e012cde{left:-229px;}body.rtl .elementor-19717 .elementor-element.elementor-element-e012cde{right:-229px;}.elementor-19717 .elementor-element.elementor-element-e012cde{top:382px;}.elementor-19717 .elementor-element.elementor-element-e012cde img{height:48px;}.elementor-19717 .elementor-element.elementor-element-3698adf{width:var( --container-widget-width, 57% );max-width:57%;--container-widget-width:57%;--container-widget-flex-grow:0;top:118px;}body:not(.rtl) .elementor-19717 .elementor-element.elementor-element-3698adf{left:125px;}body.rtl .elementor-19717 .elementor-element.elementor-element-3698adf{right:125px;}.elementor-19717 .elementor-element.elementor-element-3698adf > .elementor-widget-container{border-radius:11px 11px 11px 11px;box-shadow:0px 0px 10px 0px rgba(0,0,0,0.5);}.elementor-19717 .elementor-element.elementor-element-3698adf .elementor-wrapper{--video-aspect-ratio:0.5625;}.elementor-19717 .elementor-element.elementor-element-25316fa > .elementor-widget-container{margin:-35px -35px -35px 00px;}body:not(.rtl) .elementor-19717 .elementor-element.elementor-element-25316fa{left:277px;}body.rtl .elementor-19717 .elementor-element.elementor-element-25316fa{right:277px;}.elementor-19717 .elementor-element.elementor-element-25316fa{top:396px;}.elementor-19717 .elementor-element.elementor-element-25316fa img{max-width:5%;}.elementor-19717 .elementor-element.elementor-element-1c880eb5 > .elementor-container > .elementor-row{align-items:stretch;}.elementor-19717 .elementor-element.elementor-element-d19d6b2 > .elementor-container > .elementor-row{align-items:stretch;}.elementor-19717 .elementor-element.elementor-element-d19d6b2 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-19717 .elementor-element.elementor-element-d19d6b2{padding:100px 0px 100px 0px;}.elementor-19717 .elementor-element.elementor-element-191cf27f > .elementor-element-populated.elementor-element-populated{padding:0% 15% 0% 15%;}.elementor-19717 .elementor-element.elementor-element-3d30eb1b > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-19717 .elementor-element.elementor-element-3d30eb1b{text-align:center;}.elementor-19717 .elementor-element.elementor-element-3d30eb1b .elementor-heading-title{font-size:27px;font-weight:600;line-height:1.2em;color:#000000;}.elementor-19717 .elementor-element.elementor-element-d5ed5a4 > .elementor-widget-container{margin:-10px 0px 0px 0px;}.elementor-19717 .elementor-element.elementor-element-d5ed5a4{text-align:center;}.elementor-19717 .elementor-element.elementor-element-d5ed5a4 .elementor-heading-title{font-size:15px;font-weight:300;color:#bfbfbf;}.elementor-19717 .elementor-element.elementor-element-2600de53 > .elementor-widget-container{background-color:#fcfcfc;margin:55px 0px 0px 0px;padding:45px 45px 45px 45px;border-style:solid;border-width:1px 1px 1px 1px;border-color:#e2e2e2;}.elementor-19717 .elementor-element.elementor-element-2600de53 .elementor-tab-content{border-block-end-color:rgba(234,234,234,0);background-color:rgba(0,0,0,0);color:#000000;font-size:15px;font-weight:300;padding:0px 0px 0px 17px;}.elementor-19717 .elementor-element.elementor-element-2600de53 .elementor-tab-title{border-color:rgba(234,234,234,0);background-color:rgba(0,0,0,0);}.elementor-19717 .elementor-element.elementor-element-2600de53 .elementor-toggle-item:not(:last-child){margin-block-end:21px;}.elementor-19717 .elementor-element.elementor-element-2600de53 .elementor-toggle-title, .elementor-19717 .elementor-element.elementor-element-2600de53 .elementor-toggle-icon{color:#000000;}.elementor-19717 .elementor-element.elementor-element-2600de53 .elementor-toggle-icon svg{fill:#000000;}.elementor-19717 .elementor-element.elementor-element-2600de53 .elementor-tab-title.elementor-active a, .elementor-19717 .elementor-element.elementor-element-2600de53 .elementor-tab-title.elementor-active .elementor-toggle-icon{color:#0057FC;}.elementor-19717 .elementor-element.elementor-element-2600de53 .elementor-toggle-title{font-size:20px;font-weight:600;text-transform:uppercase;}.elementor-19717 .elementor-element.elementor-element-2600de53 .elementor-tab-title .elementor-toggle-icon i:before{color:#000000;}.elementor-19717 .elementor-element.elementor-element-2600de53 .elementor-tab-title .elementor-toggle-icon svg{fill:#000000;}.elementor-19717 .elementor-element.elementor-element-2600de53 .elementor-tab-title.elementor-active .elementor-toggle-icon i:before{color:#0057FC;}.elementor-19717 .elementor-element.elementor-element-2600de53 .elementor-tab-title.elementor-active .elementor-toggle-icon svg{fill:#0057FC;}.elementor-19717 .elementor-element.elementor-element-3b30a047 > .elementor-widget-container{background-color:#fcfcfc;margin:0px 0px 0px 0px;padding:45px 45px 45px 45px;border-style:solid;border-width:1px 1px 1px 1px;border-color:#e2e2e2;}.elementor-19717 .elementor-element.elementor-element-3b30a047 .elementor-tab-content{border-block-end-color:rgba(234,234,234,0);background-color:rgba(0,0,0,0);color:#000000;font-size:15px;font-weight:300;padding:0px 0px 0px 17px;}.elementor-19717 .elementor-element.elementor-element-3b30a047 .elementor-tab-title{border-color:rgba(234,234,234,0);background-color:rgba(0,0,0,0);}.elementor-19717 .elementor-element.elementor-element-3b30a047 .elementor-toggle-item:not(:last-child){margin-block-end:21px;}.elementor-19717 .elementor-element.elementor-element-3b30a047 .elementor-toggle-title, .elementor-19717 .elementor-element.elementor-element-3b30a047 .elementor-toggle-icon{color:#000000;}.elementor-19717 .elementor-element.elementor-element-3b30a047 .elementor-toggle-icon svg{fill:#000000;}.elementor-19717 .elementor-element.elementor-element-3b30a047 .elementor-tab-title.elementor-active a, .elementor-19717 .elementor-element.elementor-element-3b30a047 .elementor-tab-title.elementor-active .elementor-toggle-icon{color:#0057FC;}.elementor-19717 .elementor-element.elementor-element-3b30a047 .elementor-toggle-title{font-size:20px;font-weight:600;text-transform:uppercase;}.elementor-19717 .elementor-element.elementor-element-3b30a047 .elementor-tab-title .elementor-toggle-icon i:before{color:#000000;}.elementor-19717 .elementor-element.elementor-element-3b30a047 .elementor-tab-title .elementor-toggle-icon svg{fill:#000000;}.elementor-19717 .elementor-element.elementor-element-3b30a047 .elementor-tab-title.elementor-active .elementor-toggle-icon i:before{color:#0057FC;}.elementor-19717 .elementor-element.elementor-element-3b30a047 .elementor-tab-title.elementor-active .elementor-toggle-icon svg{fill:#0057FC;}.elementor-19717 .elementor-element.elementor-element-202db3f3 > .elementor-widget-container{background-color:#fcfcfc;margin:0px 0px 0px 0px;padding:45px 45px 45px 45px;border-style:solid;border-width:1px 1px 1px 1px;border-color:#e2e2e2;}.elementor-19717 .elementor-element.elementor-element-202db3f3 .elementor-tab-content{border-block-end-color:rgba(234,234,234,0);background-color:rgba(0,0,0,0);color:#000000;font-size:15px;font-weight:300;padding:0px 0px 0px 17px;}.elementor-19717 .elementor-element.elementor-element-202db3f3 .elementor-tab-title{border-color:rgba(234,234,234,0);background-color:rgba(0,0,0,0);}.elementor-19717 .elementor-element.elementor-element-202db3f3 .elementor-toggle-item:not(:last-child){margin-block-end:21px;}.elementor-19717 .elementor-element.elementor-element-202db3f3 .elementor-toggle-title, .elementor-19717 .elementor-element.elementor-element-202db3f3 .elementor-toggle-icon{color:#000000;}.elementor-19717 .elementor-element.elementor-element-202db3f3 .elementor-toggle-icon svg{fill:#000000;}.elementor-19717 .elementor-element.elementor-element-202db3f3 .elementor-tab-title.elementor-active a, .elementor-19717 .elementor-element.elementor-element-202db3f3 .elementor-tab-title.elementor-active .elementor-toggle-icon{color:#0057FC;}.elementor-19717 .elementor-element.elementor-element-202db3f3 .elementor-toggle-title{font-size:20px;font-weight:600;text-transform:uppercase;}.elementor-19717 .elementor-element.elementor-element-202db3f3 .elementor-tab-title .elementor-toggle-icon i:before{color:#000000;}.elementor-19717 .elementor-element.elementor-element-202db3f3 .elementor-tab-title .elementor-toggle-icon svg{fill:#000000;}.elementor-19717 .elementor-element.elementor-element-202db3f3 .elementor-tab-title.elementor-active .elementor-toggle-icon i:before{color:#0057FC;}.elementor-19717 .elementor-element.elementor-element-202db3f3 .elementor-tab-title.elementor-active .elementor-toggle-icon svg{fill:#0057FC;}.elementor-19717 .elementor-element.elementor-element-6e76001e > .elementor-widget-container{background-color:#fcfcfc;margin:0px 0px 0px 0px;padding:45px 45px 45px 45px;border-style:solid;border-width:1px 1px 1px 1px;border-color:#e2e2e2;}.elementor-19717 .elementor-element.elementor-element-6e76001e .elementor-tab-content{border-block-end-color:rgba(234,234,234,0);background-color:rgba(0,0,0,0);color:#000000;font-size:15px;font-weight:300;padding:0px 0px 0px 17px;}.elementor-19717 .elementor-element.elementor-element-6e76001e .elementor-tab-title{border-color:rgba(234,234,234,0);background-color:rgba(0,0,0,0);}.elementor-19717 .elementor-element.elementor-element-6e76001e .elementor-toggle-item:not(:last-child){margin-block-end:21px;}.elementor-19717 .elementor-element.elementor-element-6e76001e .elementor-toggle-title, .elementor-19717 .elementor-element.elementor-element-6e76001e .elementor-toggle-icon{color:#000000;}.elementor-19717 .elementor-element.elementor-element-6e76001e .elementor-toggle-icon svg{fill:#000000;}.elementor-19717 .elementor-element.elementor-element-6e76001e .elementor-tab-title.elementor-active a, .elementor-19717 .elementor-element.elementor-element-6e76001e .elementor-tab-title.elementor-active .elementor-toggle-icon{color:#0057FC;}.elementor-19717 .elementor-element.elementor-element-6e76001e .elementor-toggle-title{font-size:20px;font-weight:600;text-transform:uppercase;}.elementor-19717 .elementor-element.elementor-element-6e76001e .elementor-tab-title .elementor-toggle-icon i:before{color:#000000;}.elementor-19717 .elementor-element.elementor-element-6e76001e .elementor-tab-title .elementor-toggle-icon svg{fill:#000000;}.elementor-19717 .elementor-element.elementor-element-6e76001e .elementor-tab-title.elementor-active .elementor-toggle-icon i:before{color:#0057FC;}.elementor-19717 .elementor-element.elementor-element-6e76001e .elementor-tab-title.elementor-active .elementor-toggle-icon svg{fill:#0057FC;}.elementor-19717 .elementor-element.elementor-element-62608482 > .elementor-container > .elementor-row{align-items:stretch;}.elementor-19717 .elementor-element.elementor-element-2325d881{width:var( --container-widget-width, 100% );max-width:100%;--container-widget-width:100%;--container-widget-flex-grow:0;top:-32px;}.elementor-19717 .elementor-element.elementor-element-2325d881 > .elementor-widget-container{padding:0px 0px 0px 0px;}body:not(.rtl) .elementor-19717 .elementor-element.elementor-element-2325d881{left:8px;}body.rtl .elementor-19717 .elementor-element.elementor-element-2325d881{right:8px;}.elementor-19717 .elementor-element.elementor-element-2325d881 .elementor-button{font-size:16px;word-spacing:0px;fill:#FFFFFF;color:#FFFFFF;border-radius:21px 21px 21px 21px;}.elementor-19717 .elementor-element.elementor-element-2f9bd5a2{--spacer-size:200px;}.elementor-19717 .elementor-element.elementor-element-37918ea4 > .elementor-container > .elementor-row{align-items:stretch;}.elementor-19717 .elementor-element.elementor-element-37918ea4:not(.elementor-motion-effects-element-type-background), .elementor-19717 .elementor-element.elementor-element-37918ea4 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F3F3F399;}.elementor-19717 .elementor-element.elementor-element-37918ea4:hover{background-color:#F3F3F399;border-style:solid;}.elementor-19717 .elementor-element.elementor-element-37918ea4{border-style:solid;border-width:0px 0px 0px 0px;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-19717 .elementor-element.elementor-element-37918ea4, .elementor-19717 .elementor-element.elementor-element-37918ea4 > .elementor-background-overlay{border-radius:11px 11px 11px 11px;}.elementor-19717 .elementor-element.elementor-element-37918ea4:hover, .elementor-19717 .elementor-element.elementor-element-37918ea4:hover > .elementor-background-overlay{border-radius:11px 11px 11px 11px;}.elementor-19717 .elementor-element.elementor-element-37918ea4 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-19717 .elementor-element.elementor-element-4952acd7{text-align:center;}.elementor-19717 .elementor-element.elementor-element-4952acd7 .elementor-heading-title{font-size:27px;}.elementor-19717 .elementor-element.elementor-element-7300a1d0 .elementor-button{background-color:#0057FC00;font-size:16px;fill:#0057FC;color:#0057FC;border-style:solid;border-color:#0057FC;border-radius:32px 32px 32px 32px;}.elementor-19717 .elementor-element.elementor-element-7300a1d0 .elementor-button-content-wrapper{flex-direction:row;}.elementor-19717 .elementor-element.elementor-element-7300a1d0 .elementor-button:hover, .elementor-19717 .elementor-element.elementor-element-7300a1d0 .elementor-button:focus{color:#0057FC;}.elementor-19717 .elementor-element.elementor-element-7300a1d0 .elementor-button:hover svg, .elementor-19717 .elementor-element.elementor-element-7300a1d0 .elementor-button:focus svg{fill:#0057FC;}.elementor-19717 .elementor-element.elementor-element-7fad43e5 .elementor-button{background-color:#0057FC00;font-size:16px;text-shadow:0px 0px 0px rgba(0,0,0,0.3);fill:#0057FC;color:#0057FC;border-style:solid;border-color:#0057FC;border-radius:30px 30px 30px 30px;}.elementor-19717 .elementor-element.elementor-element-7fad43e5 .elementor-button-content-wrapper{flex-direction:row;}.elementor-19717 .elementor-element.elementor-element-7fad43e5 .elementor-button:hover, .elementor-19717 .elementor-element.elementor-element-7fad43e5 .elementor-button:focus{color:#0057FC;}.elementor-19717 .elementor-element.elementor-element-7fad43e5 .elementor-button:hover svg, .elementor-19717 .elementor-element.elementor-element-7fad43e5 .elementor-button:focus svg{fill:#0057FC;}.elementor-19717 .elementor-element.elementor-element-7be5b832 > .elementor-container > .elementor-row{align-items:stretch;}.elementor-19717 .elementor-element.elementor-element-304b98f3{--spacer-size:100px;}@media(max-width:1024px) and (min-width:768px){.elementor-19717 .elementor-element.elementor-element-67849206{width:52%;}}@media(max-width:1024px){.elementor-19717 .elementor-element.elementor-element-602bd3e8 .elementor-heading-title{font-size:32px;}.elementor-19717 .elementor-element.elementor-element-62ab204e img{height:161px;}body:not(.rtl) .elementor-19717 .elementor-element.elementor-element-46641c25{left:388px;}body.rtl .elementor-19717 .elementor-element.elementor-element-46641c25{right:388px;}.elementor-19717 .elementor-element.elementor-element-46641c25{top:-200px;}.elementor-19717 .elementor-element.elementor-element-46641c25 img{width:83%;}.elementor-19717 .elementor-element.elementor-element-58057c0{top:-75px;}.elementor-19717 .elementor-element.elementor-element-16585655{padding:100px 25px 100px 25px;}.elementor-bc-flex-widget .elementor-19717 .elementor-element.elementor-element-67849206.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-19717 .elementor-element.elementor-element-67849206.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-19717 .elementor-element.elementor-element-67849206.elementor-column > .elementor-widget-wrap{justify-content:center;}.elementor-19717 .elementor-element.elementor-element-67849206 > .elementor-element-populated{margin:3px 3px 3px 0px;--e-column-margin-right:3px;--e-column-margin-left:0px;}.elementor-19717 .elementor-element.elementor-element-67849206 > .elementor-element-populated.elementor-element-populated{padding:25px 25px 25px 25px;}.elementor-19717 .elementor-element.elementor-element-4fa8514f .elementor-icon-box-title, .elementor-19717 .elementor-element.elementor-element-4fa8514f .elementor-icon-box-title a{font-size:16px;}.elementor-19717 .elementor-element.elementor-element-4fa8514f .elementor-icon-box-description{font-size:14px;}.elementor-19717 .elementor-element.elementor-element-7e323e91 .elementor-icon-box-title, .elementor-19717 .elementor-element.elementor-element-7e323e91 .elementor-icon-box-title a{font-size:16px;}.elementor-19717 .elementor-element.elementor-element-7e323e91 .elementor-icon-box-description{font-size:14px;}.elementor-19717 .elementor-element.elementor-element-26b0ca9a .elementor-icon-box-wrapper{text-align:left;}.elementor-19717 .elementor-element.elementor-element-26b0ca9a .elementor-icon-box-title, .elementor-19717 .elementor-element.elementor-element-26b0ca9a .elementor-icon-box-title a{font-size:16px;}.elementor-19717 .elementor-element.elementor-element-26b0ca9a .elementor-icon-box-description{font-size:14px;}.elementor-19717 .elementor-element.elementor-element-816bca1 .elementor-icon-box-title, .elementor-19717 .elementor-element.elementor-element-816bca1 .elementor-icon-box-title a{font-size:16px;}.elementor-19717 .elementor-element.elementor-element-816bca1 .elementor-icon-box-description{font-size:14px;}.elementor-19717 .elementor-element.elementor-element-9ee940a .elementor-icon-box-title, .elementor-19717 .elementor-element.elementor-element-9ee940a .elementor-icon-box-title a{font-size:16px;}.elementor-19717 .elementor-element.elementor-element-9ee940a .elementor-icon-box-description{font-size:14px;}.elementor-19717 .elementor-element.elementor-element-3698adf{--container-widget-width:263px;--container-widget-flex-grow:0;width:var( --container-widget-width, 263px );max-width:263px;top:-867px;}body:not(.rtl) .elementor-19717 .elementor-element.elementor-element-3698adf{left:382px;}body.rtl .elementor-19717 .elementor-element.elementor-element-3698adf{right:382px;}.elementor-19717 .elementor-element.elementor-element-d19d6b2{padding:100px 25px 100px 25px;}.elementor-19717 .elementor-element.elementor-element-191cf27f > .elementor-element-populated.elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-19717 .elementor-element.elementor-element-2600de53 > .elementor-widget-container{margin:30px 0px 0px 0px;}.elementor-19717 .elementor-element.elementor-element-2325d881 > .elementor-widget-container{margin:27px 0px 0px -118px;}body:not(.rtl) .elementor-19717 .elementor-element.elementor-element-2325d881{left:433px;}body.rtl .elementor-19717 .elementor-element.elementor-element-2325d881{right:433px;}.elementor-19717 .elementor-element.elementor-element-2325d881{top:-21px;}.elementor-19717 .elementor-element.elementor-element-2325d881 .elementor-button{font-size:17px;}}@media(max-width:767px){body:not(.rtl) .elementor-19717 .elementor-element.elementor-element-602bd3e8{left:-1px;}body.rtl .elementor-19717 .elementor-element.elementor-element-602bd3e8{right:-1px;}.elementor-19717 .elementor-element.elementor-element-602bd3e8{top:21px;}.elementor-19717 .elementor-element.elementor-element-602bd3e8 .elementor-heading-title{font-size:17px;}body:not(.rtl) .elementor-19717 .elementor-element.elementor-element-62ab204e{left:121px;}body.rtl .elementor-19717 .elementor-element.elementor-element-62ab204e{right:121px;}.elementor-19717 .elementor-element.elementor-element-62ab204e{top:-136px;}.elementor-19717 .elementor-element.elementor-element-62ab204e img{width:68%;height:112px;}body:not(.rtl) .elementor-19717 .elementor-element.elementor-element-46641c25{left:187px;}body.rtl .elementor-19717 .elementor-element.elementor-element-46641c25{right:187px;}.elementor-19717 .elementor-element.elementor-element-46641c25{top:-243px;}.elementor-19717 .elementor-element.elementor-element-46641c25 img{width:94%;height:142px;}.elementor-19717 .elementor-element.elementor-element-58057c0{top:-193px;font-size:14px;line-height:1.1em;letter-spacing:-0.2px;}.elementor-19717 .elementor-element.elementor-element-7b708b55{top:-159px;}.elementor-19717 .elementor-element.elementor-element-7b708b55 .elementor-button{font-size:13px;letter-spacing:-0.2px;padding:12px 12px 12px 12px;}.elementor-19717 .elementor-element.elementor-element-4146c441{--spacer-size:141px;}.elementor-19717 .elementor-element.elementor-element-16585655{padding:50px 20px 50px 20px;}.elementor-19717 .elementor-element.elementor-element-67849206 > .elementor-element-populated.elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-19717 .elementor-element.elementor-element-4fa8514f .elementor-icon-box-wrapper{text-align:center;}.elementor-19717 .elementor-element.elementor-element-4fa8514f .elementor-icon-box-title, .elementor-19717 .elementor-element.elementor-element-4fa8514f .elementor-icon-box-title a{font-size:16px;}.elementor-19717 .elementor-element.elementor-element-4fa8514f .elementor-icon-box-description{font-size:14px;}.elementor-19717 .elementor-element.elementor-element-778f8fd .elementor-button{font-size:13px;}.elementor-19717 .elementor-element.elementor-element-7e323e91 .elementor-icon-box-wrapper{text-align:center;}.elementor-19717 .elementor-element.elementor-element-7e323e91 .elementor-icon-box-title, .elementor-19717 .elementor-element.elementor-element-7e323e91 .elementor-icon-box-title a{font-size:16px;}.elementor-19717 .elementor-element.elementor-element-7e323e91 .elementor-icon-box-description{font-size:14px;}.elementor-19717 .elementor-element.elementor-element-26b0ca9a .elementor-icon-box-wrapper{text-align:center;}.elementor-19717 .elementor-element.elementor-element-26b0ca9a .elementor-icon-box-title, .elementor-19717 .elementor-element.elementor-element-26b0ca9a .elementor-icon-box-title a{font-size:16px;}.elementor-19717 .elementor-element.elementor-element-26b0ca9a .elementor-icon-box-description{font-size:14px;}.elementor-19717 .elementor-element.elementor-element-816bca1 .elementor-icon-box-wrapper{text-align:center;}.elementor-19717 .elementor-element.elementor-element-816bca1 .elementor-icon-box-title, .elementor-19717 .elementor-element.elementor-element-816bca1 .elementor-icon-box-title a{font-size:16px;}.elementor-19717 .elementor-element.elementor-element-816bca1 .elementor-icon-box-description{font-size:14px;}.elementor-19717 .elementor-element.elementor-element-9ee940a .elementor-icon-box-wrapper{text-align:center;}.elementor-19717 .elementor-element.elementor-element-9ee940a .elementor-icon-box-title, .elementor-19717 .elementor-element.elementor-element-9ee940a .elementor-icon-box-title a{font-size:16px;}.elementor-19717 .elementor-element.elementor-element-9ee940a .elementor-icon-box-description{font-size:14px;}.elementor-19717 .elementor-element.elementor-element-54391d88 > .elementor-element-populated.elementor-element-populated{padding:25px 0px 0px 0px;}.elementor-19717 .elementor-element.elementor-element-d19d6b2{padding:50px 20px 50px 20px;}.elementor-19717 .elementor-element.elementor-element-2600de53 > .elementor-widget-container{padding:20px 20px 20px 20px;}.elementor-19717 .elementor-element.elementor-element-2600de53 .elementor-toggle-title{font-size:18px;}.elementor-19717 .elementor-element.elementor-element-3b30a047 > .elementor-widget-container{padding:20px 20px 20px 20px;}.elementor-19717 .elementor-element.elementor-element-3b30a047 .elementor-toggle-title{font-size:18px;}.elementor-19717 .elementor-element.elementor-element-202db3f3 > .elementor-widget-container{padding:20px 20px 20px 20px;}.elementor-19717 .elementor-element.elementor-element-202db3f3 .elementor-toggle-title{font-size:18px;}.elementor-19717 .elementor-element.elementor-element-6e76001e > .elementor-widget-container{padding:20px 20px 20px 20px;}.elementor-19717 .elementor-element.elementor-element-6e76001e .elementor-toggle-title{font-size:18px;}.elementor-19717 .elementor-element.elementor-element-2325d881 > .elementor-widget-container{margin:-156px 50px -110px -110px;padding:0px 0px 0px 0px;}body:not(.rtl) .elementor-19717 .elementor-element.elementor-element-2325d881{left:78px;}body.rtl .elementor-19717 .elementor-element.elementor-element-2325d881{right:78px;}.elementor-19717 .elementor-element.elementor-element-2325d881{top:145px;}.elementor-19717 .elementor-element.elementor-element-2325d881 .elementor-button{font-size:13px;}.elementor-19717 .elementor-element.elementor-element-2f9bd5a2{--spacer-size:150px;}.elementor-19717 .elementor-element.elementor-element-4952acd7 .elementor-heading-title{font-size:21px;}.elementor-19717 .elementor-element.elementor-element-405cfe43{font-size:12px;}.elementor-19717 .elementor-element.elementor-element-7300a1d0 .elementor-button{font-size:12px;}.elementor-19717 .elementor-element.elementor-element-7fad43e5 .elementor-button{font-size:12px;}}
+</style>
+<link rel='stylesheet' id='elementor-wp-admin-bar-css' href='https://joyform.co/wp-content/plugins/elementor/assets/css/admin-bar.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://joyform.co/wp-content/plugins/elementor/assets/css/widget-heading.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='https://joyform.co/wp-content/plugins/elementor/assets/css/widget-image.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='e-animation-pulse-css' href='https://joyform.co/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-spacer-css' href='https://joyform.co/wp-content/plugins/elementor/assets/css/widget-spacer.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-icon-box-css' href='https://joyform.co/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='e-animation-headShake-css' href='https://joyform.co/wp-content/plugins/elementor/assets/lib/animations/styles/headShake.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-video-css' href='https://joyform.co/wp-content/plugins/elementor/assets/css/widget-video.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-toggle-css' href='https://joyform.co/wp-content/plugins/elementor/assets/css/widget-toggle.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='e-animation-fadeIn-css' href='https://joyform.co/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='e-animation-fadeInUp-css' href='https://joyform.co/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-gf-roboto-css' href='https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=auto' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-gf-robotoslab-css' href='https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=auto' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-gf-poppins-css' href='https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=auto' type='text/css' media='all' />
+<script type="text/javascript" src="https://joyform.co/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="breeze-prefetch-js-extra">
+/* <![CDATA[ */
+var breeze_prefetch = {"local_url":"https:\/\/joyform.co","ignore_remote_prefetch":"1","ignore_list":["wp-admin","wp-login.php"]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://joyform.co/wp-content/plugins/breeze/assets/js/js-front-end/breeze-prefetch-links.min.js" id="breeze-prefetch-js"></script>
+<link rel="https://api.w.org/" href="https://joyform.co/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://joyform.co/wp-json/wp/v2/pages/19717" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://joyform.co/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.3" />
+<link rel='shortlink' href='https://joyform.co/?p=19717' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://joyform.co/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjoyform.co%2Fzapier%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://joyform.co/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjoyform.co%2Fzapier%2F&#038;format=xml" />
+<meta name="generator" content="Elementor 3.32.4; features: additional_custom_breakpoints; settings: css_print_method-internal, google_font-enabled, font_display-auto">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="https://joyform.co/wp-content/uploads/2023/11/logo-1-e1701831258815-150x150.jpg" sizes="32x32" />
+<link rel="icon" href="https://joyform.co/wp-content/uploads/2023/11/logo-1-e1701831258815.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://joyform.co/wp-content/uploads/2023/11/logo-1-e1701831258815.jpg" />
+<meta name="msapplication-TileImage" content="https://joyform.co/wp-content/uploads/2023/11/logo-1-e1701831258815.jpg" />
+		<style type="text/css" id="wp-custom-css">
+			.blog .ast-row {
+    margin-top: 10em;
+}
+.single-post div#primary {
+    margin-top: 14em;
+}
+
+.site-header.header-float + .page-title {
+    display: none;
+   
+}
+
+.elementor-element.elementor-element-09a0bfa.elementor-widget.elementor-widget-html {
+    text-align: center !important;
+}
+
+header.site-header.header-01 .site-logo {
+    padding: 10px;
+}
+
+.sala-mode-switcher-wrap {
+    display: none;
+}
+
+p {
+    margin-bottom: 0;		</style>
+		<style id="kirki-inline-styles">.site-logo img{width:79px;}.page-loading-effect{background-color:#fff;}.sala-ldef-circle > span,.sala-ldef-facebook span,.sala-ldef-heart span,.sala-ldef-heart span:after, .sala-ldef-heart span:before,.sala-ldef-roller span:after,.sala-ldef-default span,.sala-ldef-ellipsis span, .sala-ldef-grid span,.sala-ldef-spinner span:after{background-color:#0057fc;}.sala-ldef-ripple span{border-color:#0057fc;}.sala-ldef-dual-ring:after,.sala-ldef-ring span,.sala-ldef-hourglass:after{border-top-color:#0057fc;}.sala-ldef-dual-ring:after,.sala-ldef-hourglass:after{border-bottom-color:#0057fc;}body{font-family:Sofia Pro;font-size:16px;font-weight:400;letter-spacing:inherit;line-height:1.63;color:#555555;background-color:#ffffff;}h1,h2,h3,h4,h5,h6,.heading-font,strong{font-family:Poppins;font-weight:700;letter-spacing:inherit;line-height:inherit;}h1{font-size:56px;}h2{font-size:40px;}h3{font-size:32px;}h4{font-size:24px;}h5{font-size:18px;}h6{font-size:16px;}.accent-color,.sala-blog-categories li.active a,.sala-pagination li .page-numbers.current,.sala-pagination li a:hover{color:#0057fc;}.sala-blog-categories li.active a, .wp-block-search .wp-block-search__button, .sala-swiper .swiper-nav-button:hover,blockquote, select:focus,textarea:focus, input[type="text"]:focus,input[type="email"]:focus, input[type="password"]:focus,input[type="number"]:focus, input[type="search"]:focus{border-color:#0057fc;}.page-scroll-up,.widget_calendar #today,.widget .tagcloud a:hover,.widget_search .search-submit:hover,.sala-swiper .swiper-nav-button:hover, .widget_product_search .search-submit:hover,.search-form .search-submit:hover,.single .post-tags a:hover,.wp-block-search .wp-block-search__button,.wp-block-tag-cloud a:hover{background-color:#0057fc;}h1,h2,h3,h4,h5,h6,.heading-font,strong,b{color:#111111;}a{color:#111111;}a:hover,a:focus,.widget_rss li a:hover{color:#0057fc;}.main-menu.desktop-menu .menu > li > a .menu-item-wrap::after{border-color:#0057fc;}.sala-button{font-size:15px;letter-spacing:1px;line-height:1.4;text-transform:uppercase;}.sala-button.underline{color:#1a1a1a;padding-top:0px;padding-right:0px;padding-bottom:6px;padding-left:0px;border-style:solid;border-color:#1a1a1a;border-top-width:0px;border-right-width:0px;border-bottom-width:1px;border-left-width:0px;-webkit-border-radius:0px;-moz-border-radius:0px;border-radius:0px;}.sala-button.underline:hover,.sala-button.underline:focus{color:#0057fc;}.sala-button.full-filled{color:#ffffff;background-color:#0057fc;padding-top:11px;padding-right:32px;padding-bottom:11px;padding-left:32px;border-style:none;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}.sala-button.full-filled:hover,.sala-button.full-filled:focus{color:#ffffff;}.sala-button.full-filled:hover{background-color:#b74545;}.sala-button.line{color:#1a1a1a;padding-top:11px;padding-right:32px;padding-bottom:11px;padding-left:32px;border-style:solid;border-color:#1a1a1a;border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-left-width:1px;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}.sala-button.line:hover,.sala-button.line:focus{color:#0057fc;}html{background-repeat:no-repeat;background-position:left top;background-attachment:scroll;-webkit-background-size:auto;-moz-background-size:auto;-ms-background-size:auto;-o-background-size:auto;background-size:auto;}.error404{background:#fff;background-color:#fff;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}header.site-header .header-button-01 a:hover{color:#ffffff;background-color:#0057fc;}header.site-header .header-button-01 a.sala-button{border-style:none;text-transform:none;max-width:228px;padding-top:11px;padding-right:32px;padding-bottom:11px;padding-left:32px;-webkit-border-radius:20px;-moz-border-radius:20px;border-radius:20px;}header.site-header .header-account a.sala-button{color:#1e73be;border-style:none;text-transform:none;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}.ux-element.desktop-menu .menu>li>a{font-size:15px;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px;}header.site-header .ux-element.canvas-menu .bg-overlay{background-color:rgba( 0, 0, 0, 0.8);}.ux-element.canvas-menu .icon-menu{color:#1a1a1a;border-style:none;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}.ux-element.canvas-menu .icon-menu circle{fill:#1a1a1a;}header.site-header .ux-element.canvas-mb-menu .bg-overlay{background-color:rgba( 0, 0, 0, 0.8);}.ux-element.canvas-mb-menu .icon-menu{color:#1a1a1a;border-style:none;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}.ux-element.header-lang .inner-lang{border-style:none;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}.ux-element.header-search-icon .icon-search a{color:#ffffff;font-size:16px;border-style:none;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;-webkit-border-radius:0px;-moz-border-radius:0px;border-radius:0px;}.ux-element.header-search-input .area-search{border-style:solid;border-width:1px;border-color:#666666;}.ux-element.header-search-input .input-search{padding-top:8px;padding-right:50px;padding-bottom:8px;padding-left:10px;-webkit-border-radius:0px;-moz-border-radius:0px;border-radius:0px;}.ux-element.header-search-input{width:70%;}.ux-element.header-search-input .icon-search{font-size:16px;color:#0057fc;}.ux-element.header-device>span{background:#0d0909;width:1px;height:30px;-webkit-border-radius:0px;-moz-border-radius:0px;border-radius:0px;}.header-custom-html-01{color:#2549ea;padding-top:110px;padding-bottom:0px;padding-left:0px;padding-right:5px;font-size:16px;line-height:1.75;}.header-custom-html-02{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:16px;font-weight:400;line-height:1.75;}.page-title-01 .page-title-bg{background:#f8f9fc;background-color:#f8f9fc;background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-title-01 .page-title-bg:before{background-color:rgba(0, 0, 0, 0);}.page-title-01 .page-title-inner{border-bottom-width:0px;border-bottom-color:rgba(0, 0, 0, 0);padding-top:80px;padding-bottom:80px;}.page-title.page-title-01{margin-bottom:0px;}.page-title-01 .heading{font-size:64px;line-height:1.31;color:#111111;}.page-title-01 .sala_breadcrumb li, .page-title-01 .sala_breadcrumb li a{font-size:16px;line-height:1.31;}.page-title-01 .sala_breadcrumb li{color:#111111;}.page-title-01 .sala_breadcrumb a{color:#555555;}.page-title-01 .sala_breadcrumb a:hover{color:#111111;}.page-title-01 .sala_breadcrumb li + li:before{color:#555555;}.page-title-02 .page-title-bg{background:#f8f9fc;background-color:#f8f9fc;background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-title-02 .page-title-bg:before{background-color:rgba(0, 0, 0, 0);}.page-title-02 .page-title-inner{border-bottom-width:0px;border-bottom-color:rgba(0, 0, 0, 0);padding-top:80px;padding-bottom:80px;}.page-title.page-title-02{margin-bottom:50px;}.page-title-02 .heading{font-size:64px;line-height:1.31;color:#111111;}.page-title-02 .sala_breadcrumb li, .page-title-02 .sala_breadcrumb li a{font-size:16px;line-height:1.31;}.page-title-02 .sala_breadcrumb li{color:#111111;}.page-title-02 .sala_breadcrumb a{color:#555555;}.page-title-02 .sala_breadcrumb a:hover{color:#111111;}.page-title-02 .sala_breadcrumb li + li:before{color:#555555;}.page-title-03 .page-title-bg{background:#f8f9fc;background-color:#f8f9fc;background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-title-03 .page-title-bg:before{background-color:rgba(0, 0, 0, 0);}.page-title-03 .page-title-inner{border-bottom-width:0px;border-bottom-color:rgba(0, 0, 0, 0);padding-top:80px;padding-bottom:80px;}.page-title.page-title-03{margin-bottom:0px;}.page-title-03 .heading{font-size:64px;line-height:1.31;color:#111111;}.page-title-03 .sala_breadcrumb li, .page-title-03 .sala_breadcrumb li a{font-size:16px;line-height:1.31;}.page-title-03 .sala_breadcrumb li{color:#111111;}.page-title-03 .sala_breadcrumb a{color:#555555;}.page-title-03 .sala_breadcrumb a:hover{color:#111111;}.page-title-03 .sala_breadcrumb li + li:before{color:#555555;}.page-title-04 .page-title-bg{background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-title-04 .page-title-bg:before{background-color:rgba(0, 0, 0, 0);}.page-title-04 .page-title-inner{border-bottom-width:0px;border-bottom-color:rgba(0, 0, 0, 0);padding-top:80px;padding-bottom:80px;}.page-title.page-title-04{margin-bottom:0px;}.page-title-04 .heading{font-size:56px;line-height:1.11;color:#111111;}.page-title-04 .sala_breadcrumb li, .page-title-04 .sala_breadcrumb li a{font-size:16px;line-height:1.75;}.page-title-04 .sala_breadcrumb li{color:#111111;}.page-title-04 .sala_breadcrumb a{color:#555555;}.page-title-04 .sala_breadcrumb a:hover{color:#111111;}.page-title-04 .sala_breadcrumb li + li:before{color:#555555;}@media (min-width: 992px){#secondary.sidebar-blog-archive{flex-basis:370px;max-width:370px;}}@media (max-width: 1199px){.page-title-01 .page-title-inner .heading{font-size:42px;}.page-title-01 .page-title-inner{padding-top:100px;padding-bottom:80px;}.page-title.page-title-01{margin-bottom:50px;}.page-title-02 .page-title-inner .heading{font-size:56px;}.page-title-02 .page-title-inner{padding-top:80px;padding-bottom:80px;}.page-title.page-title-02{margin-bottom:50px;}.page-title-03 .page-title-inner .heading{font-size:56px;}.page-title-03 .page-title-inner{padding-top:80px;padding-bottom:80px;}.page-title.page-title-03{margin-bottom:50px;}.page-title-04 .page-title-inner .heading{font-size:56px;}.page-title-04 .page-title-inner{padding-top:80px;padding-bottom:80px;}.page-title.page-title-04{margin-bottom:50px;}}@media (max-width: 991px){.page-title-01 .page-title-inner .heading{font-size:36px;}.page-title-01 .page-title-inner{padding-top:100px;padding-bottom:80px;}.page-title.page-title-01{margin-bottom:30px;}.page-title-02 .page-title-inner .heading{font-size:56px;}.page-title-02 .page-title-inner{padding-top:80px;padding-bottom:80px;}.page-title.page-title-02{margin-bottom:30px;}.page-title-03 .page-title-inner .heading{font-size:56px;}.page-title-03 .page-title-inner{padding-top:80px;padding-bottom:80px;}.page-title.page-title-03{margin-bottom:30px;}.page-title-04 .page-title-inner .heading{font-size:56px;}.page-title-04 .page-title-inner{padding-top:80px;padding-bottom:80px;}.page-title.page-title-04{margin-bottom:30px;}}@media (max-width: 767px){.page-title-01 .page-title-inner .heading{font-size:30px;}.page-title-01 .page-title-inner{padding-top:100px;padding-bottom:100px;}.page-title.page-title-01{margin-bottom:30px;}.page-title-02 .page-title-inner .heading{font-size:40px;}.page-title-02 .page-title-inner{padding-top:80px;padding-bottom:80px;}.page-title.page-title-02{margin-bottom:30px;}.page-title-03 .page-title-inner .heading{font-size:40px;}.page-title-03 .page-title-inner{padding-top:60px;padding-bottom:60px;}.page-title.page-title-03{margin-bottom:30px;}.page-title-04 .page-title-inner .heading{font-size:40px;}.page-title-04 .page-title-inner{padding-top:60px;padding-bottom:60px;}.page-title.page-title-04{margin-bottom:0px;}}/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://joyform.co/wp-content/fonts/poppins/font) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style></head>
+
+<body class="wp-singular page-template-default page page-id-19717 logged-in admin-bar no-customize-support wp-custom-logo wp-theme-sala wp-child-theme-sala-child fullwidth right-sidebar page-title-04 elementor-default elementor-kit-20626 elementor-page elementor-page-19717">
+
+
+	<div id="page-preloader" class="page-loading-effect">
+		<div class="bg-overlay"></div>
+
+		<div class="page-loading-inner">
+							<span class="sala-ldef-ring sala-ldef-loading"><span></span><span></span><span></span><span></span></span>			
+					</div>
+	</div>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+				request = true;
+	
+			b[c] = b[c].replace( rcs, ' ' );
+			// The customizer requires postMessage and CORS (if the site is cross domain).
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	
+/* ]]> */
+</script>
+		<div id="wpadminbar" class="nojq nojs">
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar">
+				<ul role='menu' id='wp-admin-bar-root-default' class="ab-top-menu"><li role='group' id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://joyform.co/wp-admin/about.php'><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul role='menu' aria-label='About WordPress' id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li role='group' id='wp-admin-bar-about'><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/about.php'>About WordPress</a></li><li role='group' id='wp-admin-bar-contribute'><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/contribute.php'>Get Involved</a></li></ul><ul role='menu' aria-label='About WordPress' id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li role='group' id='wp-admin-bar-wporg'><a class='ab-item' role="menuitem" href='https://wordpress.org/'>WordPress.org</a></li><li role='group' id='wp-admin-bar-documentation'><a class='ab-item' role="menuitem" href='https://wordpress.org/documentation/'>Documentation</a></li><li role='group' id='wp-admin-bar-learn'><a class='ab-item' role="menuitem" href='https://learn.wordpress.org/'>Learn WordPress</a></li><li role='group' id='wp-admin-bar-support-forums'><a class='ab-item' role="menuitem" href='https://wordpress.org/support/forums/'>Support</a></li><li role='group' id='wp-admin-bar-feedback'><a class='ab-item' role="menuitem" href='https://wordpress.org/support/forum/requests-and-feedback'>Feedback</a></li></ul></div></li><li role='group' id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://joyform.co/wp-admin/'>Joyform</a><div class="ab-sub-wrapper"><ul role='menu' aria-label='Joyform' id='wp-admin-bar-site-name-default' class="ab-submenu"><li role='group' id='wp-admin-bar-dashboard'><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/'>Dashboard</a></li><li role='group' id='wp-admin-bar-plugins'><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/plugins.php'>Plugins</a></li></ul><ul role='menu' aria-label='Joyform' id='wp-admin-bar-appearance' class="ab-submenu"><li role='group' id='wp-admin-bar-themes'><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/themes.php'>Themes</a></li><li role='group' id='wp-admin-bar-widgets'><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/widgets.php'>Widgets</a></li><li role='group' id='wp-admin-bar-menus'><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/nav-menus.php'>Menus</a></li><li role='group' id='wp-admin-bar-background' class="hide-if-customize"><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/themes.php?page=custom-background'>Background</a></li></ul></div></li><li role='group' id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/customize.php?url=https%3A%2F%2Fjoyform.co%2Fzapier%2F'>Customize</a></li><li role='group' id='wp-admin-bar-updates'><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/update-core.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label" aria-hidden="true">10</span><span class="screen-reader-text updates-available-text">10 updates available</span></a></li><li role='group' id='wp-admin-bar-comments'><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/edit-comments.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 Comments in moderation</span></a></li><li role='group' id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://joyform.co/wp-admin/post-new.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul role='menu' aria-label='New' id='wp-admin-bar-new-content-default' class="ab-submenu"><li role='group' id='wp-admin-bar-new-post'><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/post-new.php'>Post</a></li><li role='group' id='wp-admin-bar-new-media'><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/media-new.php'>Media</a></li><li role='group' id='wp-admin-bar-new-page'><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/post-new.php?post_type=page'>Page</a></li><li role='group' id='wp-admin-bar-new-sala_footer'><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/post-new.php?post_type=sala_footer'>Footer</a></li><li role='group' id='wp-admin-bar-new-portfolio'><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/post-new.php?post_type=portfolio'>Portfolio</a></li><li role='group' id='wp-admin-bar-new-job'><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/post-new.php?post_type=job'>Job</a></li><li role='group' id='wp-admin-bar-new-e-landing-page'><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/edit.php?action=elementor_new_post&#038;post_type=e-landing-page&#038;template_type=landing-page&#038;_wpnonce=a8da416dca#library'>Landing Page</a></li><li role='group' id='wp-admin-bar-new-elementor_library'><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/post-new.php?post_type=elementor_library'>Template</a></li><li role='group' id='wp-admin-bar-new-sala_mega_menu'><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/post-new.php?post_type=sala_mega_menu'>Mega Menu</a></li><li role='group' id='wp-admin-bar-new-user'><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/user-new.php'>User</a></li></ul></div></li><li role='group' id='wp-admin-bar-edit' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://joyform.co/wp-admin/post.php?post=19717&#038;action=edit'>Edit Page</a><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-edit-default' class="ab-submenu"><li role='group' id='wp-admin-bar-duplicate_this'><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/admin.php?action=dt_duplicate_post_as_draft&#038;post=19717&#038;nonce=279e761fb2'>Duplicate This as draft</a></li></ul></div></li><li role='group' id='wp-admin-bar-wpseo-menu' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://joyform.co/wp-admin/admin.php?page=wpseo_dashboard'><div id="yoast-ab-icon" class="ab-item yoast-logo svg"><span class="screen-reader-text">SEO</span></div><div aria-hidden="true" title="Focus keyphrase not set" class="wpseo-score-icon bad adminbar-seo-score"><span class="wpseo-score-text screen-reader-text">Focus keyphrase not set</span></div></a><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-wpseo-menu-default' class="ab-submenu"><li role='group' id='wp-admin-bar-wpseo-seo-focus-keyword'><div class="ab-item ab-empty-item" tabindex="0" role="menuitem">Focus keyphrase: <span class="wpseo-focus-keyword">not set</span></div></li><li role='group' id='wp-admin-bar-wpseo-seo-score'><div class="ab-item ab-empty-item" tabindex="0" role="menuitem">SEO score: <div aria-hidden="true" title="Focus keyphrase not set" class="wpseo-score-icon bad adminbar-sub-menu-score"><span class="wpseo-score-text screen-reader-text">Focus keyphrase not set</span></div></div></li><li role='group' id='wp-admin-bar-wpseo-readability-score'><div class="ab-item ab-empty-item" tabindex="0" role="menuitem">Readability: <div aria-hidden="true" title="Good" class="wpseo-score-icon good adminbar-sub-menu-score"><span class="wpseo-score-text screen-reader-text">Good</span></div></div></li><li role='group' id='wp-admin-bar-wpseo-frontend-inspector'><a class='ab-item' tabindex="0" role="menuitem" href='https://yoa.st/admin-bar-frontend-inspector?php_version=8.1&#038;platform=wordpress&#038;platform_version=6.8.3&#038;software=free&#038;software_version=26.1.1&#038;days_active=1086&#038;user_language=en_US' target='_blank'>Front-end SEO inspector<span class="yoast-badge yoast-premium-badge" id="wpseo-frontend-inspector-badge-premium-badge">Premium</span></a></li><li role='group' id='wp-admin-bar-wpseo-analysis' class="menupop"><div class="ab-item ab-empty-item" tabindex="0" role="menuitem" aria-expanded="false"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Analyze this page</div><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-wpseo-analysis-default' class="ab-submenu"><li role='group' id='wp-admin-bar-wpseo-inlinks'><a class='ab-item' role="menuitem" href='https://search.google.com/search-console/links/drilldown?resource_id=https%3A%2F%2Fjoyform.co&#038;type=EXTERNAL&#038;target=https%3A%2F%2Fjoyform.co%2Fzapier%2F&#038;domain=' target='_blank'>Check links to this URL</a></li><li role='group' id='wp-admin-bar-wpseo-structureddata'><a class='ab-item' role="menuitem" href='https://search.google.com/test/rich-results?url=https%3A%2F%2Fjoyform.co%2Fzapier%2F' target='_blank'>Google Rich Results Test</a></li><li role='group' id='wp-admin-bar-wpseo-facebookdebug'><a class='ab-item' role="menuitem" href='//developers.facebook.com/tools/debug/?q=https%3A%2F%2Fjoyform.co%2Fzapier%2F' target='_blank'>Facebook Debugger</a></li><li role='group' id='wp-admin-bar-wpseo-pagespeed'><a class='ab-item' role="menuitem" href='//developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fjoyform.co%2Fzapier%2F' target='_blank'>Google Page Speed Test</a></li></ul></div></li><li role='group' id='wp-admin-bar-wpseo-sub-tools' class="menupop"><div class="ab-item ab-empty-item" tabindex="0" role="menuitem" aria-expanded="false"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>SEO Tools</div><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-wpseo-sub-tools-default' class="ab-submenu"><li role='group' id='wp-admin-bar-wpseo-semrush'><a class='ab-item' role="menuitem" href='https://yoa.st/admin-bar-semrush?php_version=8.1&#038;platform=wordpress&#038;platform_version=6.8.3&#038;software=free&#038;software_version=26.1.1&#038;days_active=1086&#038;user_language=en_US' target='_blank'>Semrush</a></li><li role='group' id='wp-admin-bar-wpseo-wincher'><a class='ab-item' role="menuitem" href='https://yoa.st/admin-bar-wincher?php_version=8.1&#038;platform=wordpress&#038;platform_version=6.8.3&#038;software=free&#038;software_version=26.1.1&#038;days_active=1086&#038;user_language=en_US' target='_blank'>Wincher</a></li><li role='group' id='wp-admin-bar-wpseo-google-trends'><a class='ab-item' role="menuitem" href='https://yoa.st/admin-bar-gtrends?php_version=8.1&#038;platform=wordpress&#038;platform_version=6.8.3&#038;software=free&#038;software_version=26.1.1&#038;days_active=1086&#038;user_language=en_US' target='_blank'>Google trends</a></li></ul></div></li><li role='group' id='wp-admin-bar-wpseo-sub-howto' class="menupop"><div class="ab-item ab-empty-item" tabindex="0" role="menuitem" aria-expanded="false"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>How to</div><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-wpseo-sub-howto-default' class="ab-submenu"><li role='group' id='wp-admin-bar-wpseo-learn-seo'><a class='ab-item' role="menuitem" href='https://yoa.st/admin-bar-learn-more-seo?php_version=8.1&#038;platform=wordpress&#038;platform_version=6.8.3&#038;software=free&#038;software_version=26.1.1&#038;days_active=1086&#038;user_language=en_US' target='_blank'>Learn more SEO</a></li><li role='group' id='wp-admin-bar-wpseo-improve-blogpost'><a class='ab-item' role="menuitem" href='https://yoa.st/admin-bar-improve-blog-post?php_version=8.1&#038;platform=wordpress&#038;platform_version=6.8.3&#038;software=free&#038;software_version=26.1.1&#038;days_active=1086&#038;user_language=en_US' target='_blank'>Improve your blog post</a></li><li role='group' id='wp-admin-bar-wpseo-write-better-content'><a class='ab-item' role="menuitem" href='https://yoa.st/admin-bar-write-better?php_version=8.1&#038;platform=wordpress&#038;platform_version=6.8.3&#038;software=free&#038;software_version=26.1.1&#038;days_active=1086&#038;user_language=en_US' target='_blank'>Write better content</a></li></ul></div></li><li role='group' id='wp-admin-bar-wpseo-sub-get-help'><a class='ab-item' tabindex="0" role="menuitem" href='https://joyform.co/wp-admin/admin.php?page=wpseo_page_support'>Help</a></li><li role='group' id='wp-admin-bar-wpseo-settings' class="menupop"><div class="ab-item ab-empty-item" tabindex="0" role="menuitem" aria-expanded="false"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>SEO Settings</div><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-wpseo-settings-default' class="ab-submenu"><li role='group' id='wp-admin-bar-wpseo-page-settings'><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/admin.php?page=wpseo_page_settings'>Settings</a></li><li role='group' id='wp-admin-bar-wpseo-tools'><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/admin.php?page=wpseo_tools'>Tools</a></li><li role='group' id='wp-admin-bar-wpseo-licenses'><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/admin.php?page=wpseo_licenses'>Plans</a></li></ul></div></li><li role='group' id='wp-admin-bar-wpseo-get-premium'><div class="ab-item ab-empty-item" tabindex="0" role="menuitem"><a href="https://yoa.st/admin-bar-get-premium?php_version=8.1&#038;platform=wordpress&#038;platform_version=6.8.3&#038;software=free&#038;software_version=26.1.1&#038;days_active=1086&#038;user_language=en_US" target="_blank" data-action="load-nfd-ctb" data-ctb-id="f6a84663-465f-4cb5-8ba5-f7a6d72224b2">Upgrade</a></div></li></ul></div></li></ul><ul role='menu' id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li role='group' id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://joyform.co/wp-admin/profile.php'>Howdy, <span class="display-name">darrell@joyfulperson.com</span><img alt='' src='https://secure.gravatar.com/avatar/c2396ee1016ba939704914f25d609b90e25a2d0dc04767107176705d4cdbcf0f?s=26&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/c2396ee1016ba939704914f25d609b90e25a2d0dc04767107176705d4cdbcf0f?s=52&#038;d=mm&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' decoding='async'/></a><div class="ab-sub-wrapper"><ul role='menu' aria-label='Howdy, darrell@joyfulperson.com' id='wp-admin-bar-user-actions' class="ab-submenu"><li role='group' id='wp-admin-bar-user-info'><a class='ab-item' role="menuitem" href='https://joyform.co/wp-admin/profile.php'><img alt='' src='https://secure.gravatar.com/avatar/c2396ee1016ba939704914f25d609b90e25a2d0dc04767107176705d4cdbcf0f?s=64&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/c2396ee1016ba939704914f25d609b90e25a2d0dc04767107176705d4cdbcf0f?s=128&#038;d=mm&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' decoding='async'/><span class='display-name'>darrell@joyfulperson.com</span><span class='display-name edit-profile'>Edit Profile</span></a></li><li role='group' id='wp-admin-bar-logout'><a class='ab-item' role="menuitem" href='https://joyform.co/wp-login.php?action=logout&#038;_wpnonce=1c80b913eb'>Log Out</a></li></ul></div></li><li role='group' id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1" role="menuitem"><form action="https://joyform.co/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search" /></form></div></li></ul>			</div>
+		</div>
+
+		
+	<div id="wrapper">
+
+					<div id="canvas-search" class="sala-popup popup-search">
+				<div class="bg-overlay"></div>
+				<a href="#" class="btn-canvas-menu btn-close"><i class="fal fa-times"></i></a>
+				<div class="inner-popup">
+								<div class="search-form ajax-search-form">
+				<form action="https://joyform.co/" method="get" class="search-form">
+					<div class="area-search form-field">
+						<button type="submit" class="icon-search"><i class="far fa-search large"></i></button>
+						<div class="form-field input-field">
+							<input name="s" class="input-search" type="text" value="" placeholder="Search..." autocomplete="off" />
+							<input type="hidden" name="post_type" class="post-type" value="post" />
+							<div class="search-result area-result"></div>
+							<div class="sala-loading-effect"><span class="sala-dual-ring"></span></div>
+
+																				</div>
+					</div>
+				</form>
+			</div>
+						</div>
+			</div>
+		
+		
+				
+			<header class="site-header header-sticky header-float header-light header-01" data-section="header-01">
+				<div class="sala-builder">
+											<div class="row main-row container-fluid" id="h00sk5cqpn">
+																							<div class="column-wrap left-header"  data-col=20  data-md-col=50  data-sm-col=70  id=hndzihiq5p>
+																							<div class="canvas-menu ux-element mb-menu skin-default canvas-left" data-id="canvas-menu">
+				<a href="#" class="icon-menu">
+					<svg width="30px" height="14px" viewBox="0 0 30 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+						<g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+							<g transform="translate(-50.000000, -33.000000)" fill="#111111">
+								<g id="off-menu" transform="translate(50.000000, 28.000000)">
+									<g id="icon-menu" transform="translate(0.000000, 5.000000)">
+										<rect id="Rectangle-1" x="0" y="0" width="30" height="3" rx="1.5"></rect>
+										<rect id="Rectangle-2" x="0" y="11" width="20" height="3" rx="1.5"></rect>
+									</g>
+								</g>
+							</g>
+						</g>
+					</svg>
+				</a>
+
+							<div class="bg-overlay"></div>
+
+			<div class="site-menu area-menu mobile-menu">
+
+				<div class="inner-menu custom-scrollbar">
+
+					<div class="entry-top">
+						<a href="#" class="btn-canvas-menu btn-close"><i class="fal fa-times"></i></a>
+
+						<ul id="menu-primary-menu" class="menu"><li id="menu-item-17553" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17553 level-1"><a href="https://joyform.co/home"><div class="menu-item-wrap"><span class="menu-item-title">Home</span></div></a></li>
+<li id="menu-item-17550" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17550 level-1"><a href="https://joyform.co/pricing"><div class="menu-item-wrap"><span class="menu-item-title">Pricing</span></div></a></li>
+<li id="menu-item-17551" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17551 level-1"><a href="https://joyform.co/home/#faq"><div class="menu-item-wrap"><span class="menu-item-title">FAQ</span></div></a></li>
+<li id="menu-item-17739" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17739 level-1"><a href="https://joyform.co/blog/"><div class="menu-item-wrap"><span class="menu-item-title">Blog</span></div></a></li>
+<li id="menu-item-20084" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-20084 level-1"><a href="https://joyform.co/home/"><div class="menu-item-wrap"><span class="menu-item-title">Integrations</span><span class="toggle-sub-menu"> </span></div></a><ul class="sub-menu children simple-menu">	<li id="menu-item-20083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20083"><a href="https://joyform.co/gform/"><div class="menu-item-wrap"><span class="menu-item-title">Google Form</span></div></a></li>
+	<li id="menu-item-20082" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-19717 current_page_item menu-item-20082"><a href="https://joyform.co/zapier/"><div class="menu-item-wrap"><span class="menu-item-title">Zapier</span></div></a></li>
+</ul>
+</li>
+</ul>					</div>
+
+					<div class="entry-bottom">
+																								<div class="social-links">
+																		<a class="hint--bounce hint--top hint--primary facebook"
+												target="_blank"
+												aria-label="Facebook"
+												href="#">
+																									<i class="fab fa-facebook-f"></i>
+																							</a>
+																					<a class="hint--bounce hint--top hint--primary twitter"
+												target="_blank"
+												aria-label="Twitter"
+												href="#">
+																									<i class="fab fa-twitter"></i>
+																							</a>
+																					<a class="hint--bounce hint--top hint--primary linkedin"
+												target="_blank"
+												aria-label="Linkedin"
+												href="#">
+																									<i class="fab fa-linkedin"></i>
+																							</a>
+																</div>
+					</div>
+				</div>
+			</div>
+					</div>
+																										<div class="site-logo ux-element" data-id="site-logo">
+									<a href="https://joyform.co/" title="Joyform">
+						<img class="site-main-logo" src="https://joyform.co/wp-content/uploads/2022/09/logo.jpg" data-retina="https://joyform.co/wp-content/uploads/2023/11/logo.jpg" alt="Joyform">
+						<img class="site-dark-logo hide" src="https://joyform.co/wp-content/uploads/2023/11/logo.jpg" data-retina="https://joyform.co/wp-content/uploads/2023/11/logo.jpg" alt="Joyform">
+					</a>
+							</div>
+																				</div>
+																							<div class="column-wrap center-header"  data-col=60  data-md-col=auto  data-sm-col=auto  id=h1asgby32o>
+																							<div class="main-menu ux-element site-menu desktop-menu hidden-on-tablet hidden-on-mobile" data-id="main-menu">
+				<ul id="menu-primary-menu-1" class="menu sm sm-simple"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17553 level-1"><a href="https://joyform.co/home"><div class="menu-item-wrap"><span class="menu-item-title">Home</span></div></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17550 level-1"><a href="https://joyform.co/pricing"><div class="menu-item-wrap"><span class="menu-item-title">Pricing</span></div></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17551 level-1"><a href="https://joyform.co/home/#faq"><div class="menu-item-wrap"><span class="menu-item-title">FAQ</span></div></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17739 level-1"><a href="https://joyform.co/blog/"><div class="menu-item-wrap"><span class="menu-item-title">Blog</span></div></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-20084 level-1"><a href="https://joyform.co/home/"><div class="menu-item-wrap"><span class="menu-item-title">Integrations</span><span class="toggle-sub-menu"> </span></div></a><ul class="sub-menu children simple-menu">	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20083"><a href="https://joyform.co/gform/"><div class="menu-item-wrap"><span class="menu-item-title">Google Form</span></div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-19717 current_page_item menu-item-20082"><a href="https://joyform.co/zapier/"><div class="menu-item-wrap"><span class="menu-item-title">Zapier</span></div></a></li>
+</ul>
+</li>
+</ul>			</div>
+																				</div>
+																							<div class="column-wrap right-header"  data-col=20  data-md-col=50  data-sm-col=30  id=hz9bqqmsns>
+																							<div class="header-button-01 ux-element align-left icon-on-mobile icon-before" data-id="header-button-01">
+				<a href="https://console.joyfulperson.com/" target=_blank class="sala-button full-filled size-m">
+											<i class="fal fa-edit"></i>
+										Login									</a>
+			</div>
+																				</div>
+													</div>
+									</div>
+			</header>
+
+			
+		<div id="page-title" class="page-title page-title-04">
+	<div class="page-title-inner">
+		<div class="page-title-bg"></div>
+
+		<div class="container">
+			<div class="row row-xs-center">
+				<div class="col-md-12">
+								<div class="page-title-heading">
+				<h1 class="heading heading-font">				Joyform + Zapier				</h1>			</div>
+									</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+<div class="site-content">
+
+	<div class="container">
+
+		<div class="row">
+
+			
+			<div id="primary" class="content-area">
+
+				
+					<article id="post-19717" class="post-19717 page type-page status-publish hentry post-no-thumbnail">
+
+						<div class="rich-snippet hide">
+
+	<h1 class="entry-title">Joyform + Zapier</h1>
+	<span class="published">April 6, 2023</span>
+
+	<span class="updated" data-time="2023-05-26 3:29">2023-05-26 3:29</span>
+	
+</div>
+
+						<div class="entry-content">
+									<div data-elementor-type="wp-page" data-elementor-id="19717" class="elementor elementor-19717">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-3eb2b88 elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch" data-id="3eb2b88" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-51142c61" data-id="51142c61" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-602bd3e8 elementor-absolute animated-slow elementor-widget elementor-widget-heading" data-id="602bd3e8" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-xl">Do More with Zapier</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3fe16259 elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch" data-id="3fe16259" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1e695b02" data-id="1e695b02" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-62ab204e elementor-absolute e-transform elementor-widget elementor-widget-image" data-id="62ab204e" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_transform_flipY_effect&quot;:&quot;transform&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img fetchpriority="high" decoding="async" width="2048" height="915" src="https://joyform.co/wp-content/uploads/2023/03/Untitled-2-e1679630943198-2048x915.png" class="attachment-2048x2048 size-2048x2048 wp-image-19320" alt="" srcset="https://joyform.co/wp-content/uploads/2023/03/Untitled-2-e1679630943198-2048x915.png 2048w, https://joyform.co/wp-content/uploads/2023/03/Untitled-2-e1679630943198-300x134.png 300w, https://joyform.co/wp-content/uploads/2023/03/Untitled-2-e1679630943198-1024x457.png 1024w, https://joyform.co/wp-content/uploads/2023/03/Untitled-2-e1679630943198-768x343.png 768w, https://joyform.co/wp-content/uploads/2023/03/Untitled-2-e1679630943198-1536x686.png 1536w" sizes="(max-width: 2048px) 100vw, 2048px" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-39593f57 elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch" data-id="39593f57" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3efbd457" data-id="3efbd457" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-46641c25 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-image" data-id="46641c25" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="150" height="150" src="https://joyform.co/wp-content/uploads/2023/03/underline2-150x150.png" class="attachment-thumbnail size-thumbnail wp-image-19321" alt="" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1bccba14 elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch" data-id="1bccba14" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1eee63a7" data-id="1eee63a7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-58057c0 elementor-absolute elementor-widget elementor-widget-text-editor" data-id="58057c0" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p style="text-align: center;">Already have <strong>Zapier</strong>? Make it more <strong>powerful with JoyForm</strong>.</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1ed30e37 elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch" data-id="1ed30e37" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-189b1381" data-id="189b1381" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7b708b55 elementor-align-center elementor-absolute animated-fast elementor-invisible elementor-widget elementor-widget-button" data-id="7b708b55" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;pulse&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-xs" href="https://zapier.com/apps/joyform/integrations" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Let's Go</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-71df9170 elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch" data-id="71df9170" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a935676" data-id="a935676" data-element_type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-618c9007 elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch" data-id="618c9007" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7b8afc7" data-id="7b8afc7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4146c441 elementor-widget elementor-widget-spacer" data-id="4146c441" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-16585655 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch" data-id="16585655" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-67849206" data-id="67849206" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6fd11b8 elementor-widget elementor-widget-heading" data-id="6fd11b8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">How It Works</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4fa8514f elementor-widget elementor-widget-icon-box" data-id="4fa8514f" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+			
+						<div class="elementor-icon-box-content">
+
+									<h2 class="elementor-icon-box-title">
+						<span  >
+							1. Login to Zapier &amp; Create Zap						</span>
+					</h2>
+				
+									<p class="elementor-icon-box-description">
+						Create accounts on both Zapier and Joyform if you haven't already.
+<div><span style="letter-spacing: inherit"></span><br></div>					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-778f8fd elementor-align-left elementor-tablet-align-left elementor-mobile-align-center elementor-invisible elementor-widget elementor-widget-button" data-id="778f8fd" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;headShake&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://zapier.com/app/login" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Login to Zapier</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-7e323e91 elementor-widget elementor-widget-icon-box" data-id="7e323e91" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							2. Choose JoyForm as the Trigger App						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Select JoyForm as the trigger app and choose the specific trigger you want to use. For example, you may want to trigger an action when a new form submission is received.					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-26b0ca9a elementor-widget elementor-widget-icon-box" data-id="26b0ca9a" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							3. Connect JoyForm Account						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Connect your JoyForm account to Zapier and choose the trigger you want to use.
+					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-816bca1 elementor-widget elementor-widget-icon-box" data-id="816bca1" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+			
+						<div class="elementor-icon-box-content">
+
+									<h2 class="elementor-icon-box-title">
+						<span  >
+							4. Connect Action App &amp; Map the Fields						</span>
+					</h2>
+				
+									<p class="elementor-icon-box-description">
+						Choose the JoyForm the action and connect it to Zapier. Map the fields between JoyForm and your chosen app.					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-9ee940a elementor-widget elementor-widget-icon-box" data-id="9ee940a" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							5. Test and Turn on the Zap						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Turn on the Zap to start automating your workflow.
+<div><span style="letter-spacing: inherit"></span><br></div>					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-54391d88" data-id="54391d88" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e78b291 elementor-widget__width-initial elementor-absolute elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="e78b291" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://sala.uxper.co/wp-content/uploads/2021/09/symbol-23@2x.png" title="" alt="" loading="lazy" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-e012cde elementor-absolute elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="e012cde" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://sala.uxper.co/wp-content/uploads/2021/09/symbol-22@2x.png" title="" alt="" loading="lazy" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-b9a8f72 elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="b9a8f72" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://sala.uxper.co/wp-content/uploads/2021/09/wave-11_2@2x.png" title="" alt="" loading="lazy" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-3698adf elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-video" data-id="3698adf" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/xx8j1j-0Knw&quot;,&quot;_position&quot;:&quot;absolute&quot;,&quot;start&quot;:1,&quot;autoplay&quot;:&quot;yes&quot;,&quot;play_on_mobile&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-25316fa elementor-absolute elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="25316fa" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://sala.uxper.co/wp-content/uploads/2021/09/symbol-22@2x.png" title="" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1c880eb5 elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch" data-id="1c880eb5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5414cce7" data-id="5414cce7" data-element_type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d19d6b2 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch elementor-invisible" data-id="d19d6b2" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-191cf27f" data-id="191cf27f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3d30eb1b elementor-widget elementor-widget-heading" data-id="3d30eb1b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">Features</h4>				</div>
+				</div>
+				<div class="elementor-element elementor-element-d5ed5a4 elementor-widget elementor-widget-heading" data-id="d5ed5a4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default">Common Use Cases</h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-2600de53 elementor-widget elementor-widget-toggle" data-id="2600de53" data-element_type="widget" data-widget_type="toggle.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-toggle">
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-6371" class="elementor-tab-title" data-tab="1" role="button" aria-controls="elementor-tab-content-6371" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><i class="fas fa-caret-right"></i></span>
+								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
+													</span>
+												<a class="elementor-toggle-title" tabindex="0">Leads Management</a>
+					</div>
+
+					<div id="elementor-tab-content-6371" class="elementor-tab-content elementor-clearfix" data-tab="1" role="region" aria-labelledby="elementor-tab-title-6371"><p>Got a lead to follow up on WhatsApp? With Joyform on Zapier, you can now get notified on WhatsApp from your leads on <b>Facebook Lead Ads, Shopify, Google Ads, Jotform, Typeform</b> and more! No more managing different apps just to follow up with leads. With our one-click shortcuts, manage and reach out to leads directly on your WhatsApp.</p></div>
+				</div>
+								</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-3b30a047 elementor-widget elementor-widget-toggle" data-id="3b30a047" data-element_type="widget" data-widget_type="toggle.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-toggle">
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-9931" class="elementor-tab-title" data-tab="1" role="button" aria-controls="elementor-tab-content-9931" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><i class="fas fa-caret-right"></i></span>
+								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
+													</span>
+												<a class="elementor-toggle-title" tabindex="0">Scheduling</a>
+					</div>
+
+					<div id="elementor-tab-content-9931" class="elementor-tab-content elementor-clearfix" data-tab="1" role="region" aria-labelledby="elementor-tab-title-9931"><p>Don&#8217;t miss any appointments. Simplify your scheduling by setting WhatsApp reminders for your events. JoyForm on Zapier integrates with popular scheduling and booking apps like <b>Calendly, Google Calendar, Acuity,</b> and <b>Eventbrite</b> &#8211; get alerted on WhatsApp for any new event booked. Save time going into your apps to find the details and follow up with your customer with one-click shortcuts direct on WhatsApp.</p></div>
+				</div>
+								</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-202db3f3 elementor-widget elementor-widget-toggle" data-id="202db3f3" data-element_type="widget" data-widget_type="toggle.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-toggle">
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-5391" class="elementor-tab-title" data-tab="1" role="button" aria-controls="elementor-tab-content-5391" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><i class="fas fa-caret-right"></i></span>
+								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
+													</span>
+												<a class="elementor-toggle-title" tabindex="0">Internal Workflows</a>
+					</div>
+
+					<div id="elementor-tab-content-5391" class="elementor-tab-content elementor-clearfix" data-tab="1" role="region" aria-labelledby="elementor-tab-title-5391"><p>Need to update a team member on tasks via WhatsApp? Joyform got you covered with Zapier! Streamline your work processes and automate tasks faster with Joyform on Zapier. Communicate between apps and your team by sending WhatsApp notifications of changes in your apps. Get more done quicker and smarter &#8211; connect <b>Zendesk, BambooHR, ServiceNow, Slack, SafetyCulture, Atlassian</b> and more to your WhatsApp!</p></div>
+				</div>
+								</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-6e76001e elementor-widget elementor-widget-toggle" data-id="6e76001e" data-element_type="widget" data-widget_type="toggle.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-toggle">
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-1851" class="elementor-tab-title" data-tab="1" role="button" aria-controls="elementor-tab-content-1851" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><i class="fas fa-caret-right"></i></span>
+								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
+													</span>
+												<a class="elementor-toggle-title" tabindex="0">Data Management</a>
+					</div>
+
+					<div id="elementor-tab-content-1851" class="elementor-tab-content elementor-clearfix" data-tab="1" role="region" aria-labelledby="elementor-tab-title-1851"><p>Is WhatsApp the missing piece in all of your databases? Now, you can be alerted of any changes in your database on WhatsApp. Connect Joyform on Zapier and send new and updated information from <b>Airtable, Google Sheets </b>and more to your WhatsApp!</p></div>
+				</div>
+								</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-62608482 elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch" data-id="62608482" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5a0e4c7b" data-id="5a0e4c7b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2325d881 elementor-align-center elementor-widget__width-initial elementor-absolute elementor-mobile-align-center elementor-tablet-align-left elementor-invisible elementor-widget elementor-widget-button" data-id="2325d881" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation_mobile&quot;:&quot;pulse&quot;,&quot;_animation&quot;:&quot;pulse&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-md" href="https://workspace.google.com/marketplace/app/joyform_notifications/461310387731" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Try It Now!</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-2f9bd5a2 elementor-widget elementor-widget-spacer" data-id="2f9bd5a2" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-37918ea4 elementor-section-full_width elementor-section-gap-beside-no elementor-section-stretched elementor-section-height-default elementor-section-height-default elementor-section-content-align-center elementor-section-column-vertical-align-stretch elementor-invisible" data-id="37918ea4" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_mobile&quot;:&quot;fadeInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-wider">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4e7c64ce" data-id="4e7c64ce" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4952acd7 elementor-widget elementor-widget-heading" data-id="4952acd7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Need Help?</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-405cfe43 elementor-widget elementor-widget-text-editor" data-id="405cfe43" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p style="text-align: center;">Watch the step-by-step guide or contact our team for further assistance!</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-7300a1d0 elementor-align-center elementor-widget elementor-widget-button" data-id="7300a1d0" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://joyform.co/joyform-notifications-on-zapier/" target="_blank">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="far fa-book"></i>			</span>
+									<span class="elementor-button-text">Click Here for Guide</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-7fad43e5 elementor-align-center elementor-widget elementor-widget-button" data-id="7fad43e5" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://api.whatsapp.com/send/?phone=6594306664&#038;text=Hi+there%21+I+would+like+to+enquire+about+Joyform%20Zapier%20Integration&#038;type=phone_number&#038;app_absent=0" target="_blank">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="fal fa-hands-helping"></i>			</span>
+									<span class="elementor-button-text">Contact the Team </span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7be5b832 elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch" data-id="7be5b832" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3e33fcd5" data-id="3e33fcd5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-304b98f3 elementor-widget elementor-widget-spacer" data-id="304b98f3" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+								</div>
+
+					</article>
+
+				
+			</div>
+
+			
+		</div>
+
+	</div>
+
+</div>
+
+
+
+	
+	
+	<footer id="footer" class="site-footer">
+		<style id="elementor-post-5690">.elementor-5690 .elementor-element.elementor-element-42ef917 > .elementor-container > .elementor-row{align-items:stretch;}.elementor-5690 .elementor-element.elementor-element-42ef917:not(.elementor-motion-effects-element-type-background), .elementor-5690 .elementor-element.elementor-element-42ef917 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-5690 .elementor-element.elementor-element-42ef917{border-style:solid;border-width:1px 0px 0px 0px;border-color:#EEEEEE;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0em;margin-bottom:-6em;padding:25px 0px 25px 0px;z-index:9999999;}.elementor-5690 .elementor-element.elementor-element-42ef917 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-bc-flex-widget .elementor-5690 .elementor-element.elementor-element-6800281.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-5690 .elementor-element.elementor-element-6800281.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-5690 .elementor-element.elementor-element-6bf144d{font-size:14px;color:#555555;}.elementor-bc-flex-widget .elementor-5690 .elementor-element.elementor-element-689e548.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-5690 .elementor-element.elementor-element-689e548.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-5690 .elementor-element.elementor-element-689e548.elementor-column > .elementor-widget-wrap{justify-content:flex-end;}.elementor-5690 .elementor-element.elementor-element-15c1462{width:auto;max-width:auto;text-align:right;}.elementor-5690 .elementor-element.elementor-element-15c1462 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-5690 .elementor-element.elementor-element-15c1462 .list-header{align-items:center;}.elementor-5690 .elementor-element.elementor-element-15c1462 .sala-list .item{padding:0px 0px 0px 24px;}.elementor-5690 .elementor-element.elementor-element-15c1462 .text{font-size:14px;color:#111111;}.elementor-5690 .elementor-element.elementor-element-15c1462 .text .stop-a{stop-color:#111111;}.elementor-5690 .elementor-element.elementor-element-15c1462 .text .stop-b{stop-color:#111111;}.elementor-5690 .elementor-element.elementor-element-5d723a8 > .elementor-container > .elementor-row{align-items:stretch;}.elementor-5690 .elementor-element.elementor-element-c3ae258{--divider-border-style:solid;--divider-color:#000;--divider-border-width:1px;}.elementor-5690 .elementor-element.elementor-element-c3ae258 .elementor-divider-separator{width:100%;}.elementor-5690 .elementor-element.elementor-element-c3ae258 .elementor-divider{padding-block-start:15px;padding-block-end:15px;}.elementor-5690 .elementor-element.elementor-element-d8bf779 > .elementor-container > .elementor-row{align-items:stretch;}.elementor-5690 .elementor-element.elementor-element-66fa2d3{--spacer-size:10px;}@media(max-width:767px){.elementor-5690 .elementor-element.elementor-element-42ef917{margin-top:0em;margin-bottom:-5em;}.elementor-5690 .elementor-element.elementor-element-6800281.elementor-column > .elementor-widget-wrap{justify-content:center;}.elementor-5690 .elementor-element.elementor-element-6800281 > .elementor-element-populated{margin:15px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-5690 .elementor-element.elementor-element-6800281 > .elementor-element-populated.elementor-element-populated{padding:0px 15px 10px 15px;}.elementor-5690 .elementor-element.elementor-element-6bf144d{text-align:center;}.elementor-bc-flex-widget .elementor-5690 .elementor-element.elementor-element-689e548.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-5690 .elementor-element.elementor-element-689e548.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-5690 .elementor-element.elementor-element-689e548.elementor-column > .elementor-widget-wrap{justify-content:center;}.elementor-5690 .elementor-element.elementor-element-689e548 > .elementor-element-populated.elementor-element-populated{padding:0px 15px 0px 15px;}.elementor-5690 .elementor-element.elementor-element-15c1462 .sala-list .item{padding:0px 15px 0px 15px;}.elementor-5690 .elementor-element.elementor-element-15c1462{text-align:left;}}</style>		<div data-elementor-type="wp-post" data-elementor-id="5690" class="elementor elementor-5690">
+						<div class="elementor-section elementor-top-section elementor-element elementor-element-42ef917 border-01 elementor-section-stretched elementor-reverse-mobile elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch" data-id="42ef917" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6800281" data-id="6800281" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6bf144d elementor-widget elementor-widget-text-editor" data-id="6bf144d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><span style="font-weight: 400;">Joyform.co</span></p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-689e548" data-id="689e548" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-15c1462 sala-list-layout-inline sala-list-footer elementor-widget__width-auto elementor-widget elementor-widget-sala-list" data-id="15c1462" data-element_type="widget" data-widget_type="sala-list.default">
+				<div class="elementor-widget-container">
+							<div class="sala-list" data-id="">
+								<div class="item">
+
+						<a class="link" href="https://joyform.co/terms-conditions/">
+						<div class="list-header">
+																						
+							<div class="text-wrap">
+																	<div class="text">
+										Terms									</div>
+															</div>
+
+													</div>
+
+						</a>
+					</div>
+										<div class="item">
+
+						<a class="link" href="https://joyform.co/privacy-policy">
+						<div class="list-header">
+																						
+							<div class="text-wrap">
+																	<div class="text">
+										Privacy Policy									</div>
+															</div>
+
+													</div>
+
+						</a>
+					</div>
+							</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</div>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5d723a8 elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch" data-id="5d723a8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b555029" data-id="b555029" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c3ae258 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="c3ae258" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d8bf779 elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch" data-id="d8bf779" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1b7b871" data-id="1b7b871" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-66fa2d3 elementor-widget elementor-widget-spacer" data-id="66fa2d3" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+			</footer>
+
+	
+				<div class="sala-mode-switcher-wrap">
+				<div class="sala-mode-switcher ">
+					<div class="sala-mode-switcher-item sala-dark-scheme"><p class="sala-mode-switcher-item-state">Dark</p></div>
+					<div class="sala-mode-switcher-item light"><p class="sala-mode-switcher-item-state">Light</p></div>
+					<div class="sala-mode-switcher-toddler">
+						<div class="sala-mode-switcher-toddler-wrap">
+							<div class="sala-mode-switcher-toddler-item sala-dark-scheme"><p class="sala-mode-switcher-item-state">Dark</p></div>
+							<div class="sala-mode-switcher-toddler-item light"><p class="sala-mode-switcher-item-state">Light</p></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+</div><!-- End #wrapper -->
+
+
+
+			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script type="text/template" id="tmpl-elementor-templates-modal__header">
+	<div class="elementor-templates-modal__header__logo-area"></div>
+	<div class="elementor-templates-modal__header__menu-area"></div>
+	<div class="elementor-templates-modal__header__items-area">
+		<# if ( closeType ) { #>
+			<div class="elementor-templates-modal__header__close elementor-templates-modal__header__close--{{{ closeType }}} elementor-templates-modal__header__item">
+				<# if ( 'skip' === closeType ) { #>
+				<span>Skip</span>
+				<# } #>
+				<i class="eicon-close" aria-hidden="true"></i>
+				<span class="elementor-screen-only">{{{ $e.components?.get( 'document/elements' )?.utils?.getTitleForLibraryClose() }}}</span>
+			</div>
+		<# } #>
+		<div id="elementor-template-library-header-tools"></div>
+	</div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-templates-modal__header__logo">
+	<span class="elementor-templates-modal__header__logo__icon-wrapper e-logo-wrapper">
+		<i class="eicon-elementor"></i>
+	</span>
+	<span class="elementor-templates-modal__header__logo__title">{{{ title }}}</span>
+</script>
+<script type="text/template" id="tmpl-elementor-finder">
+	<div id="elementor-finder__search">
+		<i class="eicon-search" aria-hidden="true"></i>
+		<input id="elementor-finder__search__input" placeholder="Type to find anything in Elementor" autocomplete="off">
+	</div>
+	<div id="elementor-finder__content"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder-results-container">
+	<div id="elementor-finder__no-results">No Results Found</div>
+	<div id="elementor-finder__results"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__category">
+	<div class="elementor-finder__results__category__title">{{{ title }}}</div>
+	<div class="elementor-finder__results__category__items"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__item">
+	<a href="{{ url }}" class="elementor-finder__results__item__link">
+		<div class="elementor-finder__results__item__icon">
+			<i class="eicon-{{{ icon }}}" aria-hidden="true"></i>
+		</div>
+		<div class="elementor-finder__results__item__title">{{{ title }}}</div>
+		<# if ( description ) { #>
+			<div class="elementor-finder__results__item__description">- {{{ description }}}</div>
+		<# } #>
+
+		<# if ( lock ) { #>
+		<div class="elementor-finder__results__item__badge"><i class="{{{ lock.badge.icon }}}"></i>{{ lock.badge.text }}</div>
+		<# } #>
+	</a>
+	<# if ( actions.length ) { #>
+		<div class="elementor-finder__results__item__actions">
+		<# jQuery.each( actions, function() { #>
+			<a class="elementor-finder__results__item__action elementor-finder__results__item__action--{{ this.name }}" href="{{ this.url }}" target="_blank">
+				<i class="eicon-{{{ this.icon }}}"></i>
+			</a>
+		<# } ); #>
+		</div>
+	<# } #>
+</script>
+<link rel='stylesheet' id='widget-divider-css' href='https://joyform.co/wp-content/plugins/elementor/assets/css/widget-divider.min.css' type='text/css' media='all' />
+<script type="text/javascript" src="https://joyform.co/wp-includes/js/jquery/ui/core.min.js" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-includes/js/jquery/ui/mouse.min.js" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-includes/js/jquery/ui/draggable.min.js" id="jquery-ui-draggable-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-includes/js/underscore.min.js" id="underscore-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-includes/js/backbone.min.js" id="backbone-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/plugins/elementor/assets/lib/backbone/backbone.marionette.min.js" id="backbone-marionette-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/plugins/elementor/assets/lib/backbone/backbone.radio.min.js" id="backbone-radio-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/plugins/elementor/assets/js/common-modules.min.js" id="elementor-common-modules-js"></script>
+<script type="text/javascript" id="elementor-web-cli-js-before">
+/* <![CDATA[ */
+var elementorWebCliConfig = {"isDebug":false,"urls":{"rest":"https:\/\/joyform.co\/wp-json\/","assets":"https:\/\/joyform.co\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"66c808ba2e","version":"3.32.4"};
+var elementorWebCliConfig = {"isDebug":false,"urls":{"rest":"https:\/\/joyform.co\/wp-json\/","assets":"https:\/\/joyform.co\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"66c808ba2e","version":"3.32.4"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://joyform.co/wp-content/plugins/elementor/assets/js/web-cli.min.js" id="elementor-web-cli-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js" id="elementor-dialog-js"></script>
+<script type="text/javascript" id="wp-api-request-js-extra">
+/* <![CDATA[ */
+var wpApiSettings = {"root":"https:\/\/joyform.co\/wp-json\/","nonce":"66c808ba2e","versionString":"wp\/v2\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://joyform.co/wp-includes/js/api-request.min.js" id="wp-api-request-js"></script>
+<script type="text/javascript" id="elementor-dev-tools-js-before">
+/* <![CDATA[ */
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/joyform.co\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.32.4"}};
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/joyform.co\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.32.4"}};
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/joyform.co\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.32.4"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://joyform.co/wp-content/plugins/elementor/assets/js/dev-tools.min.js" id="elementor-dev-tools-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-includes/js/dist/hooks.min.js" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-includes/js/dist/i18n.min.js" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" id="elementor-common-js-before">
+/* <![CDATA[ */
+var elementorCommonConfig = {"version":"3.32.4","isRTL":false,"isDebug":false,"isElementorDebug":false,"activeModules":["ajax","finder","connect","event-tracker"],"experimentalFeatures":{"additional_custom_breakpoints":true,"landing-pages":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"import-export-customization":true},"allExperimentalFeatures":{"e_font_icon_svg":false,"additional_custom_breakpoints":true,"container":false,"e_optimized_markup":false,"landing-pages":true,"e_pro_free_trial_popup":false,"nested-elements":false,"pages_panel":false,"home_screen":true,"e_atomic_elements":false,"e_classes":false,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"e_opt_in_v4":false,"e_components":false,"import-export-customization":true,"editor_events":false},"urls":{"assets":"https:\/\/joyform.co\/wp-content\/plugins\/elementor\/assets\/","rest":"https:\/\/joyform.co\/wp-json\/"},"filesUpload":{"unfilteredFiles":true},"editor_events":{"can_send_events":false,"elementor_version":"3.32.4","site_url":"5457f448ad96ece628459a8b0fde52e94fb3a2d19105e9035c8fb5e57907022c","wp_version":"6.8.3","user_agent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","site_language":"en_US","site_key":"634e30caa99d27dcb046189c6bda09f5","subscription_id":null,"subscription":null,"token":"150605b3b9f979922f2ac5a52e2dcfe9"},"library_connect":{"is_connected":false,"user_id":null,"subscription_plans":{"free":{"label":null,"promotion_url":null,"color":null},"essential":{"label":"Pro","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"},"essential-oct2023":{"label":"Advanced","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"},"advanced":{"label":"Advanced","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"},"expert":{"label":"Expert","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"},"agency":{"label":"Agency","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"}},
+"base_access_level":0,"base_access_tier":"free","current_access_level":0,"current_access_tier":"free","plan_type":"free"},"ajax":{"url":"https:\/\/joyform.co\/wp-admin\/admin-ajax.php","nonce":"2edbd8eed9"},"finder":{"data":{"edit":{"title":"Edit","dynamic":true,"name":"edit"},"general":{"title":"General","dynamic":false,"items":{"saved-templates":{"title":"Saved Templates","icon":"library-save","url":"https:\/\/joyform.co\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=library","keywords":["template","section","page","library"]},"system-info":{"title":"System Info","icon":"info-circle-o","url":"https:\/\/joyform.co\/wp-admin\/admin.php?page=elementor-system-info","keywords":["system","info","environment","elementor"]},"role-manager":{"title":"Role Manager","icon":"person","url":"https:\/\/joyform.co\/wp-admin\/admin.php?page=elementor-role-manager","keywords":["role","manager","user","elementor"]},"knowledge-base":{"title":"Knowledge Base","url":"https:\/\/joyform.co\/wp-admin\/admin.php?page=go_knowledge_base_site","keywords":["help","knowledge","docs","elementor"]},"theme-builder":{"title":"Theme Builder","icon":"library-save","url":"https:\/\/joyform.co\/wp-admin\/admin.php?page=elementor-app&ver=3.32.4#site-editor\/promotion","keywords":["template","header","footer","single","archive","search","404","library"]},"kit-library":{"title":"Website Templates","icon":"kit-parts","url":"https:\/\/joyform.co\/wp-admin\/admin.php?page=elementor-app&ver=3.32.4#\/kit-library","keywords":["Website Templates","kit library","kit","library","site parts","parts","assets","templates"]}},
+"name":"general"},"create":{"title":"Create","dynamic":false,"items":{"wp-post":{"title":"Add New Post","icon":"plus-circle-o","url":"https:\/\/joyform.co\/wp-admin\/edit.php?action=elementor_new_post&post_type=post&template_type=wp-post&_wpnonce=a8da416dca","keywords":["Add New Post","post","page","template","new","create"]},"wp-page":{"title":"Add New Page","icon":"plus-circle-o","url":"https:\/\/joyform.co\/wp-admin\/edit.php?action=elementor_new_post&post_type=page&template_type=wp-page&_wpnonce=a8da416dca","keywords":["Add New Page","post","page","template","new","create"]},"page":{"title":"Add New Page Template","icon":"plus-circle-o","url":"https:\/\/joyform.co\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=page&_wpnonce=a8da416dca","keywords":["Add New Page Template","post","page","template","new","create"]},"section":{"title":"Add New Section","icon":"plus-circle-o","url":"https:\/\/joyform.co\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=section&_wpnonce=a8da416dca","keywords":["Add New Section","post","page","template","new","create"]},"landing-page":{"title":"Add New Landing Page","icon":"plus-circle-o","url":"https:\/\/joyform.co\/wp-admin\/edit.php?action=elementor_new_post&post_type=e-landing-page&template_type=landing-page&_wpnonce=a8da416dca#library","keywords":["Add New Landing Page","post","page","template","new","create"]},"sala_mega_menu":{"title":"Add New Mega Menus","icon":"plus-circle-o","url":"https:\/\/joyform.co\/wp-admin\/edit.php?action=elementor_new_post&post_type=sala_mega_menu&_wpnonce=a8da416dca","keywords":["Add New Mega Menus","post","page","template","new","create"]},"sala_footer":{"title":"Add New Footer","icon":"plus-circle-o","url":"https:\/\/joyform.co\/wp-admin\/edit.php?action=elementor_new_post&post_type=sala_footer&_wpnonce=a8da416dca","keywords":["Add New Footer","post","page","template","new","create"]}},
+"name":"create"},"site":{"title":"Site","dynamic":false,"items":{"homepage":{"title":"Homepage","url":"https:\/\/joyform.co","icon":"home-heart","keywords":["home","page"]},"wordpress-dashboard":{"title":"Dashboard","icon":"dashboard","url":"https:\/\/joyform.co\/wp-admin\/","keywords":["dashboard","wordpress"]},"wordpress-menus":{"title":"Menus","icon":"wordpress","url":"https:\/\/joyform.co\/wp-admin\/nav-menus.php","keywords":["menu","wordpress"]},"wordpress-themes":{"title":"Themes","icon":"wordpress","url":"https:\/\/joyform.co\/wp-admin\/themes.php","keywords":["themes","wordpress"]},"wordpress-customizer":{"title":"Customizer","icon":"wordpress","url":"https:\/\/joyform.co\/wp-admin\/customize.php","keywords":["customizer","wordpress"]},"wordpress-plugins":{"title":"Plugins","icon":"wordpress","url":"https:\/\/joyform.co\/wp-admin\/plugins.php","keywords":["plugins","wordpress"]},"wordpress-users":{"title":"Users","icon":"wordpress","url":"https:\/\/joyform.co\/wp-admin\/users.php","keywords":["users","profile","wordpress"]},"apps":{"title":"Add-ons","url":"https:\/\/joyform.co\/wp-admin\/admin.php?page=elementor-apps","icon":"apps","keywords":["apps","addon","plugin","extension","integration"]}},
+"name":"site"},"settings":{"title":"Settings","dynamic":false,"items":{"general-settings":{"title":"General Settings","url":"https:\/\/joyform.co\/wp-admin\/admin.php?page=elementor-settings#tab-general","keywords":["general","settings","elementor"]},"integrations":{"title":"Integrations","url":"https:\/\/joyform.co\/wp-admin\/admin.php?page=elementor-settings#tab-integrations","keywords":["integrations","settings","elementor"]},"advanced":{"title":"Advanced","url":"https:\/\/joyform.co\/wp-admin\/admin.php?page=elementor-settings#tab-advanced","keywords":["advanced","settings","elementor"]},"performance":{"title":"Performance","url":"https:\/\/joyform.co\/wp-admin\/admin.php?page=elementor-settings#tab-performance","keywords":["performance","settings","elementor"]},"experiments":{"title":"Experiments","url":"https:\/\/joyform.co\/wp-admin\/admin.php?page=elementor-settings#tab-experiments","keywords":["settings","elementor","experiments"]},"features":{"title":"Features","url":"https:\/\/joyform.co\/wp-admin\/admin.php?page=elementor-settings#tab-experiments","keywords":["settings","elementor","features"]},"element-manager":{"title":"Element Manager","url":"https:\/\/joyform.co\/wp-admin\/admin.php?page=elementor-element-manager","keywords":["settings","elements","widgets","manager"]}},
+"name":"settings"},"tools":{"title":"Tools","dynamic":false,"items":{"tools":{"title":"Tools","icon":"tools","url":"https:\/\/joyform.co\/wp-admin\/admin.php?page=elementor-tools","keywords":["tools","regenerate css","safe mode","debug bar","sync library","elementor"]},"replace-url":{"title":"Replace URL","icon":"tools","url":"https:\/\/joyform.co\/wp-admin\/admin.php?page=elementor-tools#tab-replace_url","keywords":["tools","replace url","domain","elementor"]},"maintenance-mode":{"title":"Maintenance Mode","icon":"tools","url":"https:\/\/joyform.co\/wp-admin\/admin.php?page=elementor-tools#tab-maintenance_mode","keywords":["tools","maintenance","coming soon","elementor"]},"import-export":{"title":"Import Export","icon":"import-export","url":"https:\/\/joyform.co\/wp-admin\/admin.php?page=elementor-tools#tab-import-export-kit","keywords":["tools","import export","import","export","kit"]},"version-control":{"title":"Version Control","icon":"time-line","url":"https:\/\/joyform.co\/wp-admin\/admin.php?page=elementor-tools#tab-versions","keywords":["tools","version","control","rollback","beta","elementor"]}},
+"name":"tools"}}},
+"connect":[],"event-tracker":{"isUserDataShared":true}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://joyform.co/wp-content/plugins/elementor/assets/js/common.min.js" id="elementor-common-js"></script>
+<script type="text/javascript" id="elementor-app-loader-js-before">
+/* <![CDATA[ */
+var elementorAppConfig = {"menu_url":"https:\/\/joyform.co\/wp-admin\/admin.php?page=elementor-app&ver=3.32.4#site-editor\/promotion","assets_url":"https:\/\/joyform.co\/wp-content\/plugins\/elementor\/assets\/","pages_url":"https:\/\/joyform.co\/wp-admin\/edit.php?post_type=page","return_url":"https:\/\/joyform.co\/wp-admin\/","hasPro":false,"admin_url":"https:\/\/joyform.co\/wp-admin\/","login_url":"https:\/\/joyform.co\/wp-login.php","base_url":"https:\/\/joyform.co\/wp-admin\/admin.php?page=elementor-app&ver=3.32.4","home_url":"https:\/\/joyform.co","promotion":{"upgrade_url":"https:\/\/go.elementor.com\/go-pro-theme-builder\/"},"site-editor":[],"import-export":[],"import-export-customization":[],"kit-library":[],"onboarding":[]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://joyform.co/wp-content/plugins/elementor/assets/js/app-loader.min.js" id="elementor-app-loader-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/plugins/contact-form-7/includes/swv/js/index.js" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/joyform.co\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://joyform.co/wp-content/plugins/contact-form-7/includes/js/index.js" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/themes/sala/assets/libs/isotope/js/isotope.pkgd.min.js" id="isotope-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/themes/sala/assets/libs/infinite-scroll/infinite-scroll.pkgd.min.js" id="infinite-scroll-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/themes/sala/assets/libs/packery/packery-mode.pkgd.min.js" id="packery-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/themes/sala/assets/libs/atropos/atropos.min.js" id="atropos-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js" id="swiper-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/themes/sala/assets/libs/growl/js/jquery.growl.min.js" id="growl-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/themes/sala/assets/libs/waypoints/jquery.waypoints.js" id="waypoints-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/themes/sala/assets/libs/smartmenus/jquery.smartmenus.js" id="smartmenus-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/themes/sala/assets/libs/smooth-scroll/SmoothScroll.min.js" id="smooth-scroll-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/themes/sala/assets/libs/smooth-scroll/jquery.smooth-scroll.min.js" id="jquery-smooth-scroll-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/themes/sala/assets/libs/validate/jquery.validate.min.js" id="validate-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/themes/sala/assets/libs/elastic-stack/js/modernizr.custom.js" id="modernizr-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/themes/sala/assets/libs/elastic-stack/js/draggabilly.pkgd.min.js" id="elastic-stack-pkgd-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/themes/sala/assets/libs/elastic-stack/js/elastiStack.js" id="elastic-stack-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/themes/sala/assets/libs/jquery-nice-select/js/jquery.nice-select.min.js" id="nice-select-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/themes/sala/assets/libs/elastic-stack/js/jquery.windy.js" id="windy-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/themes/sala/assets/libs/flickity/js/flickity.pkgd.min.js" id="flickity-marquee-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/themes/sala/assets/libs/jquery.countdown/js/jquery.countdownTimer.js" id="countdown-js"></script>
+<script type="text/javascript" id="sala-vendor-js-js-extra">
+/* <![CDATA[ */
+var theme_vars = {"ajax_url":"https:\/\/joyform.co\/wp-admin\/admin-ajax.php","header_sticky":"1","content_protected_enable":"0","scroll_top_enable":"0","send_user_info":"Sending user info,please wait...","notice_cookie_enable":"","notice_cookie_confirm":"no","notice_cookie_messages":"<i class=\"fal fa-cookie-bite\"><\/i><p>We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.<\/p><a id=\"sala-button-cookie-notice-ok\" class=\"sala-button full-filled size-xs wide\">Accept all cookies<\/a>","prevText":"Prev","nextText":"Next","validator_required":"This field is required","validator_remote":"Please fix this field","validator_email":"A valid email address is required","validator_url":"Please enter a valid URL","validator_dateISO":"Please enter a valid date (ISO)","validator_number":"Please enter a valid number","validator_digits":"Please enter only digits","validator_creditcard":"Please enter a valid credit card number","validator_equalTo":"Please enter the same value again","validator_accept":"Please enter a value with a valid extension","validator_maxlength":"Please enter no more than {0} characters","validator_minlength":"Please enter at least {0} characters","validator_rangelength":"Please enter a value between {0} and {1} characters long","validator_range":"Please enter a value between {0} and {1}","validator_max":"Please enter a value less than or equal to {0}","validator_min":"Please enter a value greater than or equal to {0}"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://joyform.co/wp-content/themes/sala/assets/js/vendor.min.js" id="sala-vendor-js-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/plugins/elementor/assets/js/frontend-modules.min.js" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-before">
+/* <![CDATA[ */
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},
+"hasCustomBreakpoints":false},"version":"3.32.4","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"landing-pages":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"import-export-customization":true},"urls":{"assets":"https:\/\/joyform.co\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/joyform.co\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/joyform.co\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"b20ce9ae9c"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":19717,"title":"Joyform%20%2B%20Zapier%20-%20Joyform","excerpt":"","featuredImage":false},"user":{"roles":["administrator"]}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://joyform.co/wp-content/plugins/elementor/assets/js/frontend.min.js" id="elementor-frontend-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-content/themes/sala//inc/elementor/assets/js/widgets/widget-list.js" id="sala-widget-list-js"></script>
+<script type="text/javascript" id="elementor-admin-bar-js-before">
+/* <![CDATA[ */
+var elementorAdminBarConfig = {"elementor_edit_page":{"id":"elementor_edit_page","title":"Edit with Elementor","href":"https:\/\/joyform.co\/wp-admin\/post.php?post=19717&action=elementor","children":{"5690":{"id":"elementor_edit_doc_5690","title":"Footer 01","sub_title":"Post","href":"https:\/\/joyform.co\/wp-admin\/post.php?post=5690&action=elementor"},"5691":{"id":"elementor_site_settings","title":"Site Settings","sub_title":"Site","href":"https:\/\/joyform.co\/wp-admin\/post.php?post=19717&action=elementor&active-document=20626","class":"elementor-site-settings","parent_class":"elementor-second-section"},"5692":{"id":"elementor_app_site_editor","title":"Theme Builder","sub_title":"Site","href":"https:\/\/joyform.co\/wp-admin\/admin.php?page=elementor-app&ver=3.32.4#site-editor\/promotion","class":"elementor-app-link","parent_class":"elementor-second-section"},"5693":{"id":"elementor_site_clear_cache","title":"Clear Files &amp; Data","sub_title":"Site","href":"https:\/\/joyform.co\/wp-admin\/admin-post.php?action=elementor_site_clear_cache&_wpnonce=e35ac61b6e"}}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://joyform.co/wp-content/plugins/elementor/assets/js/elementor-admin-bar.min.js" id="elementor-admin-bar-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-includes/js/hoverintent-js.min.js" id="hoverintent-js-js"></script>
+<script type="text/javascript" src="https://joyform.co/wp-includes/js/admin-bar.min.js" id="admin-bar-js"></script>
+
+
+<!-- Meta Pixel Code -->
+<script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window, document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '526854042782363');
+	fbq('track', 'PageView');
+</script>
+<noscript>
+	<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=526854042782363&ev=PageView&noscript=1"/>
+</noscript>
+<!-- End Meta Pixel Code -->
+
+<script type="text/javascript">
+	(function(c,l,a,r,i,t,y){
+		c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+		t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+		y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+	})(window, document, "clarity", "script", "egtkexq14z");
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DYJBQVEFZJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DYJBQVEFZJ');
+</script>
+</body>
+</html>
