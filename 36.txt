@@ -1,0 +1,1061 @@
+
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	
+	<title>system &#8211; Helpsy</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//client.crisp.chat' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Helpsy &raquo; Kanał z wpisami" href="https://helpsy.pl/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Helpsy &raquo; Kanał z wpisami, których autorem jest system" href="https://helpsy.pl/author/system/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/helpsy.pl\/wp-includes\/js\/wp-emoji-release.min.js"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://helpsy.pl/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-vendors-style-css' href='https://helpsy.pl/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-all-blocks-style-css' href='https://helpsy.pl/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-all-blocks-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://helpsy.pl/wp-includes/css/classic-themes.min.css' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://helpsy.pl/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='walcf7-datepicker-css-css' href='https://helpsy.pl/wp-content/plugins/date-time-picker-for-contact-form-7/assets/css/jquery.datetimepicker.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css' href='https://helpsy.pl/wp-content/plugins/uxper-crypto/assets/libs/select2/css/select2.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='uxper_crypto_-template-css' href='https://helpsy.pl/wp-content/plugins/uxper-crypto/assets/css/_template.css' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://helpsy.pl/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://helpsy.pl/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://helpsy.pl/wp-content/plugins/woocommerce/assets/css/woocommerce.css' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='sala-minified-style-css' href='https://helpsy.pl/wp-content/themes/sala/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sala-style-css' href='https://helpsy.pl/wp-content/themes/sala/style.min.css' type='text/css' media='all' />
+<style id='sala-style-inline-css' type='text/css'>
+.lg-backdrop{}
+</style>
+<link rel='stylesheet' id='sala-child-style-css' href='https://helpsy.pl/wp-content/themes/sala-child/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-all-css' href='https://helpsy.pl/wp-content/themes/sala/assets/fonts/font-awesome/css/fontawesome-all.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='atropos-css' href='https://helpsy.pl/wp-content/themes/sala/assets/libs/atropos/atropos.css' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://helpsy.pl/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='growl-css' href='https://helpsy.pl/wp-content/themes/sala/assets/libs/growl/css/jquery.growl.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='nice-select-css' href='https://helpsy.pl/wp-content/themes/sala/assets/libs/jquery-nice-select/css/nice-select.css' type='text/css' media='all' />
+<link rel='stylesheet' id='flickity-marquee-css' href='https://helpsy.pl/wp-content/themes/sala/assets/libs/flickity/css/flickity.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sala-font-poppins-css' href='https://helpsy.pl/wp-content/themes/sala/assets/fonts/poppins/stylesheet.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://helpsy.pl/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://helpsy.pl/wp-json/" /><link rel="alternate" type="application/json" href="https://helpsy.pl/wp-json/wp/v2/users/1" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://helpsy.pl/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://helpsy.pl/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.2" />
+<meta name="generator" content="WooCommerce 8.1.1" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WQMNP49');</script>
+<!-- End Google Tag Manager -->	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Elementor 3.16.4; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-internal, google_font-enabled, font_display-swap">
+<link rel="icon" href="https://helpsy.pl/wp-content/uploads/2021/06/helpsy-logo-opaque1-FAV.png" sizes="32x32" />
+<link rel="icon" href="https://helpsy.pl/wp-content/uploads/2021/06/helpsy-logo-opaque1-FAV.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://helpsy.pl/wp-content/uploads/2021/06/helpsy-logo-opaque1-FAV.png" />
+<meta name="msapplication-TileImage" content="https://helpsy.pl/wp-content/uploads/2021/06/helpsy-logo-opaque1-FAV.png" />
+		<style type="text/css" id="wp-custom-css">
+			.sala-pricing-plan-header {display:none;}		</style>
+		<style id="kirki-inline-styles">.site-logo img{width:200px;}.page-loading-effect{background-color:#fff;}.sala-ldef-circle > span,.sala-ldef-facebook span,.sala-ldef-heart span,.sala-ldef-heart span:after, .sala-ldef-heart span:before,.sala-ldef-roller span:after,.sala-ldef-default span,.sala-ldef-ellipsis span, .sala-ldef-grid span,.sala-ldef-spinner span:after{background-color:#0057fc;}.sala-ldef-ripple span{border-color:#0057fc;}.sala-ldef-dual-ring:after,.sala-ldef-ring span,.sala-ldef-hourglass:after{border-top-color:#0057fc;}.sala-ldef-dual-ring:after,.sala-ldef-hourglass:after{border-bottom-color:#0057fc;}body{font-family:Sofia Pro;font-size:16px;font-weight:400;letter-spacing:inherit;line-height:1.63;color:#555555;}h1,h2,h3,h4,h5,h6,.heading-font,strong{font-family:Poppins;font-weight:700;letter-spacing:inherit;line-height:inherit;}h1{font-size:56px;}h2{font-size:40px;}h3{font-size:32px;}h4{font-size:24px;}h5{font-size:18px;}h6{font-size:16px;}.accent-color,.sala-blog-categories li.active a,.sala-pagination li .page-numbers.current,.sala-pagination li a:hover{color:#0057fc;}.sala-blog-categories li.active a, .wp-block-search .wp-block-search__button, .sala-swiper .swiper-nav-button:hover,blockquote, select:focus,textarea:focus, input[type="text"]:focus,input[type="email"]:focus, input[type="password"]:focus,input[type="number"]:focus, input[type="search"]:focus{border-color:#0057fc;}.page-scroll-up,.widget_calendar #today,.widget .tagcloud a:hover,.widget_search .search-submit:hover,.sala-swiper .swiper-nav-button:hover, .widget_product_search .search-submit:hover,.search-form .search-submit:hover,.single .post-tags a:hover,.wp-block-search .wp-block-search__button,.wp-block-tag-cloud a:hover{background-color:#0057fc;}h1,h2,h3,h4,h5,h6,.heading-font,strong,b{color:#111111;}a{color:#111111;}a:hover,a:focus,.widget_rss li a:hover{color:#0057fc;}.main-menu.desktop-menu .menu > li > a .menu-item-wrap::after{border-color:#0057fc;}.sala-button{font-size:15px;letter-spacing:1px;line-height:1.4;text-transform:uppercase;}.sala-button.underline{color:#1a1a1a;background-color:#0057fc;padding-top:0px;padding-right:0px;padding-bottom:6px;padding-left:0px;border-style:solid;border-color:#1a1a1a;border-top-width:0px;border-right-width:0px;border-bottom-width:1px;border-left-width:0px;-webkit-border-radius:0px;-moz-border-radius:0px;border-radius:0px;}.sala-button.underline:hover,.sala-button.underline:focus{color:#0057fc;}.sala-button.full-filled{color:#ffffff;background-color:#0057fc;padding-top:11px;padding-right:32px;padding-bottom:11px;padding-left:32px;border-style:none;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}.sala-button.full-filled:hover,.sala-button.full-filled:focus{color:#ffffff;}.sala-button.full-filled:hover{background-color:#b74545;}.sala-button.line{color:#1a1a1a;background-color:#0057fc;padding-top:11px;padding-right:32px;padding-bottom:11px;padding-left:32px;border-style:solid;border-color:#1a1a1a;border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-left-width:1px;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}.sala-button.line:hover,.sala-button.line:focus{color:#0057fc;}html{background-color:#ffffff;background-repeat:no-repeat;background-position:left top;background-attachment:scroll;-webkit-background-size:auto;-moz-background-size:auto;-ms-background-size:auto;-o-background-size:auto;background-size:auto;}.error404{background:#fff;background-color:#fff;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}header.site-header .header-button-01 a.sala-button{color:#fff;background-color:#0057fc;border-style:none;text-transform:none;max-width:300px;padding-top:11px;padding-right:32px;padding-bottom:11px;padding-left:32px;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}header.site-header .header-account a.sala-button{border-style:none;text-transform:none;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}.ux-element.desktop-menu .menu>li>a{font-size:18px;padding-top:20px;padding-right:0px;padding-bottom:20px;padding-left:20px;}header.site-header .ux-element.canvas-menu .bg-overlay{background-color:rgba( 0, 0, 0, 0.8);}.ux-element.canvas-menu .icon-menu{color:#1a1a1a;border-style:none;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}.ux-element.canvas-menu .icon-menu circle{fill:#1a1a1a;}header.site-header .ux-element.canvas-mb-menu .bg-overlay{background-color:rgba( 0, 0, 0, 0.8);}.ux-element.canvas-mb-menu .icon-menu{color:#1a1a1a;border-style:none;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}.ux-element.header-lang .inner-lang{border-style:none;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}.ux-element.header-search-icon .icon-search a{color:#ffffff;font-size:16px;border-style:none;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;-webkit-border-radius:0px;-moz-border-radius:0px;border-radius:0px;}.ux-element.header-search-input .area-search{border-style:solid;border-width:1px;border-color:#666666;}.ux-element.header-search-input .input-search{padding-top:8px;padding-right:50px;padding-bottom:8px;padding-left:10px;-webkit-border-radius:0px;-moz-border-radius:0px;border-radius:0px;}.ux-element.header-search-input{width:70%;}.ux-element.header-search-input .icon-search{font-size:16px;color:#0057fc;}.ux-element.header-device>span{background:#0d0909;width:1px;height:30px;-webkit-border-radius:0px;-moz-border-radius:0px;border-radius:0px;}.header-custom-html-01{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:16px;line-height:1.75;}.header-custom-html-02{color:#4c4c4c;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:16px;line-height:1.75;}.page-title-01 .page-title-bg{background:#f8f9fc;background-color:#f8f9fc;background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-title-01 .page-title-bg:before{background-color:rgba(0, 0, 0, 0);}.page-title-01 .page-title-inner{border-bottom-width:0px;border-bottom-color:rgba(0, 0, 0, 0);padding-top:80px;padding-bottom:80px;}.page-title.page-title-01{margin-bottom:0px;}.page-title-01 .heading{font-size:64px;line-height:1.31;color:#111111;}.page-title-01 .sala_breadcrumb li, .page-title-01 .sala_breadcrumb li a{font-size:16px;line-height:1.31;}.page-title-01 .sala_breadcrumb li{color:#111111;}.page-title-01 .sala_breadcrumb a{color:#555555;}.page-title-01 .sala_breadcrumb a:hover{color:#111111;}.page-title-01 .sala_breadcrumb li + li:before{color:#555555;}.page-title-02 .page-title-bg{background:#f8f9fc;background-color:#f8f9fc;background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-title-02 .page-title-bg:before{background-color:rgba(0, 0, 0, 0);}.page-title-02 .page-title-inner{border-bottom-width:0px;border-bottom-color:rgba(0, 0, 0, 0);padding-top:80px;padding-bottom:80px;}.page-title.page-title-02{margin-bottom:50px;}.page-title-02 .heading{font-size:64px;line-height:1.31;color:#111111;}.page-title-02 .sala_breadcrumb li, .page-title-02 .sala_breadcrumb li a{font-size:16px;line-height:1.31;}.page-title-02 .sala_breadcrumb li{color:#111111;}.page-title-02 .sala_breadcrumb a{color:#555555;}.page-title-02 .sala_breadcrumb a:hover{color:#111111;}.page-title-02 .sala_breadcrumb li + li:before{color:#555555;}.page-title-03 .page-title-bg{background:#f8f9fc;background-color:#f8f9fc;background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-title-03 .page-title-bg:before{background-color:rgba(0, 0, 0, 0);}.page-title-03 .page-title-inner{border-bottom-width:0px;border-bottom-color:rgba(0, 0, 0, 0);padding-top:80px;padding-bottom:80px;}.page-title.page-title-03{margin-bottom:0px;}.page-title-03 .heading{font-size:64px;line-height:1.31;color:#111111;}.page-title-03 .sala_breadcrumb li, .page-title-03 .sala_breadcrumb li a{font-size:16px;line-height:1.31;}.page-title-03 .sala_breadcrumb li{color:#111111;}.page-title-03 .sala_breadcrumb a{color:#555555;}.page-title-03 .sala_breadcrumb a:hover{color:#111111;}.page-title-03 .sala_breadcrumb li + li:before{color:#555555;}.page-title-04 .page-title-bg{background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-title-04 .page-title-bg:before{background-color:rgba(0, 0, 0, 0);}.page-title-04 .page-title-inner{border-bottom-width:0px;border-bottom-color:rgba(0, 0, 0, 0);padding-top:80px;padding-bottom:80px;}.page-title.page-title-04{margin-bottom:0px;}.page-title-04 .heading{font-size:56px;line-height:1.11;color:#111111;}.page-title-04 .sala_breadcrumb li, .page-title-04 .sala_breadcrumb li a{font-size:16px;line-height:1.75;}.page-title-04 .sala_breadcrumb li{color:#111111;}.page-title-04 .sala_breadcrumb a{color:#555555;}.page-title-04 .sala_breadcrumb a:hover{color:#111111;}.page-title-04 .sala_breadcrumb li + li:before{color:#555555;}@media (max-width: 1199px){.page-title-01 .page-title-inner .heading{font-size:56px;}.page-title-01 .page-title-inner{padding-top:80px;padding-bottom:80px;}.page-title.page-title-01{margin-bottom:50px;}.page-title-02 .page-title-inner .heading{font-size:56px;}.page-title-02 .page-title-inner{padding-top:80px;padding-bottom:80px;}.page-title.page-title-02{margin-bottom:50px;}.page-title-03 .page-title-inner .heading{font-size:56px;}.page-title-03 .page-title-inner{padding-top:80px;padding-bottom:80px;}.page-title.page-title-03{margin-bottom:50px;}.page-title-04 .page-title-inner .heading{font-size:56px;}.page-title-04 .page-title-inner{padding-top:80px;padding-bottom:80px;}.page-title.page-title-04{margin-bottom:50px;}}@media (max-width: 991px){.page-title-01 .page-title-inner .heading{font-size:56px;}.page-title-01 .page-title-inner{padding-top:80px;padding-bottom:80px;}.page-title.page-title-01{margin-bottom:30px;}.page-title-02 .page-title-inner .heading{font-size:56px;}.page-title-02 .page-title-inner{padding-top:80px;padding-bottom:80px;}.page-title.page-title-02{margin-bottom:30px;}.page-title-03 .page-title-inner .heading{font-size:56px;}.page-title-03 .page-title-inner{padding-top:80px;padding-bottom:80px;}.page-title.page-title-03{margin-bottom:30px;}.page-title-04 .page-title-inner .heading{font-size:56px;}.page-title-04 .page-title-inner{padding-top:80px;padding-bottom:80px;}.page-title.page-title-04{margin-bottom:30px;}}@media (max-width: 767px){.page-title-01 .page-title-inner .heading{font-size:40px;}.page-title-01 .page-title-inner{padding-top:60px;padding-bottom:60px;}.page-title.page-title-01{margin-bottom:30px;}.page-title-02 .page-title-inner .heading{font-size:40px;}.page-title-02 .page-title-inner{padding-top:80px;padding-bottom:80px;}.page-title.page-title-02{margin-bottom:30px;}.page-title-03 .page-title-inner .heading{font-size:40px;}.page-title-03 .page-title-inner{padding-top:60px;padding-bottom:60px;}.page-title.page-title-03{margin-bottom:30px;}.page-title-04 .page-title-inner .heading{font-size:40px;}.page-title-04 .page-title-inner{padding-top:60px;padding-bottom:60px;}.page-title.page-title-04{margin-bottom:0px;}}/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmv1pVFteIYktMqlap.woff) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmv1pVGdeIYktMqlap.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmv1pVF9eIYktMqg.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLm21lVFteIYktMqlap.woff) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLm21lVGdeIYktMqlap.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLm21lVF9eIYktMqg.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiGyp8kv8JHgFVrJJLucXtGOvWDSHFF.woff) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiGyp8kv8JHgFVrJJLufntGOvWDSHFF.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiGyp8kv8JHgFVrJJLucHtGOvWDSA.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmg1hVFteIYktMqlap.woff) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmg1hVGdeIYktMqlap.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmg1hVF9eIYktMqg.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmr19VFteIYktMqlap.woff) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmr19VGdeIYktMqlap.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmr19VF9eIYktMqg.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmy15VFteIYktMqlap.woff) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmy15VGdeIYktMqlap.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmy15VF9eIYktMqg.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLm111VFteIYktMqlap.woff) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLm111VGdeIYktMqlap.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLm111VF9eIYktMqg.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLm81xVFteIYktMqlap.woff) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLm81xVGdeIYktMqlap.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLm81xVF9eIYktMqg.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLFj_Z11lE92JQEl8qw.woff) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLFj_Z1JlE92JQEl8qw.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLFj_Z1xlE92JQEk.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLDz8Z11lE92JQEl8qw.woff) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLDz8Z1JlE92JQEl8qw.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLDz8Z1xlE92JQEk.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJbedHFHGPezSQ.woff) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJnedHFHGPezSQ.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJfedHFHGPc.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLGT9Z11lE92JQEl8qw.woff) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLGT9Z1JlE92JQEl8qw.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLGT9Z1xlE92JQEk.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLEj6Z11lE92JQEl8qw.woff) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLEj6Z1JlE92JQEl8qw.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLEj6Z1xlE92JQEk.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLCz7Z11lE92JQEl8qw.woff) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLCz7Z1JlE92JQEl8qw.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLCz7Z1xlE92JQEk.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLDD4Z11lE92JQEl8qw.woff) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLDD4Z1JlE92JQEl8qw.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLDD4Z1xlE92JQEk.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLBT5Z11lE92JQEl8qw.woff) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLBT5Z1JlE92JQEl8qw.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://helpsy.pl/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLBT5Z1xlE92JQEk.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style></head>
+
+<body class="archive author author-system author-1 wp-custom-logo theme-sala woocommerce-no-js fullwidth page-title-04 elementor-default elementor-kit-3655">
+
+
+	<div id="page-preloader" class="page-loading-effect">
+		<div class="bg-overlay"></div>
+
+		<div class="page-loading-inner">
+							<span class="sala-ldef-ring sala-ldef-loading"><span></span><span></span><span></span><span></span></span>			
+					</div>
+	</div>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WQMNP49"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+	<div id="wrapper">
+
+						<div id="canvas-search" class="sala-popup popup-search">
+					<div class="bg-overlay"></div>
+					<a href="#" class="btn-canvas-menu btn-close"><i class="fal fa-times"></i></a>
+					<div class="inner-popup">
+										<div class="search-form ajax-search-form">
+					<form action="https://helpsy.pl/" method="get" class="search-form">
+						<div class="area-search form-field">
+							<button type="submit" class="icon-search"><i class="far fa-search large"></i></button>
+							<div class="form-field input-field">
+								<input name="s" class="input-search" type="text" value="" placeholder="Search..." autocomplete="off" />
+								<input type="hidden" name="post_type" class="post-type" value="post"/>
+								<div class="search-result area-result"></div>
+								<div class="sala-loading-effect"><span class="sala-dual-ring"></span></div>
+
+																							</div>
+						</div>
+					</form>
+				</div>
+								</div>
+				</div>
+			
+		
+				
+			<header class="site-header header-float header-light header-02" data-section="header-02">
+				<div class="sala-builder">
+	<div class="row main-row container">
+		<div class="column-wrap left-header" data-col="50" data-md-col="50" data-sm-col="50">
+						<div class="site-logo ux-element" data-id="site-logo">
+					                <a href="https://helpsy.pl/" title="Helpsy">
+						<img class="site-main-logo" src="https://helpsy.pl/wp-content/uploads/2023/08/helpsy-logo-opaque1-FAV2.png" data-retina="https://helpsy.pl/wp-content/uploads/2023/08/helpsy-logo-opaque1-FAV2.png" alt="Helpsy">
+						<img class="site-dark-logo hide" src="https://helpsy.pl/wp-content/uploads/2023/08/helpsy-logo-opaque1-FAV2.png" data-retina="https://helpsy.pl/wp-content/uploads/2023/08/helpsy-logo-opaque1-FAV2.png" alt="Helpsy">
+					</a>
+	            			</div>
+					</div>
+
+		<div class="column-wrap right-header" data-col="50" data-md-col="50" data-sm-col="50">
+							<div class="canvas-menu ux-element mb-menu skin-default canvas-left" data-id="canvas-menu-02">
+					<a href="#" class="icon-menu">
+						<svg fill="none" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+							<circle cx="3" cy="3" r="3" fill="#333333"></circle>
+							<circle cx="3" r="3" fill="#333333" cy="13"></circle>
+							<circle cy="3" r="3" fill="#333333" cx="13"></circle>
+							<circle r="3" fill="#333333" cx="13" cy="13"></circle>
+						</svg>
+					</a>
+
+									<div class="bg-overlay"></div>
+
+				<div class="site-menu area-menu mobile-menu mobile-menu-02">
+
+					<div class="inner-menu custom-scrollbar">
+						<div class="container">
+							<div class="entry-top">
+								<a href="https://helpsy.pl/" title="Helpsy">
+									<img class="site-dark-logo" src="https://helpsy.pl/wp-content/uploads/2023/08/helpsy-logo-opaque1-FAV2.png" data-retina="https://helpsy.pl/wp-content/uploads/2023/08/helpsy-logo-opaque1-FAV2.png" alt="Helpsy">
+								</a>
+								<a href="#" class="btn-canvas-menu btn-close"><i class="fal fa-times-circle"></i></a>
+							</div>
+						</div>
+						<div class="entry-mid">
+							<ul id="menu-landingmenu" class="menu"><li id="menu-item-17744" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17744 level-1"><a href="/#dla-kogo"><div class="menu-item-wrap"><span class="menu-item-title">Dla kogo</span></div></a></li>
+<li id="menu-item-17747" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17747 level-1"><a href="/#funkcjonalnosci"><div class="menu-item-wrap"><span class="menu-item-title">Funkcje systemu</span></div></a></li>
+<li id="menu-item-17746" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17746 level-1"><a href="/#odkryj-helpsy"><div class="menu-item-wrap"><span class="menu-item-title">Czemu warto</span></div></a></li>
+<li id="menu-item-18155" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18155 level-1"><a href="/#cennik"><div class="menu-item-wrap"><span class="menu-item-title">Cennik</span></div></a></li>
+</ul>						</div>
+
+						<div class="entry-bottom align-center">
+													</div>
+					</div>
+				</div>
+							</div>
+					</div>
+	</div>
+</div>
+			</header>
+
+			
+		<div id="page-title" class="page-title page-title-04">
+	<div class="page-title-inner">
+		<div class="page-title-bg"></div>
+
+		<div class="container">
+			<div class="row row-xs-center">
+				<div class="col-md-12">
+								<div class="page-title-heading">
+				<h1 class="heading heading-font">				Author: <span class="vcard">system</span>				</h1>			</div>
+												</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="site-content">
+
+	<div class="container">
+
+		<div class="row">
+
+			
+			<div id="primary" class="content-area">
+
+				
+	<div class="main-content">
+
+		
+		
+		<div class="sala-grid-wrapper sala-blog-wrapper" data-pagination="navigation">
+
+			<div class="sala-grid sala-blog sala-animate-zoom-in sala-blog-grid grid-lg-3 grid-md-2 grid-sm-1 post-18166 post type-post status-publish format-standard has-post-thumbnail hentry category-dzialania-spoleczne tag-rozwoj tag-umiejetnosci-spoleczne"  data-grid="{&quot;type&quot;:&quot;grid&quot;,&quot;columns&quot;:&quot;3&quot;,&quot;columnsTablet&quot;:&quot;2&quot;,&quot;columnsMobile&quot;:&quot;1&quot;,&quot;gutter&quot;:30,&quot;gutterTablet&quot;:30}">
+
+				<div class="grid-sizer"></div>
+
+				<article id="post-18166" class="grid-item sala-box post-18166 post type-post status-publish format-standard has-post-thumbnail hentry category-dzialania-spoleczne tag-rozwoj tag-umiejetnosci-spoleczne">
+	<div class="inner-post-wrap">
+
+		<div class="post-thumbnail sala-image">
+	<a href="https://helpsy.pl/2023/06/15/jak-zwiekszyc-efektywnosc-dzialania-srodowiskowego-domu-samopomocy/">
+		<img src="https://helpsy.pl/wp-content/uploads/2023/06/people-attending-self-help-therapy-group-meeting-i-2021-08-26-16-13-29-utc-scaled-740x740.jpg" alt="Jak zwiększyć efektywność działania Środowiskowego Domu Samopomocy?">
+	</a>
+</div>
+
+		<div class="post-detail">
+			<div class="post-meta">
+		<div class="post-cate">
+		<ul class="post-categories">
+	<li><a href="https://helpsy.pl/category/dzialania-spoleczne/" rel="category tag">Działania społeczne</a></li></ul>	</div>
+		
+	
+		
+	</div>
+
+						<div class="post-title">
+				<h3 class="entry-title heading-font"><a href="https://helpsy.pl/2023/06/15/jak-zwiekszyc-efektywnosc-dzialania-srodowiskowego-domu-samopomocy/" rel="bookmark">Jak zwiększyć efektywność działania Środowiskowego Domu Samopomocy?</a></h3>							</div>
+			
+			<div class="post-excerpt">
+	<p>Środowiskowe Domy Samopomocy pełnią ważną rolę w życiu osób z niepełnosprawnościami intelektualnymi oraz zaburzeniami psychicznymi,...</p>
+</div>
+
+			<div class="btn-readmore">
+	<a href="https://helpsy.pl/2023/06/15/jak-zwiekszyc-efektywnosc-dzialania-srodowiskowego-domu-samopomocy/">
+		Read More	</a>
+</div>
+		</div>
+
+	</div>
+</article>
+<article id="post-6515" class="grid-item sala-box post-6515 post type-post status-publish format-standard has-post-thumbnail hentry category-dzialania-spoleczne tag-rozwoj tag-umiejetnosci-spoleczne">
+	<div class="inner-post-wrap">
+
+		<div class="post-thumbnail sala-image">
+	<a href="https://helpsy.pl/2023/06/15/wspieranie-rozwoju-umiejetnosci-spolecznych-u-osob-z-niepelnosprawnosciami-intelektualnymi/">
+		<img src="https://helpsy.pl/wp-content/uploads/2021/08/handicapped-man-2021-09-24-01-19-08-utc-scaled-740x740.jpg" alt="Wspieranie rozwoju umiejętności społecznych u osób z niepełnosprawnościami intelektualnymi">
+	</a>
+</div>
+
+		<div class="post-detail">
+			<div class="post-meta">
+		<div class="post-cate">
+		<ul class="post-categories">
+	<li><a href="https://helpsy.pl/category/dzialania-spoleczne/" rel="category tag">Działania społeczne</a></li></ul>	</div>
+		
+	
+		
+	</div>
+
+						<div class="post-title">
+				<h3 class="entry-title heading-font"><a href="https://helpsy.pl/2023/06/15/wspieranie-rozwoju-umiejetnosci-spolecznych-u-osob-z-niepelnosprawnosciami-intelektualnymi/" rel="bookmark">Wspieranie rozwoju umiejętności społecznych u osób z niepełnosprawnościami intelektualnymi</a></h3>							</div>
+			
+			<div class="post-excerpt">
+	<p>W dzisiejszym społeczeństwie coraz większą uwagę przykłada się do integracji osób z niepełnosprawnościami intelektualnymi. Niepełnosprawność...</p>
+</div>
+
+			<div class="btn-readmore">
+	<a href="https://helpsy.pl/2023/06/15/wspieranie-rozwoju-umiejetnosci-spolecznych-u-osob-z-niepelnosprawnosciami-intelektualnymi/">
+		Read More	</a>
+</div>
+		</div>
+
+	</div>
+</article>
+<article id="post-18162" class="grid-item sala-box post-18162 post type-post status-publish format-standard has-post-thumbnail hentry category-dzialania-spoleczne tag-rozwoj tag-umiejetnosci-spoleczne">
+	<div class="inner-post-wrap">
+
+		<div class="post-thumbnail sala-image">
+	<a href="https://helpsy.pl/2023/05/15/innowacyjne-metody-terapii-zajeciowej-praktyczne-podejscia-i-narzedzia/">
+		<img src="https://helpsy.pl/wp-content/uploads/2021/08/man-with-mobility-handicap-2022-11-24-20-36-34-utc-scaled-740x740.jpg" alt="Innowacyjne metody terapii zajęciowej &#8211; praktyczne podejścia i narzędzia">
+	</a>
+</div>
+
+		<div class="post-detail">
+			<div class="post-meta">
+		<div class="post-cate">
+		<ul class="post-categories">
+	<li><a href="https://helpsy.pl/category/dzialania-spoleczne/" rel="category tag">Działania społeczne</a></li></ul>	</div>
+		
+	
+		
+	</div>
+
+						<div class="post-title">
+				<h3 class="entry-title heading-font"><a href="https://helpsy.pl/2023/05/15/innowacyjne-metody-terapii-zajeciowej-praktyczne-podejscia-i-narzedzia/" rel="bookmark">Innowacyjne metody terapii zajęciowej &#8211; praktyczne podejścia i narzędzia</a></h3>							</div>
+			
+			<div class="post-excerpt">
+	<p>Terapia zajęciowa jest niezwykle istotnym narzędziem w pracy z osobami z niepełnosprawnościami intelektualnymi. Pozwala ona...</p>
+</div>
+
+			<div class="btn-readmore">
+	<a href="https://helpsy.pl/2023/05/15/innowacyjne-metody-terapii-zajeciowej-praktyczne-podejscia-i-narzedzia/">
+		Read More	</a>
+</div>
+		</div>
+
+	</div>
+</article>
+
+			</div>
+
+			
+		</div>
+
+	</div>
+
+
+			</div>
+
+			
+		</div>
+
+	</div>
+
+</div>
+
+
+	
+	
+	<footer id="footer" class="site-footer">
+				<div data-elementor-type="wp-post" data-elementor-id="5690" class="elementor elementor-5690">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-341769a elementor-section-stretched border-01 elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch" data-id="341769a" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c368613" data-id="c368613" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c2e4f8c elementor-widget elementor-widget-sala-site-logo" data-id="c2e4f8c" data-element_type="widget" data-widget_type="sala-site-logo.default">
+				<div class="elementor-widget-container">
+					<div class="site-logo ux-element" data-id="site-logo">
+							<a href="https://helpsy.pl/" title="Helpsy">
+					<img class="site-main-logo" src="https://helpsy.pl/wp-content/uploads/2023/08/helpsy-logo-opaque1-FAV2.png" data-retina="https://helpsy.pl/wp-content/uploads/2023/08/helpsy-logo-opaque1-FAV2.png" alt="Helpsy">
+					<img class="site-dark-logo hide" src="https://helpsy.pl/wp-content/uploads/2023/08/helpsy-logo-opaque1-FAV2.png" data-retina="https://helpsy.pl/wp-content/uploads/2023/08/helpsy-logo-opaque1-FAV2.png" alt="Helpsy">
+				</a>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3125e16 sala-list-layout-block elementor-widget elementor-widget-sala-list" data-id="3125e16" data-element_type="widget" data-widget_type="sala-list.default">
+				<div class="elementor-widget-container">
+					<div class="sala-list" data-id="">
+								<div class="item">
+
+						<a class="link" href="/#dla-kogo">
+						<div class="list-header">
+															<div class="sala-icon icon">
+									<i aria-hidden="true" class="fas fa-dot-circle"></i>								</div>
+							
+							<div class="text-wrap">
+																	<div class="text">
+										Dla kogo jest Helpsy?									</div>
+															</div>
+
+													</div>
+
+						</a>
+					</div>
+										<div class="item">
+
+						<a class="link" href="/#funkcjonalnosci">
+						<div class="list-header">
+															<div class="sala-icon icon">
+									<i aria-hidden="true" class="fas fa-dot-circle"></i>								</div>
+							
+							<div class="text-wrap">
+																	<div class="text">
+										Najważniejsze funkcje systemu									</div>
+															</div>
+
+													</div>
+
+						</a>
+					</div>
+										<div class="item">
+
+						<a class="link" href="/#odkryj-helpsy">
+						<div class="list-header">
+															<div class="sala-icon icon">
+									<i aria-hidden="true" class="fas fa-dot-circle"></i>								</div>
+							
+							<div class="text-wrap">
+																	<div class="text">
+										Czemu warto?									</div>
+															</div>
+
+													</div>
+
+						</a>
+					</div>
+										<div class="item">
+
+						<a class="link" href="/#cennik">
+						<div class="list-header">
+															<div class="sala-icon icon">
+									<i aria-hidden="true" class="fas fa-dot-circle"></i>								</div>
+							
+							<div class="text-wrap">
+																	<div class="text">
+										Cennik									</div>
+															</div>
+
+													</div>
+
+						</a>
+					</div>
+							</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b3e0d32 elementor-widget elementor-widget-text-editor" data-id="b3e0d32" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.16.0 - 20-09-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><span style="color: var( --e-global-color-text ); font-size: 16px; letter-spacing: inherit;"><br />Helpsy by edgeteq sp. z o.o.<br /></span><span style="color: var( --e-global-color-text ); font-size: 16px; letter-spacing: inherit;">ul. Rolna 159A<br /></span><span style="color: var( --e-global-color-text ); font-size: 16px; letter-spacing: inherit;">02-729 Warszawa<br /></span><span style="color: var( --e-global-color-text ); font-size: 16px; letter-spacing: inherit;">NIP 521-364-64-09</span></p><p><span style="color: var( --e-global-color-text ); font-size: 16px; letter-spacing: inherit;">Tel.: <a href="tel:+48226020051">+48 22 602 00 51</a><br />Mail: <a href="/cdn-cgi/l/email-protection#f19a9e9f85909a85b199949d818288df819d"><span class="__cf_email__" data-cfemail="096266677d68627d49616c65797a70277965">[email&#160;protected]</span></a></span></p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-eab97fd" data-id="eab97fd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e3227be elementor-widget elementor-widget-text-editor" data-id="e3227be" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+													</div>
+				</div>
+				<div class="elementor-element elementor-element-6da3ae3 elementor-widget elementor-widget-text-editor" data-id="6da3ae3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Prowadzenie dokumentacji jeszcze nigdy nie było tak łatwe &#8211; prosty i intuicyjny system do zarządzania dokumentacją dla organizacji społecznych i pomocowych.						</div>
+				</div>
+				<div class="elementor-element elementor-element-7e22045 elementor-widget elementor-widget-html" data-id="7e22045" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<a href="/kontakt">
+    <button 
+        style="
+            background-color: #0057fc;
+            color: #fff;
+            padding: 16px 24px;
+            border-radius: 6px;
+            font-weight: 500;
+            border: none;
+        "
+    >
+        Wypróbuj za darmo
+    </button>
+</a>
+		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-section elementor-top-section elementor-element elementor-element-42ef917 border-01 elementor-section-stretched elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch" data-id="42ef917" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6800281" data-id="6800281" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6bf144d elementor-widget elementor-widget-text-editor" data-id="6bf144d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>2023 Helpsy. Tworzony z ❤️ w Warszawie przez EDGETEQ</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-689e548" data-id="689e548" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-15c1462 sala-list-layout-inline sala-list-footer elementor-widget elementor-widget-sala-list" data-id="15c1462" data-element_type="widget" data-widget_type="sala-list.default">
+				<div class="elementor-widget-container">
+					<div class="sala-list" data-id="">
+								<div class="item">
+
+						<a class="link" href="https://helpsy.pl/wp-content/uploads/2023/05/Regulamin-serwisu.docx">
+						<div class="list-header">
+																						
+							<div class="text-wrap">
+																	<div class="text">
+										Regulamin									</div>
+															</div>
+
+													</div>
+
+						</a>
+					</div>
+										<div class="item">
+
+						<a class="link" href="https://helpsy.pl/wp-content/uploads/2023/05/Polityka-cookies.docx">
+						<div class="list-header">
+																						
+							<div class="text-wrap">
+																	<div class="text">
+										Polityka cookies									</div>
+															</div>
+
+													</div>
+
+						</a>
+					</div>
+							</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</div>
+							</div>
+			</footer>
+
+	
+	
+</div><!-- End #wrapper -->
+
+
+
+	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='stylesheet' id='fluentform-elementor-widget-css' href='https://helpsy.pl/wp-content/plugins/fluentform/assets/css/fluent-forms-elementor-widget.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://helpsy.pl/wp-content/plugins/elementor/assets/css/frontend-lite.min.css' type='text/css' media='all' />
+<style id='elementor-frontend-inline-css' type='text/css'>
+.elementor-5690 .elementor-element.elementor-element-341769a > .elementor-container > .elementor-row{align-items:stretch;}.elementor-5690 .elementor-element.elementor-element-341769a{border-style:solid;border-width:1px 0px 0px 0px;border-color:#EEEEEE;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:60px 0px 40px 0px;}.elementor-5690 .elementor-element.elementor-element-341769a > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-5690 .elementor-element.elementor-element-c2e4f8c .site-logo img{max-width:100px;}.elementor-5690 .elementor-element.elementor-element-c2e4f8c .site-logo{display:flex;justify-content:flex-start;}.elementor-5690 .elementor-element.elementor-element-3125e16 .list-header{align-items:center;}.elementor-5690 .elementor-element.elementor-element-b3e0d32{color:#555555;font-size:18px;line-height:1.44em;}.elementor-5690 .elementor-element.elementor-element-6da3ae3{color:#555555;font-size:18px;line-height:1.44em;}.elementor-5690 .elementor-element.elementor-element-42ef917 > .elementor-container > .elementor-row{align-items:stretch;}.elementor-5690 .elementor-element.elementor-element-42ef917{border-style:solid;border-width:1px 0px 0px 0px;border-color:#EEEEEE;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:25px 0px 25px 0px;}.elementor-5690 .elementor-element.elementor-element-42ef917 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-5690 .elementor-element.elementor-element-6bf144d{color:#555555;font-size:14px;}.elementor-5690 .elementor-element.elementor-element-15c1462 .list-header{align-items:center;}.elementor-5690 .elementor-element.elementor-element-15c1462 .sala-list .item{padding:0px 0px 0px 24px;}.elementor-5690 .elementor-element.elementor-element-15c1462{text-align:right;}.elementor-5690 .elementor-element.elementor-element-15c1462 .text{font-size:14px;color:#111111;}.elementor-5690 .elementor-element.elementor-element-15c1462 .text .stop-a{stop-color:#111111;}.elementor-5690 .elementor-element.elementor-element-15c1462 .text .stop-b{stop-color:#111111;}.elementor-5690 .elementor-element.elementor-element-15c1462 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}@media(max-width:767px){.elementor-5690 .elementor-element.elementor-element-341769a{padding:40px 0px 40px 0px;}.elementor-5690 .elementor-element.elementor-element-b3e0d32{font-size:16px;}.elementor-5690 .elementor-element.elementor-element-6da3ae3{font-size:16px;}.elementor-5690 .elementor-element.elementor-element-6800281 > .elementor-element-populated.elementor-element-populated{padding:0px 15px 10px 15px;}.elementor-5690 .elementor-element.elementor-element-689e548 > .elementor-element-populated.elementor-element-populated{padding:0px 15px 0px 15px;}.elementor-5690 .elementor-element.elementor-element-15c1462 .sala-list .item{padding:0px 15px 0px 15px;}.elementor-5690 .elementor-element.elementor-element-15c1462{text-align:left;}}@media(min-width:768px){.elementor-5690 .elementor-element.elementor-element-c368613{width:40%;}.elementor-5690 .elementor-element.elementor-element-eab97fd{width:60%;}}@media(max-width:1024px) and (min-width:768px){.elementor-5690 .elementor-element.elementor-element-c368613{width:40%;}.elementor-5690 .elementor-element.elementor-element-eab97fd{width:20%;}}
+.elementor-kit-3655{--e-global-color-primary:#111111;--e-global-color-secondary:#333333;--e-global-color-text:#555555;--e-global-color-accent:#0057FC;--e-global-color-29f2e38:#639DAD;--e-global-color-5e52df2:#FFFFFF;--e-global-typography-primary-font-family:"Poppins";--e-global-typography-primary-font-weight:500;--e-global-typography-secondary-font-family:"Cormorant";--e-global-typography-secondary-font-size:60px;--e-global-typography-secondary-font-weight:600;--e-global-typography-secondary-line-height:62px;--e-global-typography-text-font-family:"Poppins";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Poppins";--e-global-typography-accent-font-weight:500;font-family:"Poppins", Sans-serif;font-size:16px;}.elementor-kit-3655 a{font-size:16px;}.elementor-kit-3655 h1{font-family:"Poppins", Sans-serif;font-size:54px;font-weight:600;line-height:1.22em;}.elementor-kit-3655 h2{font-family:"Poppins", Sans-serif;font-size:36px;font-weight:600;line-height:1.24em;}.elementor-kit-3655 h3{font-family:"Poppins", Sans-serif;font-size:28px;font-weight:600;line-height:1.28em;}.elementor-kit-3655 h4{font-family:"Poppins", Sans-serif;font-size:20px;font-weight:600;line-height:1.34em;}.elementor-kit-3655 h5{font-family:"Poppins", Sans-serif;font-size:17px;font-weight:600;line-height:1.42em;}.elementor-kit-3655 h6{font-family:"Poppins", Sans-serif;font-size:16px;font-weight:600;line-height:1.42em;}.elementor-kit-3655 button,.elementor-kit-3655 input[type="button"],.elementor-kit-3655 input[type="submit"],.elementor-kit-3655 .elementor-button{font-size:16px;color:#FFFFFF;background-color:#0057FC;border-radius:3px 3px 3px 3px;padding:14px 28px 14px 28px;}.elementor-kit-3655 button:hover,.elementor-kit-3655 button:focus,.elementor-kit-3655 input[type="button"]:hover,.elementor-kit-3655 input[type="button"]:focus,.elementor-kit-3655 input[type="submit"]:hover,.elementor-kit-3655 input[type="submit"]:focus,.elementor-kit-3655 .elementor-button:hover,.elementor-kit-3655 .elementor-button:focus{color:#FFFFFF;background-color:#1043B2;border-radius:3px 3px 3px 3px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1200px;}.e-con{--container-max-width:1200px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-kit-3655 h1{font-size:56px;line-height:1.22em;}.elementor-kit-3655 h2{font-size:40px;line-height:1.24em;}.elementor-kit-3655 h3{font-size:32px;line-height:1.28em;}.elementor-kit-3655 h4{font-size:24px;line-height:1.34em;}.elementor-kit-3655 h5{font-size:18px;line-height:1.42em;}.elementor-kit-3655 h6{font-size:16px;line-height:1.42em;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-3655{--e-global-typography-secondary-font-size:40px;--e-global-typography-secondary-line-height:42px;}.elementor-kit-3655 h1{font-size:40px;line-height:1.24em;}.elementor-kit-3655 h2{font-size:32px;line-height:1.28em;}.elementor-kit-3655 h3{font-size:32px;line-height:1.28em;}.elementor-kit-3655 h4{font-size:24px;line-height:1.34em;}.elementor-kit-3655 h5{font-size:18px;line-height:1.42em;}.elementor-kit-3655 h6{font-size:16px;line-height:1.42em;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}
+.elementor-widget-heading .elementor-heading-title{color:var( --e-global-color-primary );}.elementor-widget-heading.elementor-widget-heading .elementor-heading-title a:hover{color:var( --e-global-color-primary );}.elementor-widget-image .widget-image-caption{color:var( --e-global-color-text );}.elementor-widget-text-editor{color:var( --e-global-color-text );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-widget-button .elementor-button{background-color:var( --e-global-color-accent );}.elementor-widget-divider{--divider-color:var( --e-global-color-secondary );}.elementor-widget-divider .elementor-divider__text{color:var( --e-global-color-secondary );}.elementor-widget-divider.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-secondary );}.elementor-widget-divider.elementor-view-framed .elementor-icon, .elementor-widget-divider.elementor-view-default .elementor-icon{color:var( --e-global-color-secondary );border-color:var( --e-global-color-secondary );}.elementor-widget-divider.elementor-view-framed .elementor-icon, .elementor-widget-divider.elementor-view-default .elementor-icon svg{fill:var( --e-global-color-secondary );}.elementor-widget-image-box .elementor-image-box-title{color:var( --e-global-color-primary );}.elementor-widget-image-box .elementor-image-box-description{color:var( --e-global-color-text );}.elementor-widget-icon.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-primary );}.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon svg{fill:var( --e-global-color-primary );}.elementor-widget-icon-box.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-primary );}.elementor-widget-icon-box.elementor-view-framed .elementor-icon, .elementor-widget-icon-box.elementor-view-default .elementor-icon{fill:var( --e-global-color-primary );color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-widget-icon-box .elementor-icon-box-title{color:var( --e-global-color-primary );}.elementor-widget-icon-box .elementor-icon-box-description{color:var( --e-global-color-text );}.elementor-widget-star-rating .elementor-star-rating__title{color:var( --e-global-color-text );}.elementor-widget-icon-list .elementor-icon-list-item:not(:last-child):after{border-color:var( --e-global-color-text );}.elementor-widget-icon-list .elementor-icon-list-icon i{color:var( --e-global-color-primary );}.elementor-widget-icon-list .elementor-icon-list-icon svg{fill:var( --e-global-color-primary );}.elementor-widget-icon-list .elementor-icon-list-text{color:var( --e-global-color-secondary );}.elementor-widget-counter .elementor-counter-number-wrapper{color:var( --e-global-color-primary );}.elementor-widget-counter .elementor-counter-title{color:var( --e-global-color-secondary );}.elementor-widget-progress .elementor-progress-wrapper .elementor-progress-bar{background-color:var( --e-global-color-primary );}.elementor-widget-progress .elementor-title{color:var( --e-global-color-primary );}.elementor-widget-testimonial .elementor-testimonial-content{color:var( --e-global-color-text );}.elementor-widget-testimonial .elementor-testimonial-name{color:var( --e-global-color-primary );}.elementor-widget-testimonial .elementor-testimonial-job{color:var( --e-global-color-secondary );}.elementor-widget-tabs .elementor-tab-title, .elementor-widget-tabs .elementor-tab-title a{color:var( --e-global-color-primary );}.elementor-widget-tabs .elementor-tab-title.elementor-active,
+					 .elementor-widget-tabs .elementor-tab-title.elementor-active a{color:var( --e-global-color-accent );}.elementor-widget-tabs .elementor-tab-content{color:var( --e-global-color-text );}.elementor-widget-accordion .elementor-accordion-icon, .elementor-widget-accordion .elementor-accordion-title{color:var( --e-global-color-primary );}.elementor-widget-accordion .elementor-accordion-icon svg{fill:var( --e-global-color-primary );}.elementor-widget-accordion .elementor-accordion .elementor-tab-title.elementor-active{color:var( --e-global-color-accent );}.elementor-widget-accordion .elementor-accordion .elementor-tab-title:hover{color:var( --e-global-color-accent );}.elementor-widget-accordion .elementor-accordion .elementor-tab-title:hover a{color:var( --e-global-color-accent );}.elementor-widget-accordion .elementor-tab-content{color:var( --e-global-color-text );}.elementor-widget-toggle .elementor-toggle-title, .elementor-widget-toggle .elementor-toggle-icon{color:var( --e-global-color-primary );}.elementor-widget-toggle .elementor-toggle-icon svg{fill:var( --e-global-color-primary );}.elementor-widget-toggle .elementor-tab-title.elementor-active a, .elementor-widget-toggle .elementor-tab-title.elementor-active .elementor-toggle-icon{color:var( --e-global-color-accent );}.elementor-widget-toggle .elementor-tab-content{color:var( --e-global-color-text );}.elementor-widget-fluent-form-widget .ff-el-progress-status{color:var( --e-global-color-primary );}.elementor-widget-fluent-form-widget .ff-el-progress-bar span{color:var( --e-global-color-primary );}.elementor-widget-sala-circle-progress-chart .chart:after{border-color:var( --e-global-color-primary );}.elementor-widget-sala-image .widget-image-caption{color:var( --e-global-color-text );}.elementor-widget-sala-modern-menu .elementor-nav-menu--main .menu>li>a{color:var( --e-global-color-text );}.elementor-widget-sala-modern-menu .icon-menu svg g{fill:var( --e-global-color-text );}.elementor-widget-sala-modern-menu .elementor-nav-menu--main .menu>li>a:hover,
+					.elementor-widget-sala-modern-menu .elementor-nav-menu--main .menu>li>a.elementor-item-active,
+					.elementor-widget-sala-modern-menu .elementor-nav-menu--main .menu>li>a.highlighted,
+					.elementor-widget-sala-modern-menu .elementor-nav-menu--main .menu>li>a:focus{color:var( --e-global-color-accent );}.elementor-widget-sala-modern-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+					.elementor-widget-sala-modern-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after{background-color:var( --e-global-color-accent );}.elementor-widget-sala-modern-menu .e--pointer-framed .elementor-item:before,
+					.elementor-widget-sala-modern-menu .e--pointer-framed .elementor-item:after{border-color:var( --e-global-color-accent );}.elementor-widget-sala-shapes .shape{color:var( --e-global-color-primary );}.elementor-widget-sala-shapes .elementor-shape-fill{fill:var( --e-global-color-primary );}.elementor-widget-sala-separator .sala-separator .inner{color:var( --e-global-color-primary );}
+</style>
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CCormorant%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;subset=latin-ext' type='text/css' media='all' />
+<script type='text/javascript' src='https://helpsy.pl/wp-content/plugins/contact-form-7/includes/swv/js/index.js' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/helpsy.pl\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/plugins/contact-form-7/includes/js/index.js' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/plugins/date-time-picker-for-contact-form-7/assets/js/jquery.datetimepicker.full.min.js' id='walcf7-datepicker-js-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/plugins/date-time-picker-for-contact-form-7/assets/js/datetimepicker.js' id='walcf7-datepicker-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/plugins/uxper-crypto/assets/libs/select2/js/select2.min.js' id='select2-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/plugins/uxper-crypto/assets/js/socket.io.min.js' id='socket-io-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/plugins/uxper-crypto/assets/js/template.js' id='uxper_crypto_template-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Zobacz koszyk","cart_url":"https:\/\/helpsy.pl\/?page_id=17524","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js' id='woocommerce-js'></script>
+<script type='text/javascript' id='crisp-js-before'>
+    window.$crisp=[];
+    if (!window.CRISP_RUNTIME_CONFIG) {
+      window.CRISP_RUNTIME_CONFIG = {}
+    }
+
+    if (!window.CRISP_RUNTIME_CONFIG.locale) {
+      window.CRISP_RUNTIME_CONFIG.locale = 'pl-pl'
+    }
+
+    CRISP_WEBSITE_ID = '02748677-64af-46f5-8142-0e20394766b9';
+</script>
+<script type='text/javascript'  async src='https://client.crisp.chat/l.js' id='crisp-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/themes/sala/assets/libs/isotope/js/isotope.pkgd.min.js' id='isotope-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/themes/sala/assets/libs/infinite-scroll/infinite-scroll.pkgd.min.js' id='infinite-scroll-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/themes/sala/assets/libs/packery/packery-mode.pkgd.min.js' id='packery-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/themes/sala/assets/libs/atropos/atropos.min.js' id='atropos-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/themes/sala/assets/libs/swiper/js/swiper.min.js' id='swiper-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/themes/sala/assets/libs/growl/js/jquery.growl.min.js' id='growl-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/themes/sala/assets/libs/waypoints/jquery.waypoints.js' id='waypoints-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/themes/sala/assets/libs/smartmenus/jquery.smartmenus.js' id='smartmenus-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/themes/sala/assets/libs/smooth-scroll/SmoothScroll.min.js' id='smooth-scroll-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/themes/sala/assets/libs/smooth-scroll/jquery.smooth-scroll.min.js' id='jquery-smooth-scroll-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/themes/sala/assets/libs/validate/jquery.validate.min.js' id='validate-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/themes/sala/assets/libs/elastic-stack/js/modernizr.custom.js' id='modernizr-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/themes/sala/assets/libs/elastic-stack/js/draggabilly.pkgd.min.js' id='elastic-stack-pkgd-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/themes/sala/assets/libs/elastic-stack/js/elastiStack.js' id='elastic-stack-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/themes/sala/assets/libs/jquery-nice-select/js/jquery.nice-select.min.js' id='nice-select-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/themes/sala/assets/libs/elastic-stack/js/jquery.windy.js' id='windy-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/themes/sala/assets/libs/flickity/js/flickity.pkgd.min.js' id='flickity-marquee-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/themes/sala/assets/libs/jquery.countdown/js/jquery.countdownTimer.js' id='countdown-js'></script>
+<script type='text/javascript' id='sala-custom-js-js-extra'>
+/* <![CDATA[ */
+var theme_vars = {"ajax_url":"https:\/\/helpsy.pl\/wp-admin\/admin-ajax.php","header_sticky":"","content_protected_enable":"0","scroll_top_enable":"0","send_user_info":"Sending user info,please wait...","notice_cookie_enable":"","notice_cookie_confirm":"no","notice_cookie_messages":"<i class=\"fal fa-cookie-bite\"><\/i><p>We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.<\/p><a id=\"sala-button-cookie-notice-ok\" class=\"sala-button full-filled size-xs wide\">Accept all cookies<\/a>","prevText":"Prev","nextText":"Next"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/themes/sala/assets/js/custom.min.js' id='sala-custom-js-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/themes/sala//inc/elementor/assets/js/widgets/widget-list.js' id='sala-widget-list-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js' id='elementor-webpack-runtime-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/plugins/elementor/assets/js/frontend-modules.min.js' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='https://helpsy.pl/wp-includes/js/jquery/ui/core.min.js' id='jquery-ui-core-js'></script>
+<script type='text/javascript' id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Udost\u0119pnij na Facebooku","shareOnTwitter":"Udost\u0119pnij na Twitterze","pinIt":"Przypnij","download":"Pobierz","downloadImage":"Pobierz obraz","fullscreen":"Tryb pe\u0142noekranowy","zoom":"Powi\u0119ksz","share":"Udost\u0119pnij","playVideo":"Odtw\u00f3rz wideo","previous":"Poprzednie","next":"Nast\u0119pne","close":"Zamknij","a11yCarouselWrapperAriaLabel":"Karuzela | Przewijanie w poziomie: Strza\u0142ka w lewo i w prawo","a11yCarouselPrevSlideMessage":"Poprzedni slajd","a11yCarouselNextSlideMessage":"Nast\u0119pny slajd","a11yCarouselFirstSlideMessage":"To jest pierwszy slajd","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Id\u017a do slajdu"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobilny Pionowy","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobilny Poziomy","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Szeroki ekran","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.16.4","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"additional_custom_breakpoints":true,"e_swiper_latest":true,"landing-pages":true},"urls":{"assets":"https:\/\/helpsy.pl\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":0,"title":"system &#8211; Helpsy","excerpt":""}};
+</script>
+<script type='text/javascript' src='https://helpsy.pl/wp-content/plugins/elementor/assets/js/frontend.min.js' id='elementor-frontend-js'></script>
+
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"d92629936ca94e76a0917750013a2438","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced 
+
+Served from: helpsy.pl @ 2023-11-04 05:01:55 by W3 Total Cache
+-->
